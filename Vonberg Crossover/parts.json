@@ -1,0 +1,884 @@
+[
+ {
+   "partNumber": "DT-250-MFMF-5",
+   "manufacturer": "Parker",
+   "alternativePartNumber": "1104",
+   "companyName": "Vonberg",
+   "catalogLink": "https://vonberg.com/products/view/66"
+ },
+ {
+   "partNumber": "DT-370-MFMF-5",
+   "manufacturer": "Parker",
+   "alternativePartNumber": "1106",
+   "companyName": "Vonberg",
+   "catalogLink": "https://vonberg.com/products/view/66"
+ },
+ {
+   "partNumber": "DT-500-MFMF-5",
+   "manufacturer": "Parker",
+   "alternativePartNumber": "1108",
+   "companyName": "Vonberg",
+   "catalogLink": "https://vonberg.com/products/view/66"
+ },
+ {
+   "partNumber": "DT-620-MFMF-5",
+   "manufacturer": "Parker",
+   "alternativePartNumber": "1110",
+   "companyName": "Vonberg",
+   "catalogLink": "https://vonberg.com/products/view/66"
+ },
+ {
+   "partNumber": "DT-750-MFMF-5",
+   "manufacturer": "Parker",
+   "alternativePartNumber": "1112",
+   "companyName": "Vonberg",
+   "catalogLink": "https://vonberg.com/products/view/66"
+ },
+ {
+   "partNumber": "DT-1000-MFMF-5",
+   "manufacturer": "Parker",
+   "alternativePartNumber": "1116",
+   "companyName": "Vonberg",
+   "catalogLink": "https://vonberg.com/products/view/66"
+ },
+ {
+   "partNumber": "DT-1250-MFMF-5",
+   "manufacturer": "Parker",
+   "alternativePartNumber": "1120",
+   "companyName": "Vonberg",
+   "catalogLink": "https://vonberg.com/products/view/66"
+ },
+ {
+   "partNumber": "DT-250-MFMF-1",
+   "manufacturer": "Parker",
+   "alternativePartNumber": "1104-1",
+   "companyName": "Vonberg",
+   "catalogLink": "https://vonberg.com/products/view/66"
+ },
+ {
+   "partNumber": "DT-370-MFMF-1",
+   "manufacturer": "Parker",
+   "alternativePartNumber": "1106-1",
+   "companyName": "Vonberg",
+   "catalogLink": "https://vonberg.com/products/view/66"
+ },
+ {
+   "partNumber": "DT-500-MFMF-1",
+   "manufacturer": "Parker",
+   "alternativePartNumber": "1108-1",
+   "companyName": "Vonberg",
+   "catalogLink": "https://vonberg.com/products/view/66"
+ },
+ {
+   "partNumber": "DT-620-MFMF-1",
+   "manufacturer": "Parker",
+   "alternativePartNumber": "1110-1",
+   "companyName": "Vonberg",
+   "catalogLink": "https://vonberg.com/products/view/66"
+ },
+ {
+   "partNumber": "DT-750-MFMF-1",
+   "manufacturer": "Parker",
+   "alternativePartNumber": "1112-1",
+   "companyName": "Vonberg",
+   "catalogLink": "https://vonberg.com/products/view/66"
+ },
+ {
+   "partNumber": "DT-1000-MFMF-1",
+   "manufacturer": "Parker",
+   "alternativePartNumber": "1116-1",
+   "companyName": "Vonberg",
+   "catalogLink": "https://vonberg.com/products/view/66"
+ },
+ {
+   "partNumber": "DT-1250-MFMF-1",
+   "manufacturer": "Parker",
+   "alternativePartNumber": "1120-1",
+   "companyName": "Vonberg",
+   "catalogLink": "https://vonberg.com/products/view/66"
+ },
+ {
+   "partNumber": "DT-250-MFMF-65",
+   "manufacturer": "Parker",
+   "alternativePartNumber": "1104-65",
+   "companyName": "Vonberg",
+   "catalogLink": "https://vonberg.com/products/view/66"
+ },
+ {
+   "partNumber": "DT-370-MFMF-65",
+   "manufacturer": "Parker",
+   "alternativePartNumber": "1106-65",
+   "companyName": "Vonberg",
+   "catalogLink": "https://vonberg.com/products/view/66"
+ },
+ {
+   "partNumber": "DT-500-MFMF-65",
+   "manufacturer": "Parker",
+   "alternativePartNumber": "1108-65",
+   "companyName": "Vonberg",
+   "catalogLink": "https://vonberg.com/products/view/66"
+ },
+ {
+   "partNumber": "DT-620-MFMF-65",
+   "manufacturer": "Parker",
+   "alternativePartNumber": "1110-65",
+   "companyName": "Vonberg",
+   "catalogLink": "https://vonberg.com/products/view/66"
+ },
+ {
+   "partNumber": "DT-750-MFMF-65",
+   "manufacturer": "Parker",
+   "alternativePartNumber": "1112-65",
+   "companyName": "Vonberg",
+   "catalogLink": "https://vonberg.com/products/view/66"
+ },
+ {
+   "partNumber": "DT-1000-MFMF-65",
+   "manufacturer": "Parker",
+   "alternativePartNumber": "1116-65",
+   "companyName": "Vonberg",
+   "catalogLink": "https://vonberg.com/products/view/66"
+ },
+ {
+   "partNumber": "DT-1250-MFMF-65",
+   "manufacturer": "Parker",
+   "alternativePartNumber": "1120-65",
+   "companyName": "Vonberg",
+   "catalogLink": "https://vonberg.com/products/view/66"
+ },
+ {
+   "partNumber": "DT-250-MOMS-5",
+   "manufacturer": "Parker",
+   "alternativePartNumber": "1104K",
+   "companyName": "Vonberg",
+   "catalogLink": "https://vonberg.com/products/view/68"
+ },
+ {
+   "partNumber": "DT-370-MOMS-5",
+   "manufacturer": "Parker",
+   "alternativePartNumber": "1106K",
+   "companyName": "Vonberg",
+   "catalogLink": "https://vonberg.com/products/view/68"
+ },
+ {
+   "partNumber": "DT-500-MOMS-5",
+   "manufacturer": "Parker",
+   "alternativePartNumber": "1108K",
+   "companyName": "Vonberg",
+   "catalogLink": "https://vonberg.com/products/view/68"
+ },
+ {
+   "partNumber": "DT-620-MOMS-5",
+   "manufacturer": "Parker",
+   "alternativePartNumber": "1110K",
+   "companyName": "Vonberg",
+   "catalogLink": "https://vonberg.com/products/view/68"
+ },
+ {
+   "partNumber": "DT-750-MOMS-5",
+   "manufacturer": "Parker",
+   "alternativePartNumber": "1112K",
+   "companyName": "Vonberg",
+   "catalogLink": "https://vonberg.com/products/view/68"
+ },
+ {
+   "partNumber": "DT-1000-MOMS-5",
+   "manufacturer": "Parker",
+   "alternativePartNumber": "1116K",
+   "companyName": "Vonberg",
+   "catalogLink": "https://vonberg.com/products/view/68"
+ },
+ {
+   "partNumber": "DT-1250-MOMS-5",
+   "manufacturer": "Parker",
+   "alternativePartNumber": "1120K",
+   "companyName": "Vonberg",
+   "catalogLink": "https://vonberg.com/products/view/68"
+ },
+ {
+   "partNumber": "DT-250-MOMS-1",
+   "manufacturer": "Parker",
+   "alternativePartNumber": "1104K-1",
+   "companyName": "Vonberg",
+   "catalogLink": "https://vonberg.com/products/view/68"
+ },
+ {
+   "partNumber": "DT-370-MOMS-1",
+   "manufacturer": "Parker",
+   "alternativePartNumber": "1106K-1",
+   "companyName": "Vonberg",
+   "catalogLink": "https://vonberg.com/products/view/68"
+ },
+ {
+   "partNumber": "DT-500-MOMS-1",
+   "manufacturer": "Parker",
+   "alternativePartNumber": "1108K-1",
+   "companyName": "Vonberg",
+   "catalogLink": "https://vonberg.com/products/view/68"
+ },
+ {
+   "partNumber": "DT-620-MOMS-1",
+   "manufacturer": "Parker",
+   "alternativePartNumber": "1110K-1",
+   "companyName": "Vonberg",
+   "catalogLink": "https://vonberg.com/products/view/68"
+ },
+ {
+   "partNumber": "DT-750-MOMS-1",
+   "manufacturer": "Parker",
+   "alternativePartNumber": "1112K-1",
+   "companyName": "Vonberg",
+   "catalogLink": "https://vonberg.com/products/view/68"
+ },
+ {
+   "partNumber": "DT-1000-MOMS-1",
+   "manufacturer": "Parker",
+   "alternativePartNumber": "1116K-1",
+   "companyName": "Vonberg",
+   "catalogLink": "https://vonberg.com/products/view/68"
+ },
+ {
+   "partNumber": "DT-1250-MOMS-1",
+   "manufacturer": "Parker",
+   "alternativePartNumber": "1120K-1",
+   "companyName": "Vonberg",
+   "catalogLink": "https://vonberg.com/products/view/68"
+ },
+ {
+   "partNumber": "DT-250-MOMS-65",
+   "manufacturer": "Parker",
+   "alternativePartNumber": "1104K-65",
+   "companyName": "Vonberg",
+   "catalogLink": "https://vonberg.com/products/view/68"
+ },
+ {
+   "partNumber": "DT-370-MOMS-65",
+   "manufacturer": "Parker",
+   "alternativePartNumber": "1106K-65",
+   "companyName": "Vonberg",
+   "catalogLink": "https://vonberg.com/products/view/68"
+ },
+ {
+   "partNumber": "DT-500-MOMS-65",
+   "manufacturer": "Parker",
+   "alternativePartNumber": "1108K-65",
+   "companyName": "Vonberg",
+   "catalogLink": "https://vonberg.com/products/view/68"
+ },
+ {
+   "partNumber": "DT-620-MOMS-65",
+   "manufacturer": "Parker",
+   "alternativePartNumber": "1110K-65",
+   "companyName": "Vonberg",
+   "catalogLink": "https://vonberg.com/products/view/68"
+ },
+ {
+   "partNumber": "DT-750-MOMS-65",
+   "manufacturer": "Parker",
+   "alternativePartNumber": "1112K-65",
+   "companyName": "Vonberg",
+   "catalogLink": "https://vonberg.com/products/view/68"
+ },
+ {
+   "partNumber": "DT-1000-MOMS-65",
+   "manufacturer": "Parker",
+   "alternativePartNumber": "1116K-65",
+   "companyName": "Vonberg",
+   "catalogLink": "https://vonberg.com/products/view/68"
+ },
+ {
+   "partNumber": "DT-1250-MOMS-65",
+   "manufacturer": "Parker",
+   "alternativePartNumber": "1120K-65",
+   "companyName": "Vonberg",
+   "catalogLink": "https://vonberg.com/products/view/68"
+ },
+ {
+   "partNumber": "DT-250-MSMO-5",
+   "manufacturer": "Parker",
+   "alternativePartNumber": "1104J",
+   "companyName": "Vonberg",
+   "catalogLink": "https://vonberg.com/products/view/67"
+ },
+ {
+   "partNumber": "DT-370-MSMO-5",
+   "manufacturer": "Parker",
+   "alternativePartNumber": "1106J",
+   "companyName": "Vonberg",
+   "catalogLink": "https://vonberg.com/products/view/67"
+ },
+ {
+   "partNumber": "DT-500-MSMO-5",
+   "manufacturer": "Parker",
+   "alternativePartNumber": "1108J",
+   "companyName": "Vonberg",
+   "catalogLink": "https://vonberg.com/products/view/67"
+ },
+ {
+   "partNumber": "DT-620-MSMO-5",
+   "manufacturer": "Parker",
+   "alternativePartNumber": "1110J",
+   "companyName": "Vonberg",
+   "catalogLink": "https://vonberg.com/products/view/67"
+ },
+ {
+   "partNumber": "DT-750-MSMO-5",
+   "manufacturer": "Parker",
+   "alternativePartNumber": "1112J",
+   "companyName": "Vonberg",
+   "catalogLink": "https://vonberg.com/products/view/67"
+ },
+ {
+   "partNumber": "DT-1000-MSMO-5",
+   "manufacturer": "Parker",
+   "alternativePartNumber": "1116J",
+   "companyName": "Vonberg",
+   "catalogLink": "https://vonberg.com/products/view/67"
+ },
+ {
+   "partNumber": "DT-1250-MSMO-5",
+   "manufacturer": "Parker",
+   "alternativePartNumber": "1120J",
+   "companyName": "Vonberg",
+   "catalogLink": "https://vonberg.com/products/view/67"
+ },
+ {
+   "partNumber": "DT-250-MSMO-1",
+   "manufacturer": "Parker",
+   "alternativePartNumber": "1104J-1",
+   "companyName": "Vonberg",
+   "catalogLink": "https://vonberg.com/products/view/67"
+ },
+ {
+   "partNumber": "DT-370-MSMO-1",
+   "manufacturer": "Parker",
+   "alternativePartNumber": "1106J-1",
+   "companyName": "Vonberg",
+   "catalogLink": "https://vonberg.com/products/view/67"
+ },
+ {
+   "partNumber": "DT-500-MSMO-1",
+   "manufacturer": "Parker",
+   "alternativePartNumber": "1108J-1",
+   "companyName": "Vonberg",
+   "catalogLink": "https://vonberg.com/products/view/67"
+ },
+ {
+   "partNumber": "DT-620-MSMO-1",
+   "manufacturer": "Parker",
+   "alternativePartNumber": "1110J-1",
+   "companyName": "Vonberg",
+   "catalogLink": "https://vonberg.com/products/view/67"
+ },
+ {
+   "partNumber": "DT-750-MSMO-1",
+   "manufacturer": "Parker",
+   "alternativePartNumber": "1112J-1",
+   "companyName": "Vonberg",
+   "catalogLink": "https://vonberg.com/products/view/67"
+ },
+ {
+   "partNumber": "DT-1000-MSMO-1",
+   "manufacturer": "Parker",
+   "alternativePartNumber": "1116J-1",
+   "companyName": "Vonberg",
+   "catalogLink": "https://vonberg.com/products/view/67"
+ },
+ {
+   "partNumber": "DT-1250-MSMO-1",
+   "manufacturer": "Parker",
+   "alternativePartNumber": "1120J-1",
+   "companyName": "Vonberg",
+   "catalogLink": "https://vonberg.com/products/view/67"
+ },
+ {
+   "partNumber": "DT-250-MSMO-65",
+   "manufacturer": "Parker",
+   "alternativePartNumber": "1104J-65",
+   "companyName": "Vonberg",
+   "catalogLink": "https://vonberg.com/products/view/67"
+ },
+ {
+   "partNumber": "DT-370-MSMO-65",
+   "manufacturer": "Parker",
+   "alternativePartNumber": "1106J-65",
+   "companyName": "Vonberg",
+   "catalogLink": "https://vonberg.com/products/view/67"
+ },
+ {
+   "partNumber": "DT-500-MSMO-65",
+   "manufacturer": "Parker",
+   "alternativePartNumber": "1108J-65",
+   "companyName": "Vonberg",
+   "catalogLink": "https://vonberg.com/products/view/67"
+ },
+ {
+   "partNumber": "DT-620-MSMO-65",
+   "manufacturer": "Parker",
+   "alternativePartNumber": "1110J-65",
+   "companyName": "Vonberg",
+   "catalogLink": "https://vonberg.com/products/view/67"
+ },
+ {
+   "partNumber": "DT-750-MSMO-65",
+   "manufacturer": "Parker",
+   "alternativePartNumber": "1112J-65",
+   "companyName": "Vonberg",
+   "catalogLink": "https://vonberg.com/products/view/67"
+ },
+ {
+   "partNumber": "DT-1000-MSMO-65",
+   "manufacturer": "Parker",
+   "alternativePartNumber": "1116J-65",
+   "companyName": "Vonberg",
+   "catalogLink": "https://vonberg.com/products/view/67"
+ },
+ {
+   "partNumber": "DT-1250-MSMO-65",
+   "manufacturer": "Parker",
+   "alternativePartNumber": "1120J-65",
+   "companyName": "Vonberg",
+   "catalogLink": "https://vonberg.com/products/view/67"
+ },
+ {
+   "partNumber": "DT-250-MOMF-5",
+   "manufacturer": "Parker",
+   "alternativePartNumber": "1104R",
+   "companyName": "Vonberg",
+   "catalogLink": "https://vonberg.com/products/view/19"
+ },
+ {
+   "partNumber": "DT-370-MOMF-5",
+   "manufacturer": "Parker",
+   "alternativePartNumber": "1106R",
+   "companyName": "Vonberg",
+   "catalogLink": "https://vonberg.com/products/view/19"
+ },
+ {
+   "partNumber": "DT-500-MOMF-5",
+   "manufacturer": "Parker",
+   "alternativePartNumber": "1108R",
+   "companyName": "Vonberg",
+   "catalogLink": "https://vonberg.com/products/view/19"
+ },
+ {
+   "partNumber": "DT-620-MOMF-5",
+   "manufacturer": "Parker",
+   "alternativePartNumber": "1110R",
+   "companyName": "Vonberg",
+   "catalogLink": "https://vonberg.com/products/view/19"
+ },
+ {
+   "partNumber": "DT-750-MOMF-5",
+   "manufacturer": "Parker",
+   "alternativePartNumber": "1112R",
+   "companyName": "Vonberg",
+   "catalogLink": "https://vonberg.com/products/view/19"
+ },
+ {
+   "partNumber": "DT-1000-MOMF-5",
+   "manufacturer": "Parker",
+   "alternativePartNumber": "1116R",
+   "companyName": "Vonberg",
+   "catalogLink": "https://vonberg.com/products/view/19"
+ },
+ {
+   "partNumber": "DT-1250-MOMF-5",
+   "manufacturer": "Parker",
+   "alternativePartNumber": "1120R",
+   "companyName": "Vonberg",
+   "catalogLink": "https://vonberg.com/products/view/19"
+ },
+ {
+   "partNumber": "DT-250-MOMF-1",
+   "manufacturer": "Parker",
+   "alternativePartNumber": "1104R-1",
+   "companyName": "Vonberg",
+   "catalogLink": "https://vonberg.com/products/view/19"
+ },
+ {
+   "partNumber": "DT-370-MOMF-1",
+   "manufacturer": "Parker",
+   "alternativePartNumber": "1106R-1",
+   "companyName": "Vonberg",
+   "catalogLink": "https://vonberg.com/products/view/19"
+ },
+ {
+   "partNumber": "DT-500-MOMF-1",
+   "manufacturer": "Parker",
+   "alternativePartNumber": "1108R-1",
+   "companyName": "Vonberg",
+   "catalogLink": "https://vonberg.com/products/view/19"
+ },
+ {
+   "partNumber": "DT-620-MOMF-1",
+   "manufacturer": "Parker",
+   "alternativePartNumber": "1110R-1",
+   "companyName": "Vonberg",
+   "catalogLink": "https://vonberg.com/products/view/19"
+ },
+ {
+   "partNumber": "DT-750-MOMF-1",
+   "manufacturer": "Parker",
+   "alternativePartNumber": "1112R-1",
+   "companyName": "Vonberg",
+   "catalogLink": "https://vonberg.com/products/view/19"
+ },
+ {
+   "partNumber": "DT-1000-MOMF-1",
+   "manufacturer": "Parker",
+   "alternativePartNumber": "1116R-1",
+   "companyName": "Vonberg",
+   "catalogLink": "https://vonberg.com/products/view/19"
+ },
+ {
+   "partNumber": "DT-1250-MOMF-1",
+   "manufacturer": "Parker",
+   "alternativePartNumber": "1120R-1",
+   "companyName": "Vonberg",
+   "catalogLink": "https://vonberg.com/products/view/19"
+ },
+ {
+   "partNumber": "DT-250-MOMF-65",
+   "manufacturer": "Parker",
+   "alternativePartNumber": "1104R-65",
+   "companyName": "Vonberg",
+   "catalogLink": "https://vonberg.com/products/view/19"
+ },
+ {
+   "partNumber": "DT-370-MOMF-65",
+   "manufacturer": "Parker",
+   "alternativePartNumber": "1106R-65",
+   "companyName": "Vonberg",
+   "catalogLink": "https://vonberg.com/products/view/19"
+ },
+ {
+   "partNumber": "DT-500-MOMF-65",
+   "manufacturer": "Parker",
+   "alternativePartNumber": "1108R-65",
+   "companyName": "Vonberg",
+   "catalogLink": "https://vonberg.com/products/view/19"
+ },
+ {
+   "partNumber": "DT-620-MOMF-65",
+   "manufacturer": "Parker",
+   "alternativePartNumber": "1110R-65",
+   "companyName": "Vonberg",
+   "catalogLink": "https://vonberg.com/products/view/19"
+ },
+ {
+   "partNumber": "DT-750-MOMF-65",
+   "manufacturer": "Parker",
+   "alternativePartNumber": "1112R-65",
+   "companyName": "Vonberg",
+   "catalogLink": "https://vonberg.com/products/view/19"
+ },
+ {
+   "partNumber": "DT-1000-MOMF-65",
+   "manufacturer": "Parker",
+   "alternativePartNumber": "1116R-65",
+   "companyName": "Vonberg",
+   "catalogLink": "https://vonberg.com/products/view/19"
+ },
+ {
+   "partNumber": "DT-1250-MOMF-65",
+   "manufacturer": "Parker",
+   "alternativePartNumber": "1120R-65",
+   "companyName": "Vonberg",
+   "catalogLink": "https://vonberg.com/products/view/19"
+ },
+ {
+   "partNumber": "DT-250-MFMO-5",
+   "manufacturer": "Parker",
+   "alternativePartNumber": "1104F",
+   "companyName": "Vonberg",
+   "catalogLink": "https://vonberg.com/products/view/6"
+ },
+ {
+   "partNumber": "DT-370-MFMO-5",
+   "manufacturer": "Parker",
+   "alternativePartNumber": "1106F",
+   "companyName": "Vonberg",
+   "catalogLink": "https://vonberg.com/products/view/6"
+ },
+ {
+   "partNumber": "DT-500-MFMO-5",
+   "manufacturer": "Parker",
+   "alternativePartNumber": "1108F",
+   "companyName": "Vonberg",
+   "catalogLink": "https://vonberg.com/products/view/6"
+ },
+ {
+   "partNumber": "DT-620-MFMO-5",
+   "manufacturer": "Parker",
+   "alternativePartNumber": "1110F",
+   "companyName": "Vonberg",
+   "catalogLink": "https://vonberg.com/products/view/6"
+ },
+ {
+   "partNumber": "DT-750-MFMO-5",
+   "manufacturer": "Parker",
+   "alternativePartNumber": "1112F",
+   "companyName": "Vonberg",
+   "catalogLink": "https://vonberg.com/products/view/6"
+ },
+ {
+   "partNumber": "DT-1000-MFMO-5",
+   "manufacturer": "Parker",
+   "alternativePartNumber": "1116F",
+   "companyName": "Vonberg",
+   "catalogLink": "https://vonberg.com/products/view/6"
+ },
+ {
+   "partNumber": "DT-1250-MFMO-5",
+   "manufacturer": "Parker",
+   "alternativePartNumber": "1120F",
+   "companyName": "Vonberg",
+   "catalogLink": "https://vonberg.com/products/view/6"
+ },
+ {
+   "partNumber": "DT-250-MFMO-1",
+   "manufacturer": "Parker",
+   "alternativePartNumber": "1104F-1",
+   "companyName": "Vonberg",
+   "catalogLink": "https://vonberg.com/products/view/6"
+ },
+ {
+   "partNumber": "DT-370-MFMO-1",
+   "manufacturer": "Parker",
+   "alternativePartNumber": "1106F-1",
+   "companyName": "Vonberg",
+   "catalogLink": "https://vonberg.com/products/view/6"
+ },
+ {
+   "partNumber": "DT-500-MFMO-1",
+   "manufacturer": "Parker",
+   "alternativePartNumber": "1108F-1",
+   "companyName": "Vonberg",
+   "catalogLink": "https://vonberg.com/products/view/6"
+ },
+ {
+   "partNumber": "DT-620-MFMO-1",
+   "manufacturer": "Parker",
+   "alternativePartNumber": "1110F-1",
+   "companyName": "Vonberg",
+   "catalogLink": "https://vonberg.com/products/view/6"
+ },
+ {
+   "partNumber": "DT-750-MFMO-1",
+   "manufacturer": "Parker",
+   "alternativePartNumber": "1112F-1",
+   "companyName": "Vonberg",
+   "catalogLink": "https://vonberg.com/products/view/6"
+ },
+ {
+   "partNumber": "DT-1000-MFMO-1",
+   "manufacturer": "Parker",
+   "alternativePartNumber": "1116F-1",
+   "companyName": "Vonberg",
+   "catalogLink": "https://vonberg.com/products/view/6"
+ },
+ {
+   "partNumber": "DT-1250-MFMO-1",
+   "manufacturer": "Parker",
+   "alternativePartNumber": "1120F-1",
+   "companyName": "Vonberg",
+   "catalogLink": "https://vonberg.com/products/view/6"
+ },
+ {
+   "partNumber": "DT-250-MFMO-65",
+   "manufacturer": "Parker",
+   "alternativePartNumber": "1104F-65",
+   "companyName": "Vonberg",
+   "catalogLink": "https://vonberg.com/products/view/6"
+ },
+ {
+   "partNumber": "DT-370-MFMO-65",
+   "manufacturer": "Parker",
+   "alternativePartNumber": "1106F-65",
+   "companyName": "Vonberg",
+   "catalogLink": "https://vonberg.com/products/view/6"
+ },
+ {
+   "partNumber": "DT-500-MFMO-65",
+   "manufacturer": "Parker",
+   "alternativePartNumber": "1108F-65",
+   "companyName": "Vonberg",
+   "catalogLink": "https://vonberg.com/products/view/6"
+ },
+ {
+   "partNumber": "DT-620-MFMO-65",
+   "manufacturer": "Parker",
+   "alternativePartNumber": "1110F-65",
+   "companyName": "Vonberg",
+   "catalogLink": "https://vonberg.com/products/view/6"
+ },
+ {
+   "partNumber": "DT-750-MFMO-65",
+   "manufacturer": "Parker",
+   "alternativePartNumber": "1112F-65",
+   "companyName": "Vonberg",
+   "catalogLink": "https://vonberg.com/products/view/6"
+ },
+ {
+   "partNumber": "DT-1000-MFMO-65",
+   "manufacturer": "Parker",
+   "alternativePartNumber": "1116F-65",
+   "companyName": "Vonberg",
+   "catalogLink": "https://vonberg.com/products/view/6"
+ },
+ {
+   "partNumber": "DT-1250-MFMO-65",
+   "manufacturer": "Parker",
+   "alternativePartNumber": "1120F-65",
+   "companyName": "Vonberg",
+   "catalogLink": "https://vonberg.com/products/view/6"
+ },
+ {
+   "partNumber": "DT-250-MSMS-5",
+   "manufacturer": "Parker",
+   "alternativePartNumber": "1904FS",
+   "companyName": "Vonberg",
+   "catalogLink": "https://vonberg.com/products/view/62"
+ },
+ {
+   "partNumber": "DT-370-MSMS-5",
+   "manufacturer": "Parker",
+   "alternativePartNumber": "1906FS",
+   "companyName": "Vonberg",
+   "catalogLink": "https://vonberg.com/products/view/62"
+ },
+ {
+   "partNumber": "DT-500-MSMS-5",
+   "manufacturer": "Parker",
+   "alternativePartNumber": "1908FS",
+   "companyName": "Vonberg",
+   "catalogLink": "https://vonberg.com/products/view/62"
+ },
+ {
+   "partNumber": "DT-620-MSMS-5",
+   "manufacturer": "Parker",
+   "alternativePartNumber": "1910FS",
+   "companyName": "Vonberg",
+   "catalogLink": "https://vonberg.com/products/view/62"
+ },
+ {
+   "partNumber": "DT-750-MSMS-5",
+   "manufacturer": "Parker",
+   "alternativePartNumber": "1912FS",
+   "companyName": "Vonberg",
+   "catalogLink": "https://vonberg.com/products/view/62"
+ },
+ {
+   "partNumber": "DT-1000-MSMS-5",
+   "manufacturer": "Parker",
+   "alternativePartNumber": "1916FS",
+   "companyName": "Vonberg",
+   "catalogLink": "https://vonberg.com/products/view/62"
+ },
+ {
+   "partNumber": "DT-1250-MSMS-5",
+   "manufacturer": "Parker",
+   "alternativePartNumber": "1920FS",
+   "companyName": "Vonberg",
+   "catalogLink": "https://vonberg.com/products/view/62"
+ },
+ {
+   "partNumber": "DT-250-MSMS-1",
+   "manufacturer": "Parker",
+   "alternativePartNumber": "1904FS-1",
+   "companyName": "Vonberg",
+   "catalogLink": "https://vonberg.com/products/view/62"
+ },
+ {
+   "partNumber": "DT-370-MSMS-1",
+   "manufacturer": "Parker",
+   "alternativePartNumber": "1906FS-1",
+   "companyName": "Vonberg",
+   "catalogLink": "https://vonberg.com/products/view/62"
+ },
+ {
+   "partNumber": "DT-500-MSMS-1",
+   "manufacturer": "Parker",
+   "alternativePartNumber": "1908FS-1",
+   "companyName": "Vonberg",
+   "catalogLink": "https://vonberg.com/products/view/62"
+ },
+ {
+   "partNumber": "DT-620-MSMS-1",
+   "manufacturer": "Parker",
+   "alternativePartNumber": "1910FS-1",
+   "companyName": "Vonberg",
+   "catalogLink": "https://vonberg.com/products/view/62"
+ },
+ {
+   "partNumber": "DT-750-MSMS-1",
+   "manufacturer": "Parker",
+   "alternativePartNumber": "1912FS-1",
+   "companyName": "Vonberg",
+   "catalogLink": "https://vonberg.com/products/view/62"
+ },
+ {
+   "partNumber": "DT-1000-MSMS-1",
+   "manufacturer": "Parker",
+   "alternativePartNumber": "1916FS-1",
+   "companyName": "Vonberg",
+   "catalogLink": "https://vonberg.com/products/view/62"
+ },
+ {
+   "partNumber": "DT-1250-MSMS-1",
+   "manufacturer": "Parker",
+   "alternativePartNumber": "1920FS-1",
+   "companyName": "Vonberg",
+   "catalogLink": "https://vonberg.com/products/view/62"
+ },
+ {
+   "partNumber": "DT-250-MSMS-65",
+   "manufacturer": "Parker",
+   "alternativePartNumber": "1904FS-65",
+   "companyName": "Vonberg",
+   "catalogLink": "https://vonberg.com/products/view/62"
+ },
+ {
+   "partNumber": "DT-370-MSMS-65",
+   "manufacturer": "Parker",
+   "alternativePartNumber": "1906FS-65",
+   "companyName": "Vonberg",
+   "catalogLink": "https://vonberg.com/products/view/62"
+ },
+ {
+   "partNumber": "DT-500-MSMS-65",
+   "manufacturer": "Parker",
+   "alternativePartNumber": "1908FS-65",
+   "companyName": "Vonberg",
+   "catalogLink": "https://vonberg.com/products/view/62"
+ },
+ {
+   "partNumber": "DT-620-MSMS-65",
+   "manufacturer": "Parker",
+   "alternativePartNumber": "1910FS-65",
+   "companyName": "Vonberg",
+   "catalogLink": "https://vonberg.com/products/view/62"
+ },
+ {
+   "partNumber": "DT-750-MSMS-65",
+   "manufacturer": "Parker",
+   "alternativePartNumber": "1912FS-65",
+   "companyName": "Vonberg",
+   "catalogLink": "https://vonberg.com/products/view/62"
+ },
+ {
+   "partNumber": "DT-1000-MSMS-65",
+   "manufacturer": "Parker",
+   "alternativePartNumber": "1916FS-65",
+   "companyName": "Vonberg",
+   "catalogLink": "https://vonberg.com/products/view/62"
+ },
+ {
+   "partNumber": "DT-1250-MSMS-65",
+   "manufacturer": "Parker",
+   "alternativePartNumber": "1920FS-65",
+   "companyName": "Vonberg",
+   "catalogLink": "https://vonberg.com/products/view/62"
+ }
+]
