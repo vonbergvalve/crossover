@@ -1,1 +1,84 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+}
+
+.search-container {
+  display: flex;
+  justify-content: center;
+  padding: 1rem;
+  box-sizing: border-box;
+  position: relative;
+}
+
+.search-wrapper {
+  display: flex;
+  width: 600px;  /* set a fixed width */
+  box-sizing: border-box;
+  position: relative;  /* add relative positioning */
+}
+
+#search-input {
+  flex-grow: 1;
+  padding: 12px 16px;
+  font-size: 1rem;
+  box-sizing: border-box;
+  margin: 8px 0;
+}
+
+.suggestions {
+  position: absolute;
+  top: 100%;
+  left: 0;  /* adjust as per need */
+  background: white;
+  border: 1px solid #ddd;
+  z-index: 1000; /* increased the z-index */
+  width: 100%;  /* set width to 100% */
+  box-sizing: border-box;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  display: none;
+}
+
+.suggestions p {
+  padding: 8px;
+  margin: 0;
+  cursor: pointer;
+}
+
+.suggestions p:hover {
+  background-color: #095713;
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+table, th, td {
+  border: 1px solid black;
+}
+
+th, td {
+  padding: 8px;
+  text-align: left;
+}
+
+th {
+  background: #f5f5f5;
+}
+
+/* Responsive styles */
+@media screen and (max-width: 768px) {
+  table, th, td {
+    font-size: 0.8rem;
+  }
+
+  #search-input {
+    font-size: 0.9rem;
+  }
+}
 
