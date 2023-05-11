@@ -70,7 +70,7 @@ document.addEventListener("DOMContentLoaded", () => {
         <td>${result.partNumber}</td>
         <td>${result.manufacturer}</td>
         <td>${result.alternativePartNumber}</td>
-        <td><a href="${result.catalogLink}" target="_blank">View Catalog</a></td>
+        <td><a href="${result.catalogLink}">View Catalog</a></td>
         <td><button class="inquiry-button">Inquire</button></td>
       `;
       const inquiryButton = tr.querySelector(".inquiry-button");
