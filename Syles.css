@@ -64,7 +64,7 @@ table, th, td {
 
 th, td {
   padding: 8px;
-  text-align: left;
+  text-align: center;
 }
 
 th {
@@ -81,4 +81,3 @@ th {
     font-size: 0.9rem;
   }
 }
-
