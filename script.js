@@ -7,6 +7,12 @@ document.addEventListener("DOMContentLoaded", () => {
   // Hide table headings initially
   resultsTable.style.display = "none";
 
+  // Retrieve the search results from session storage
+  const storedResults = sessionStorage.getItem("searchResults");
+  if (storedResults) {
+    displayResults(JSON.parse(storedResults));
+  }
+
   searchInput.addEventListener("input", async (e) => {
     const query = e.target.value.trim().toLowerCase().replace(/-/g, '').replace(/ /g, '');
     suggestions.style.display = "none";
@@ -63,6 +69,9 @@ document.addEventListener("DOMContentLoaded", () => {
   }
 
   function displayResults(results) {
+    // Save the search results in session storage
+    sessionStorage.setItem("searchResults", JSON.stringify(results));
+
     resultsBody.innerHTML = "";
     results.forEach((result) => {
       const tr = document.createElement("tr");
@@ -77,7 +86,6 @@ document.addEventListener("DOMContentLoaded", () => {
       inquiryButton.addEventListener('click', () => {
         const quantity = prompt("Please enter the quantity you wish to inquire about:");
         const timeNeeded = prompt("Please enter the number of days or weeks by which you need the parts (e.g., 5 days or 2 weeks):");
-
         if (quantity !== null && timeNeeded !== null) {
     const emailLink = `mailto:info@vonberg.com?subject=Price%20and%20Availability%20Inquiry%20for%20${result.alternativePartNumber}&body=To%3A%20Vonberg%20Valve%2C%0D%0A%0D%0AI'm%20interested%20in%20your%20part%20number%20${result.alternativePartNumber}.%20I%20am%20looking%20for%20a%20replacement%20for%20the%20Parker%20valve%20${result.partNumber}.%20I%20need%20${quantity}%20units%20within%20${timeNeeded}.%20Could%20you%20please%20provide%20the%20price%20and%20availability?`;
     window.location.href = emailLink;
@@ -106,4 +114,5 @@ document.addEventListener("DOMContentLoaded", () => {
     suggestions.style.display = "none";
   });
 });
+
 
