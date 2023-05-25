@@ -56,14 +56,15 @@ document.addEventListener("DOMContentLoaded", () => {
     suggestions.style.display = "none";
     searchInput.value = suggestion.partNumber;
 
-    const fakeResults = [
-      {
-        partNumber: suggestion.partNumber,
-        manufacturer: suggestion.manufacturer,
-        alternativePartNumber: suggestion.alternativePartNumber,
-        catalogLink: suggestion.catalogLink,
-      },
-    ];
+    const alternativeParts = suggestion.alternativePartNumber.split(';');
+    const catalogLinks = suggestion.catalogLink.split(';');
+
+    const fakeResults = alternativeParts.map((alternativePart, index) => ({
+      partNumber: suggestion.partNumber,
+      manufacturer: suggestion.manufacturer,
+      alternativePartNumber: alternativePart,
+      catalogLink: catalogLinks[index] || ''
+    }));
 
     displayResults(fakeResults);
   }
@@ -75,24 +76,26 @@ document.addEventListener("DOMContentLoaded", () => {
     resultsBody.innerHTML = "";
     results.forEach((result) => {
       const tr = document.createElement("tr");
+
+      let catalogLinkHtml = result.catalogLink ? `<a href="${result.catalogLink}">View Catalog</a>` : '';
+
       tr.innerHTML = `
+        <td>${result.alternativePartNumber}</td>
         <td>${result.partNumber}</td>
         <td>${result.manufacturer}</td>
-        <td>${result.alternativePartNumber}</td>
-        <td><a href="${result.catalogLink}">View Catalog</a></td>
+        <td>${catalogLinkHtml}</td>
         <td><button class="inquiry-button">Inquire</button></td>
       `;
+
       const inquiryButton = tr.querySelector(".inquiry-button");
       inquiryButton.addEventListener('click', () => {
         const quantity = prompt("Please enter the quantity you wish to inquire about:");
         const timeNeeded = prompt("Please enter the number of days or weeks by which you need the parts (e.g., 5 days or 2 weeks):");
         if (quantity !== null && timeNeeded !== null) {
-    const emailLink = `mailto:info@vonberg.com?subject=Price%20and%20Availability%20Inquiry%20for%20${result.alternativePartNumber}&body=To%3A%20Vonberg%20Valve%2C%0D%0A%0D%0AI'm%20interested%20in%20your%20part%20number%20${result.alternativePartNumber}.%20I%20am%20looking%20for%20a%20replacement%20for%20the%20Parker%20valve%20${result.partNumber}.%20I%20need%20${quantity}%20units%20within%20${timeNeeded}.%20Could%20you%20please%20provide%20the%20price%20and%20availability?`;
-    window.location.href = emailLink;
-  }
-});
-
-      
+          const emailLink = `mailto:info@vonberg.com?subject=Price%20and%20Availability%20Inquiry%20for%20${result.alternativePartNumber}&body=To%3A%20Vonberg%20Valve%2C%0D%0A%0D%0AI'm%20interested%20in%20your%20part%20number%20${result.alternativePartNumber}.%20I%20am%20looking%20for%20a%20replacement%20for%20the%20Parker%20valve%20${result.partNumber}.%20I%20need%20${quantity}%20units%20within%20${timeNeeded}.%20Could%20you%20please%20provide%20the%20price%20and%20availability?`;
+          window.location.href = emailLink;
+        }
+      });
 
       resultsBody.appendChild(tr);
     });
@@ -114,5 +117,3 @@ document.addEventListener("DOMContentLoaded", () => {
     suggestions.style.display = "none";
   });
 });
-
-
