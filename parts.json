@@ -1,884 +1,4742 @@
 [
- {
-   "partNumber": "DT-250-MFMF-5",
-   "manufacturer": "Parker",
-   "alternativePartNumber": "1104",
-   "companyName": "Vonberg",
-   "catalogLink": "https://vonberg.com/products/view/66"
- },
- {
-   "partNumber": "DT-370-MFMF-5",
-   "manufacturer": "Parker",
-   "alternativePartNumber": "1106",
-   "companyName": "Vonberg",
-   "catalogLink": "https://vonberg.com/products/view/66"
- },
- {
-   "partNumber": "DT-500-MFMF-5",
-   "manufacturer": "Parker",
-   "alternativePartNumber": "1108",
-   "companyName": "Vonberg",
-   "catalogLink": "https://vonberg.com/products/view/66"
- },
- {
-   "partNumber": "DT-620-MFMF-5",
-   "manufacturer": "Parker",
-   "alternativePartNumber": "1110",
-   "companyName": "Vonberg",
-   "catalogLink": "https://vonberg.com/products/view/66"
- },
- {
-   "partNumber": "DT-750-MFMF-5",
-   "manufacturer": "Parker",
-   "alternativePartNumber": "1112",
-   "companyName": "Vonberg",
-   "catalogLink": "https://vonberg.com/products/view/66"
- },
- {
-   "partNumber": "DT-1000-MFMF-5",
-   "manufacturer": "Parker",
-   "alternativePartNumber": "1116",
-   "companyName": "Vonberg",
-   "catalogLink": "https://vonberg.com/products/view/66"
- },
- {
-   "partNumber": "DT-1250-MFMF-5",
-   "manufacturer": "Parker",
-   "alternativePartNumber": "1120",
-   "companyName": "Vonberg",
-   "catalogLink": "https://vonberg.com/products/view/66"
- },
- {
-   "partNumber": "DT-250-MFMF-1",
-   "manufacturer": "Parker",
-   "alternativePartNumber": "1104-1",
-   "companyName": "Vonberg",
-   "catalogLink": "https://vonberg.com/products/view/66"
- },
- {
-   "partNumber": "DT-370-MFMF-1",
-   "manufacturer": "Parker",
-   "alternativePartNumber": "1106-1",
-   "companyName": "Vonberg",
-   "catalogLink": "https://vonberg.com/products/view/66"
- },
- {
-   "partNumber": "DT-500-MFMF-1",
-   "manufacturer": "Parker",
-   "alternativePartNumber": "1108-1",
-   "companyName": "Vonberg",
-   "catalogLink": "https://vonberg.com/products/view/66"
- },
- {
-   "partNumber": "DT-620-MFMF-1",
-   "manufacturer": "Parker",
-   "alternativePartNumber": "1110-1",
-   "companyName": "Vonberg",
-   "catalogLink": "https://vonberg.com/products/view/66"
- },
- {
-   "partNumber": "DT-750-MFMF-1",
-   "manufacturer": "Parker",
-   "alternativePartNumber": "1112-1",
-   "companyName": "Vonberg",
-   "catalogLink": "https://vonberg.com/products/view/66"
- },
- {
-   "partNumber": "DT-1000-MFMF-1",
-   "manufacturer": "Parker",
-   "alternativePartNumber": "1116-1",
-   "companyName": "Vonberg",
-   "catalogLink": "https://vonberg.com/products/view/66"
- },
- {
-   "partNumber": "DT-1250-MFMF-1",
-   "manufacturer": "Parker",
-   "alternativePartNumber": "1120-1",
-   "companyName": "Vonberg",
-   "catalogLink": "https://vonberg.com/products/view/66"
- },
- {
-   "partNumber": "DT-250-MFMF-65",
-   "manufacturer": "Parker",
-   "alternativePartNumber": "1104-65",
-   "companyName": "Vonberg",
-   "catalogLink": "https://vonberg.com/products/view/66"
- },
- {
-   "partNumber": "DT-370-MFMF-65",
-   "manufacturer": "Parker",
-   "alternativePartNumber": "1106-65",
-   "companyName": "Vonberg",
-   "catalogLink": "https://vonberg.com/products/view/66"
- },
- {
-   "partNumber": "DT-500-MFMF-65",
-   "manufacturer": "Parker",
-   "alternativePartNumber": "1108-65",
-   "companyName": "Vonberg",
-   "catalogLink": "https://vonberg.com/products/view/66"
- },
- {
-   "partNumber": "DT-620-MFMF-65",
-   "manufacturer": "Parker",
-   "alternativePartNumber": "1110-65",
-   "companyName": "Vonberg",
-   "catalogLink": "https://vonberg.com/products/view/66"
- },
- {
-   "partNumber": "DT-750-MFMF-65",
-   "manufacturer": "Parker",
-   "alternativePartNumber": "1112-65",
-   "companyName": "Vonberg",
-   "catalogLink": "https://vonberg.com/products/view/66"
- },
- {
-   "partNumber": "DT-1000-MFMF-65",
-   "manufacturer": "Parker",
-   "alternativePartNumber": "1116-65",
-   "companyName": "Vonberg",
-   "catalogLink": "https://vonberg.com/products/view/66"
- },
- {
-   "partNumber": "DT-1250-MFMF-65",
-   "manufacturer": "Parker",
-   "alternativePartNumber": "1120-65",
-   "companyName": "Vonberg",
-   "catalogLink": "https://vonberg.com/products/view/66"
- },
- {
-   "partNumber": "DT-250-MOMS-5",
-   "manufacturer": "Parker",
-   "alternativePartNumber": "1104K",
-   "companyName": "Vonberg",
-   "catalogLink": "https://vonberg.com/products/view/68"
- },
- {
-   "partNumber": "DT-370-MOMS-5",
-   "manufacturer": "Parker",
-   "alternativePartNumber": "1106K",
-   "companyName": "Vonberg",
-   "catalogLink": "https://vonberg.com/products/view/68"
- },
- {
-   "partNumber": "DT-500-MOMS-5",
-   "manufacturer": "Parker",
-   "alternativePartNumber": "1108K",
-   "companyName": "Vonberg",
-   "catalogLink": "https://vonberg.com/products/view/68"
- },
- {
-   "partNumber": "DT-620-MOMS-5",
-   "manufacturer": "Parker",
-   "alternativePartNumber": "1110K",
-   "companyName": "Vonberg",
-   "catalogLink": "https://vonberg.com/products/view/68"
- },
- {
-   "partNumber": "DT-750-MOMS-5",
-   "manufacturer": "Parker",
-   "alternativePartNumber": "1112K",
-   "companyName": "Vonberg",
-   "catalogLink": "https://vonberg.com/products/view/68"
- },
- {
-   "partNumber": "DT-1000-MOMS-5",
-   "manufacturer": "Parker",
-   "alternativePartNumber": "1116K",
-   "companyName": "Vonberg",
-   "catalogLink": "https://vonberg.com/products/view/68"
- },
- {
-   "partNumber": "DT-1250-MOMS-5",
-   "manufacturer": "Parker",
-   "alternativePartNumber": "1120K",
-   "companyName": "Vonberg",
-   "catalogLink": "https://vonberg.com/products/view/68"
- },
- {
-   "partNumber": "DT-250-MOMS-1",
-   "manufacturer": "Parker",
-   "alternativePartNumber": "1104K-1",
-   "companyName": "Vonberg",
-   "catalogLink": "https://vonberg.com/products/view/68"
- },
- {
-   "partNumber": "DT-370-MOMS-1",
-   "manufacturer": "Parker",
-   "alternativePartNumber": "1106K-1",
-   "companyName": "Vonberg",
-   "catalogLink": "https://vonberg.com/products/view/68"
- },
- {
-   "partNumber": "DT-500-MOMS-1",
-   "manufacturer": "Parker",
-   "alternativePartNumber": "1108K-1",
-   "companyName": "Vonberg",
-   "catalogLink": "https://vonberg.com/products/view/68"
- },
- {
-   "partNumber": "DT-620-MOMS-1",
-   "manufacturer": "Parker",
-   "alternativePartNumber": "1110K-1",
-   "companyName": "Vonberg",
-   "catalogLink": "https://vonberg.com/products/view/68"
- },
- {
-   "partNumber": "DT-750-MOMS-1",
-   "manufacturer": "Parker",
-   "alternativePartNumber": "1112K-1",
-   "companyName": "Vonberg",
-   "catalogLink": "https://vonberg.com/products/view/68"
- },
- {
-   "partNumber": "DT-1000-MOMS-1",
-   "manufacturer": "Parker",
-   "alternativePartNumber": "1116K-1",
-   "companyName": "Vonberg",
-   "catalogLink": "https://vonberg.com/products/view/68"
- },
- {
-   "partNumber": "DT-1250-MOMS-1",
-   "manufacturer": "Parker",
-   "alternativePartNumber": "1120K-1",
-   "companyName": "Vonberg",
-   "catalogLink": "https://vonberg.com/products/view/68"
- },
- {
-   "partNumber": "DT-250-MOMS-65",
-   "manufacturer": "Parker",
-   "alternativePartNumber": "1104K-65",
-   "companyName": "Vonberg",
-   "catalogLink": "https://vonberg.com/products/view/68"
- },
- {
-   "partNumber": "DT-370-MOMS-65",
-   "manufacturer": "Parker",
-   "alternativePartNumber": "1106K-65",
-   "companyName": "Vonberg",
-   "catalogLink": "https://vonberg.com/products/view/68"
- },
- {
-   "partNumber": "DT-500-MOMS-65",
-   "manufacturer": "Parker",
-   "alternativePartNumber": "1108K-65",
-   "companyName": "Vonberg",
-   "catalogLink": "https://vonberg.com/products/view/68"
- },
- {
-   "partNumber": "DT-620-MOMS-65",
-   "manufacturer": "Parker",
-   "alternativePartNumber": "1110K-65",
-   "companyName": "Vonberg",
-   "catalogLink": "https://vonberg.com/products/view/68"
- },
- {
-   "partNumber": "DT-750-MOMS-65",
-   "manufacturer": "Parker",
-   "alternativePartNumber": "1112K-65",
-   "companyName": "Vonberg",
-   "catalogLink": "https://vonberg.com/products/view/68"
- },
- {
-   "partNumber": "DT-1000-MOMS-65",
-   "manufacturer": "Parker",
-   "alternativePartNumber": "1116K-65",
-   "companyName": "Vonberg",
-   "catalogLink": "https://vonberg.com/products/view/68"
- },
- {
-   "partNumber": "DT-1250-MOMS-65",
-   "manufacturer": "Parker",
-   "alternativePartNumber": "1120K-65",
-   "companyName": "Vonberg",
-   "catalogLink": "https://vonberg.com/products/view/68"
- },
- {
-   "partNumber": "DT-250-MSMO-5",
-   "manufacturer": "Parker",
-   "alternativePartNumber": "1104J",
-   "companyName": "Vonberg",
-   "catalogLink": "https://vonberg.com/products/view/67"
- },
- {
-   "partNumber": "DT-370-MSMO-5",
-   "manufacturer": "Parker",
-   "alternativePartNumber": "1106J",
-   "companyName": "Vonberg",
-   "catalogLink": "https://vonberg.com/products/view/67"
- },
- {
-   "partNumber": "DT-500-MSMO-5",
-   "manufacturer": "Parker",
-   "alternativePartNumber": "1108J",
-   "companyName": "Vonberg",
-   "catalogLink": "https://vonberg.com/products/view/67"
- },
- {
-   "partNumber": "DT-620-MSMO-5",
-   "manufacturer": "Parker",
-   "alternativePartNumber": "1110J",
-   "companyName": "Vonberg",
-   "catalogLink": "https://vonberg.com/products/view/67"
- },
- {
-   "partNumber": "DT-750-MSMO-5",
-   "manufacturer": "Parker",
-   "alternativePartNumber": "1112J",
-   "companyName": "Vonberg",
-   "catalogLink": "https://vonberg.com/products/view/67"
- },
- {
-   "partNumber": "DT-1000-MSMO-5",
-   "manufacturer": "Parker",
-   "alternativePartNumber": "1116J",
-   "companyName": "Vonberg",
-   "catalogLink": "https://vonberg.com/products/view/67"
- },
- {
-   "partNumber": "DT-1250-MSMO-5",
-   "manufacturer": "Parker",
-   "alternativePartNumber": "1120J",
-   "companyName": "Vonberg",
-   "catalogLink": "https://vonberg.com/products/view/67"
- },
- {
-   "partNumber": "DT-250-MSMO-1",
-   "manufacturer": "Parker",
-   "alternativePartNumber": "1104J-1",
-   "companyName": "Vonberg",
-   "catalogLink": "https://vonberg.com/products/view/67"
- },
- {
-   "partNumber": "DT-370-MSMO-1",
-   "manufacturer": "Parker",
-   "alternativePartNumber": "1106J-1",
-   "companyName": "Vonberg",
-   "catalogLink": "https://vonberg.com/products/view/67"
- },
- {
-   "partNumber": "DT-500-MSMO-1",
-   "manufacturer": "Parker",
-   "alternativePartNumber": "1108J-1",
-   "companyName": "Vonberg",
-   "catalogLink": "https://vonberg.com/products/view/67"
- },
- {
-   "partNumber": "DT-620-MSMO-1",
-   "manufacturer": "Parker",
-   "alternativePartNumber": "1110J-1",
-   "companyName": "Vonberg",
-   "catalogLink": "https://vonberg.com/products/view/67"
- },
- {
-   "partNumber": "DT-750-MSMO-1",
-   "manufacturer": "Parker",
-   "alternativePartNumber": "1112J-1",
-   "companyName": "Vonberg",
-   "catalogLink": "https://vonberg.com/products/view/67"
- },
- {
-   "partNumber": "DT-1000-MSMO-1",
-   "manufacturer": "Parker",
-   "alternativePartNumber": "1116J-1",
-   "companyName": "Vonberg",
-   "catalogLink": "https://vonberg.com/products/view/67"
- },
- {
-   "partNumber": "DT-1250-MSMO-1",
-   "manufacturer": "Parker",
-   "alternativePartNumber": "1120J-1",
-   "companyName": "Vonberg",
-   "catalogLink": "https://vonberg.com/products/view/67"
- },
- {
-   "partNumber": "DT-250-MSMO-65",
-   "manufacturer": "Parker",
-   "alternativePartNumber": "1104J-65",
-   "companyName": "Vonberg",
-   "catalogLink": "https://vonberg.com/products/view/67"
- },
- {
-   "partNumber": "DT-370-MSMO-65",
-   "manufacturer": "Parker",
-   "alternativePartNumber": "1106J-65",
-   "companyName": "Vonberg",
-   "catalogLink": "https://vonberg.com/products/view/67"
- },
- {
-   "partNumber": "DT-500-MSMO-65",
-   "manufacturer": "Parker",
-   "alternativePartNumber": "1108J-65",
-   "companyName": "Vonberg",
-   "catalogLink": "https://vonberg.com/products/view/67"
- },
- {
-   "partNumber": "DT-620-MSMO-65",
-   "manufacturer": "Parker",
-   "alternativePartNumber": "1110J-65",
-   "companyName": "Vonberg",
-   "catalogLink": "https://vonberg.com/products/view/67"
- },
- {
-   "partNumber": "DT-750-MSMO-65",
-   "manufacturer": "Parker",
-   "alternativePartNumber": "1112J-65",
-   "companyName": "Vonberg",
-   "catalogLink": "https://vonberg.com/products/view/67"
- },
- {
-   "partNumber": "DT-1000-MSMO-65",
-   "manufacturer": "Parker",
-   "alternativePartNumber": "1116J-65",
-   "companyName": "Vonberg",
-   "catalogLink": "https://vonberg.com/products/view/67"
- },
- {
-   "partNumber": "DT-1250-MSMO-65",
-   "manufacturer": "Parker",
-   "alternativePartNumber": "1120J-65",
-   "companyName": "Vonberg",
-   "catalogLink": "https://vonberg.com/products/view/67"
- },
- {
-   "partNumber": "DT-250-MOMF-5",
-   "manufacturer": "Parker",
-   "alternativePartNumber": "1104R",
-   "companyName": "Vonberg",
-   "catalogLink": "https://vonberg.com/products/view/19"
- },
- {
-   "partNumber": "DT-370-MOMF-5",
-   "manufacturer": "Parker",
-   "alternativePartNumber": "1106R",
-   "companyName": "Vonberg",
-   "catalogLink": "https://vonberg.com/products/view/19"
- },
- {
-   "partNumber": "DT-500-MOMF-5",
-   "manufacturer": "Parker",
-   "alternativePartNumber": "1108R",
-   "companyName": "Vonberg",
-   "catalogLink": "https://vonberg.com/products/view/19"
- },
- {
-   "partNumber": "DT-620-MOMF-5",
-   "manufacturer": "Parker",
-   "alternativePartNumber": "1110R",
-   "companyName": "Vonberg",
-   "catalogLink": "https://vonberg.com/products/view/19"
- },
- {
-   "partNumber": "DT-750-MOMF-5",
-   "manufacturer": "Parker",
-   "alternativePartNumber": "1112R",
-   "companyName": "Vonberg",
-   "catalogLink": "https://vonberg.com/products/view/19"
- },
- {
-   "partNumber": "DT-1000-MOMF-5",
-   "manufacturer": "Parker",
-   "alternativePartNumber": "1116R",
-   "companyName": "Vonberg",
-   "catalogLink": "https://vonberg.com/products/view/19"
- },
- {
-   "partNumber": "DT-1250-MOMF-5",
-   "manufacturer": "Parker",
-   "alternativePartNumber": "1120R",
-   "companyName": "Vonberg",
-   "catalogLink": "https://vonberg.com/products/view/19"
- },
- {
-   "partNumber": "DT-250-MOMF-1",
-   "manufacturer": "Parker",
-   "alternativePartNumber": "1104R-1",
-   "companyName": "Vonberg",
-   "catalogLink": "https://vonberg.com/products/view/19"
- },
- {
-   "partNumber": "DT-370-MOMF-1",
-   "manufacturer": "Parker",
-   "alternativePartNumber": "1106R-1",
-   "companyName": "Vonberg",
-   "catalogLink": "https://vonberg.com/products/view/19"
- },
- {
-   "partNumber": "DT-500-MOMF-1",
-   "manufacturer": "Parker",
-   "alternativePartNumber": "1108R-1",
-   "companyName": "Vonberg",
-   "catalogLink": "https://vonberg.com/products/view/19"
- },
- {
-   "partNumber": "DT-620-MOMF-1",
-   "manufacturer": "Parker",
-   "alternativePartNumber": "1110R-1",
-   "companyName": "Vonberg",
-   "catalogLink": "https://vonberg.com/products/view/19"
- },
- {
-   "partNumber": "DT-750-MOMF-1",
-   "manufacturer": "Parker",
-   "alternativePartNumber": "1112R-1",
-   "companyName": "Vonberg",
-   "catalogLink": "https://vonberg.com/products/view/19"
- },
- {
-   "partNumber": "DT-1000-MOMF-1",
-   "manufacturer": "Parker",
-   "alternativePartNumber": "1116R-1",
-   "companyName": "Vonberg",
-   "catalogLink": "https://vonberg.com/products/view/19"
- },
- {
-   "partNumber": "DT-1250-MOMF-1",
-   "manufacturer": "Parker",
-   "alternativePartNumber": "1120R-1",
-   "companyName": "Vonberg",
-   "catalogLink": "https://vonberg.com/products/view/19"
- },
- {
-   "partNumber": "DT-250-MOMF-65",
-   "manufacturer": "Parker",
-   "alternativePartNumber": "1104R-65",
-   "companyName": "Vonberg",
-   "catalogLink": "https://vonberg.com/products/view/19"
- },
- {
-   "partNumber": "DT-370-MOMF-65",
-   "manufacturer": "Parker",
-   "alternativePartNumber": "1106R-65",
-   "companyName": "Vonberg",
-   "catalogLink": "https://vonberg.com/products/view/19"
- },
- {
-   "partNumber": "DT-500-MOMF-65",
-   "manufacturer": "Parker",
-   "alternativePartNumber": "1108R-65",
-   "companyName": "Vonberg",
-   "catalogLink": "https://vonberg.com/products/view/19"
- },
- {
-   "partNumber": "DT-620-MOMF-65",
-   "manufacturer": "Parker",
-   "alternativePartNumber": "1110R-65",
-   "companyName": "Vonberg",
-   "catalogLink": "https://vonberg.com/products/view/19"
- },
- {
-   "partNumber": "DT-750-MOMF-65",
-   "manufacturer": "Parker",
-   "alternativePartNumber": "1112R-65",
-   "companyName": "Vonberg",
-   "catalogLink": "https://vonberg.com/products/view/19"
- },
- {
-   "partNumber": "DT-1000-MOMF-65",
-   "manufacturer": "Parker",
-   "alternativePartNumber": "1116R-65",
-   "companyName": "Vonberg",
-   "catalogLink": "https://vonberg.com/products/view/19"
- },
- {
-   "partNumber": "DT-1250-MOMF-65",
-   "manufacturer": "Parker",
-   "alternativePartNumber": "1120R-65",
-   "companyName": "Vonberg",
-   "catalogLink": "https://vonberg.com/products/view/19"
- },
- {
-   "partNumber": "DT-250-MFMO-5",
-   "manufacturer": "Parker",
-   "alternativePartNumber": "1104F",
-   "companyName": "Vonberg",
-   "catalogLink": "https://vonberg.com/products/view/6"
- },
- {
-   "partNumber": "DT-370-MFMO-5",
-   "manufacturer": "Parker",
-   "alternativePartNumber": "1106F",
-   "companyName": "Vonberg",
-   "catalogLink": "https://vonberg.com/products/view/6"
- },
- {
-   "partNumber": "DT-500-MFMO-5",
-   "manufacturer": "Parker",
-   "alternativePartNumber": "1108F",
-   "companyName": "Vonberg",
-   "catalogLink": "https://vonberg.com/products/view/6"
- },
- {
-   "partNumber": "DT-620-MFMO-5",
-   "manufacturer": "Parker",
-   "alternativePartNumber": "1110F",
-   "companyName": "Vonberg",
-   "catalogLink": "https://vonberg.com/products/view/6"
- },
- {
-   "partNumber": "DT-750-MFMO-5",
-   "manufacturer": "Parker",
-   "alternativePartNumber": "1112F",
-   "companyName": "Vonberg",
-   "catalogLink": "https://vonberg.com/products/view/6"
- },
- {
-   "partNumber": "DT-1000-MFMO-5",
-   "manufacturer": "Parker",
-   "alternativePartNumber": "1116F",
-   "companyName": "Vonberg",
-   "catalogLink": "https://vonberg.com/products/view/6"
- },
- {
-   "partNumber": "DT-1250-MFMO-5",
-   "manufacturer": "Parker",
-   "alternativePartNumber": "1120F",
-   "companyName": "Vonberg",
-   "catalogLink": "https://vonberg.com/products/view/6"
- },
- {
-   "partNumber": "DT-250-MFMO-1",
-   "manufacturer": "Parker",
-   "alternativePartNumber": "1104F-1",
-   "companyName": "Vonberg",
-   "catalogLink": "https://vonberg.com/products/view/6"
- },
- {
-   "partNumber": "DT-370-MFMO-1",
-   "manufacturer": "Parker",
-   "alternativePartNumber": "1106F-1",
-   "companyName": "Vonberg",
-   "catalogLink": "https://vonberg.com/products/view/6"
- },
- {
-   "partNumber": "DT-500-MFMO-1",
-   "manufacturer": "Parker",
-   "alternativePartNumber": "1108F-1",
-   "companyName": "Vonberg",
-   "catalogLink": "https://vonberg.com/products/view/6"
- },
- {
-   "partNumber": "DT-620-MFMO-1",
-   "manufacturer": "Parker",
-   "alternativePartNumber": "1110F-1",
-   "companyName": "Vonberg",
-   "catalogLink": "https://vonberg.com/products/view/6"
- },
- {
-   "partNumber": "DT-750-MFMO-1",
-   "manufacturer": "Parker",
-   "alternativePartNumber": "1112F-1",
-   "companyName": "Vonberg",
-   "catalogLink": "https://vonberg.com/products/view/6"
- },
- {
-   "partNumber": "DT-1000-MFMO-1",
-   "manufacturer": "Parker",
-   "alternativePartNumber": "1116F-1",
-   "companyName": "Vonberg",
-   "catalogLink": "https://vonberg.com/products/view/6"
- },
- {
-   "partNumber": "DT-1250-MFMO-1",
-   "manufacturer": "Parker",
-   "alternativePartNumber": "1120F-1",
-   "companyName": "Vonberg",
-   "catalogLink": "https://vonberg.com/products/view/6"
- },
- {
-   "partNumber": "DT-250-MFMO-65",
-   "manufacturer": "Parker",
-   "alternativePartNumber": "1104F-65",
-   "companyName": "Vonberg",
-   "catalogLink": "https://vonberg.com/products/view/6"
- },
- {
-   "partNumber": "DT-370-MFMO-65",
-   "manufacturer": "Parker",
-   "alternativePartNumber": "1106F-65",
-   "companyName": "Vonberg",
-   "catalogLink": "https://vonberg.com/products/view/6"
- },
- {
-   "partNumber": "DT-500-MFMO-65",
-   "manufacturer": "Parker",
-   "alternativePartNumber": "1108F-65",
-   "companyName": "Vonberg",
-   "catalogLink": "https://vonberg.com/products/view/6"
- },
- {
-   "partNumber": "DT-620-MFMO-65",
-   "manufacturer": "Parker",
-   "alternativePartNumber": "1110F-65",
-   "companyName": "Vonberg",
-   "catalogLink": "https://vonberg.com/products/view/6"
- },
- {
-   "partNumber": "DT-750-MFMO-65",
-   "manufacturer": "Parker",
-   "alternativePartNumber": "1112F-65",
-   "companyName": "Vonberg",
-   "catalogLink": "https://vonberg.com/products/view/6"
- },
- {
-   "partNumber": "DT-1000-MFMO-65",
-   "manufacturer": "Parker",
-   "alternativePartNumber": "1116F-65",
-   "companyName": "Vonberg",
-   "catalogLink": "https://vonberg.com/products/view/6"
- },
- {
-   "partNumber": "DT-1250-MFMO-65",
-   "manufacturer": "Parker",
-   "alternativePartNumber": "1120F-65",
-   "companyName": "Vonberg",
-   "catalogLink": "https://vonberg.com/products/view/6"
- },
- {
-   "partNumber": "DT-250-MSMS-5",
-   "manufacturer": "Parker",
-   "alternativePartNumber": "1904FS",
-   "companyName": "Vonberg",
-   "catalogLink": "https://vonberg.com/products/view/62"
- },
- {
-   "partNumber": "DT-370-MSMS-5",
-   "manufacturer": "Parker",
-   "alternativePartNumber": "1906FS",
-   "companyName": "Vonberg",
-   "catalogLink": "https://vonberg.com/products/view/62"
- },
- {
-   "partNumber": "DT-500-MSMS-5",
-   "manufacturer": "Parker",
-   "alternativePartNumber": "1908FS",
-   "companyName": "Vonberg",
-   "catalogLink": "https://vonberg.com/products/view/62"
- },
- {
-   "partNumber": "DT-620-MSMS-5",
-   "manufacturer": "Parker",
-   "alternativePartNumber": "1910FS",
-   "companyName": "Vonberg",
-   "catalogLink": "https://vonberg.com/products/view/62"
- },
- {
-   "partNumber": "DT-750-MSMS-5",
-   "manufacturer": "Parker",
-   "alternativePartNumber": "1912FS",
-   "companyName": "Vonberg",
-   "catalogLink": "https://vonberg.com/products/view/62"
- },
- {
-   "partNumber": "DT-1000-MSMS-5",
-   "manufacturer": "Parker",
-   "alternativePartNumber": "1916FS",
-   "companyName": "Vonberg",
-   "catalogLink": "https://vonberg.com/products/view/62"
- },
- {
-   "partNumber": "DT-1250-MSMS-5",
-   "manufacturer": "Parker",
-   "alternativePartNumber": "1920FS",
-   "companyName": "Vonberg",
-   "catalogLink": "https://vonberg.com/products/view/62"
- },
- {
-   "partNumber": "DT-250-MSMS-1",
-   "manufacturer": "Parker",
-   "alternativePartNumber": "1904FS-1",
-   "companyName": "Vonberg",
-   "catalogLink": "https://vonberg.com/products/view/62"
- },
- {
-   "partNumber": "DT-370-MSMS-1",
-   "manufacturer": "Parker",
-   "alternativePartNumber": "1906FS-1",
-   "companyName": "Vonberg",
-   "catalogLink": "https://vonberg.com/products/view/62"
- },
- {
-   "partNumber": "DT-500-MSMS-1",
-   "manufacturer": "Parker",
-   "alternativePartNumber": "1908FS-1",
-   "companyName": "Vonberg",
-   "catalogLink": "https://vonberg.com/products/view/62"
- },
- {
-   "partNumber": "DT-620-MSMS-1",
-   "manufacturer": "Parker",
-   "alternativePartNumber": "1910FS-1",
-   "companyName": "Vonberg",
-   "catalogLink": "https://vonberg.com/products/view/62"
- },
- {
-   "partNumber": "DT-750-MSMS-1",
-   "manufacturer": "Parker",
-   "alternativePartNumber": "1912FS-1",
-   "companyName": "Vonberg",
-   "catalogLink": "https://vonberg.com/products/view/62"
- },
- {
-   "partNumber": "DT-1000-MSMS-1",
-   "manufacturer": "Parker",
-   "alternativePartNumber": "1916FS-1",
-   "companyName": "Vonberg",
-   "catalogLink": "https://vonberg.com/products/view/62"
- },
- {
-   "partNumber": "DT-1250-MSMS-1",
-   "manufacturer": "Parker",
-   "alternativePartNumber": "1920FS-1",
-   "companyName": "Vonberg",
-   "catalogLink": "https://vonberg.com/products/view/62"
- },
- {
-   "partNumber": "DT-250-MSMS-65",
-   "manufacturer": "Parker",
-   "alternativePartNumber": "1904FS-65",
-   "companyName": "Vonberg",
-   "catalogLink": "https://vonberg.com/products/view/62"
- },
- {
-   "partNumber": "DT-370-MSMS-65",
-   "manufacturer": "Parker",
-   "alternativePartNumber": "1906FS-65",
-   "companyName": "Vonberg",
-   "catalogLink": "https://vonberg.com/products/view/62"
- },
- {
-   "partNumber": "DT-500-MSMS-65",
-   "manufacturer": "Parker",
-   "alternativePartNumber": "1908FS-65",
-   "companyName": "Vonberg",
-   "catalogLink": "https://vonberg.com/products/view/62"
- },
- {
-   "partNumber": "DT-620-MSMS-65",
-   "manufacturer": "Parker",
-   "alternativePartNumber": "1910FS-65",
-   "companyName": "Vonberg",
-   "catalogLink": "https://vonberg.com/products/view/62"
- },
- {
-   "partNumber": "DT-750-MSMS-65",
-   "manufacturer": "Parker",
-   "alternativePartNumber": "1912FS-65",
-   "companyName": "Vonberg",
-   "catalogLink": "https://vonberg.com/products/view/62"
- },
- {
-   "partNumber": "DT-1000-MSMS-65",
-   "manufacturer": "Parker",
-   "alternativePartNumber": "1916FS-65",
-   "companyName": "Vonberg",
-   "catalogLink": "https://vonberg.com/products/view/62"
- },
- {
-   "partNumber": "DT-1250-MSMS-65",
-   "manufacturer": "Parker",
-   "alternativePartNumber": "1920FS-65",
-   "companyName": "Vonberg",
-   "catalogLink": "https://vonberg.com/products/view/62"
- }
-]
+  {
+    "partNumber": "DT-250-MFMF-5",
+    "manufacturer": "Parker",
+    "alternativePartNumber": "1104",
+    "catalogLink": "https://vonberg.com/products/view/66"
+  },
+  {
+    "partNumber": "DT-370-MFMF-5",
+    "manufacturer": "Parker",
+    "alternativePartNumber": "1106",
+    "catalogLink": "https://vonberg.com/products/view/66"
+  },
+  {
+    "partNumber": "DT-500-MFMF-5",
+    "manufacturer": "Parker",
+    "alternativePartNumber": "1108",
+    "catalogLink": "https://vonberg.com/products/view/66"
+  },
+  {
+    "partNumber": "DT-620-MFMF-5",
+    "manufacturer": "Parker",
+    "alternativePartNumber": "1110",
+    "catalogLink": "https://vonberg.com/products/view/66"
+  },
+  {
+    "partNumber": "DT-750-MFMF-5",
+    "manufacturer": "Parker",
+    "alternativePartNumber": "1112",
+    "catalogLink": "https://vonberg.com/products/view/66"
+  },
+  {
+    "partNumber": "DT-1000-MFMF-5",
+    "manufacturer": "Parker",
+    "alternativePartNumber": "1116",
+    "catalogLink": "https://vonberg.com/products/view/66"
+  },
+  {
+    "partNumber": "DT-1250-MFMF-5",
+    "manufacturer": "Parker",
+    "alternativePartNumber": "1120",
+    "catalogLink": "https://vonberg.com/products/view/66"
+  },
+  {
+    "partNumber": "DT-250-MFMF-1",
+    "manufacturer": "Parker",
+    "alternativePartNumber": "1104-1",
+    "catalogLink": "https://vonberg.com/products/view/66"
+  },
+  {
+    "partNumber": "DT-370-MFMF-1",
+    "manufacturer": "Parker",
+    "alternativePartNumber": "1106-1",
+    "catalogLink": "https://vonberg.com/products/view/66"
+  },
+  {
+    "partNumber": "DT-500-MFMF-1",
+    "manufacturer": "Parker",
+    "alternativePartNumber": "1108-1",
+    "catalogLink": "https://vonberg.com/products/view/66"
+  },
+  {
+    "partNumber": "DT-620-MFMF-1",
+    "manufacturer": "Parker",
+    "alternativePartNumber": "1110-1",
+    "catalogLink": "https://vonberg.com/products/view/66"
+  },
+  {
+    "partNumber": "DT-750-MFMF-1",
+    "manufacturer": "Parker",
+    "alternativePartNumber": "1112-1",
+    "catalogLink": "https://vonberg.com/products/view/66"
+  },
+  {
+    "partNumber": "DT-1000-MFMF-1",
+    "manufacturer": "Parker",
+    "alternativePartNumber": "1116-1",
+    "catalogLink": "https://vonberg.com/products/view/66"
+  },
+  {
+    "partNumber": "DT-1250-MFMF-1",
+    "manufacturer": "Parker",
+    "alternativePartNumber": "1120-1",
+    "catalogLink": "https://vonberg.com/products/view/66"
+  },
+  {
+    "partNumber": "DT-250-MFMF-65",
+    "manufacturer": "Parker",
+    "alternativePartNumber": "1104-65",
+    "catalogLink": "https://vonberg.com/products/view/66"
+  },
+  {
+    "partNumber": "DT-370-MFMF-65",
+    "manufacturer": "Parker",
+    "alternativePartNumber": "1106-65",
+    "catalogLink": "https://vonberg.com/products/view/66"
+  },
+  {
+    "partNumber": "DT-500-MFMF-65",
+    "manufacturer": "Parker",
+    "alternativePartNumber": "1108-65",
+    "catalogLink": "https://vonberg.com/products/view/66"
+  },
+  {
+    "partNumber": "DT-620-MFMF-65",
+    "manufacturer": "Parker",
+    "alternativePartNumber": "1110-65",
+    "catalogLink": "https://vonberg.com/products/view/66"
+  },
+  {
+    "partNumber": "DT-750-MFMF-65",
+    "manufacturer": "Parker",
+    "alternativePartNumber": "1112-65",
+    "catalogLink": "https://vonberg.com/products/view/66"
+  },
+  {
+    "partNumber": "DT-1000-MFMF-65",
+    "manufacturer": "Parker",
+    "alternativePartNumber": "1116-65",
+    "catalogLink": "https://vonberg.com/products/view/66"
+  },
+  {
+    "partNumber": "DT-1250-MFMF-65",
+    "manufacturer": "Parker",
+    "alternativePartNumber": "1120-65",
+    "catalogLink": "https://vonberg.com/products/view/66"
+  },
+  {
+    "partNumber": "DT-250-MOMS-5",
+    "manufacturer": "Parker",
+    "alternativePartNumber": "1104K",
+    "catalogLink": "https://vonberg.com/products/view/68"
+  },
+  {
+    "partNumber": "DT-370-MOMS-5",
+    "manufacturer": "Parker",
+    "alternativePartNumber": "1106K",
+    "catalogLink": "https://vonberg.com/products/view/68"
+  },
+  {
+    "partNumber": "DT-500-MOMS-5",
+    "manufacturer": "Parker",
+    "alternativePartNumber": "1108K",
+    "catalogLink": "https://vonberg.com/products/view/68"
+  },
+  {
+    "partNumber": "DT-620-MOMS-5",
+    "manufacturer": "Parker",
+    "alternativePartNumber": "1110K",
+    "catalogLink": "https://vonberg.com/products/view/68"
+  },
+  {
+    "partNumber": "DT-750-MOMS-5",
+    "manufacturer": "Parker",
+    "alternativePartNumber": "1112K",
+    "catalogLink": "https://vonberg.com/products/view/68"
+  },
+  {
+    "partNumber": "DT-1000-MOMS-5",
+    "manufacturer": "Parker",
+    "alternativePartNumber": "1116K",
+    "catalogLink": "https://vonberg.com/products/view/68"
+  },
+  {
+    "partNumber": "DT-1250-MOMS-5",
+    "manufacturer": "Parker",
+    "alternativePartNumber": "1120K",
+    "catalogLink": "https://vonberg.com/products/view/68"
+  },
+  {
+    "partNumber": "DT-250-MOMS-1",
+    "manufacturer": "Parker",
+    "alternativePartNumber": "1104K-1",
+    "catalogLink": "https://vonberg.com/products/view/68"
+  },
+  {
+    "partNumber": "DT-370-MOMS-1",
+    "manufacturer": "Parker",
+    "alternativePartNumber": "1106K-1",
+    "catalogLink": "https://vonberg.com/products/view/68"
+  },
+  {
+    "partNumber": "DT-500-MOMS-1",
+    "manufacturer": "Parker",
+    "alternativePartNumber": "1108K-1",
+    "catalogLink": "https://vonberg.com/products/view/68"
+  },
+  {
+    "partNumber": "DT-620-MOMS-1",
+    "manufacturer": "Parker",
+    "alternativePartNumber": "1110K-1",
+    "catalogLink": "https://vonberg.com/products/view/68"
+  },
+  {
+    "partNumber": "DT-750-MOMS-1",
+    "manufacturer": "Parker",
+    "alternativePartNumber": "1112K-1",
+    "catalogLink": "https://vonberg.com/products/view/68"
+  },
+  {
+    "partNumber": "DT-1000-MOMS-1",
+    "manufacturer": "Parker",
+    "alternativePartNumber": "1116K-1",
+    "catalogLink": "https://vonberg.com/products/view/68"
+  },
+  {
+    "partNumber": "DT-1250-MOMS-1",
+    "manufacturer": "Parker",
+    "alternativePartNumber": "1120K-1",
+    "catalogLink": "https://vonberg.com/products/view/68"
+  },
+  {
+    "partNumber": "DT-250-MOMS-65",
+    "manufacturer": "Parker",
+    "alternativePartNumber": "1104K-65",
+    "catalogLink": "https://vonberg.com/products/view/68"
+  },
+  {
+    "partNumber": "DT-370-MOMS-65",
+    "manufacturer": "Parker",
+    "alternativePartNumber": "1106K-65",
+    "catalogLink": "https://vonberg.com/products/view/68"
+  },
+  {
+    "partNumber": "DT-500-MOMS-65",
+    "manufacturer": "Parker",
+    "alternativePartNumber": "1108K-65",
+    "catalogLink": "https://vonberg.com/products/view/68"
+  },
+  {
+    "partNumber": "DT-620-MOMS-65",
+    "manufacturer": "Parker",
+    "alternativePartNumber": "1110K-65",
+    "catalogLink": "https://vonberg.com/products/view/68"
+  },
+  {
+    "partNumber": "DT-750-MOMS-65",
+    "manufacturer": "Parker",
+    "alternativePartNumber": "1112K-65",
+    "catalogLink": "https://vonberg.com/products/view/68"
+  },
+  {
+    "partNumber": "DT-1000-MOMS-65",
+    "manufacturer": "Parker",
+    "alternativePartNumber": "1116K-65",
+    "catalogLink": "https://vonberg.com/products/view/68"
+  },
+  {
+    "partNumber": "DT-1250-MOMS-65",
+    "manufacturer": "Parker",
+    "alternativePartNumber": "1120K-65",
+    "catalogLink": "https://vonberg.com/products/view/68"
+  },
+  {
+    "partNumber": "DT-250-MSMO-5",
+    "manufacturer": "Parker",
+    "alternativePartNumber": "1104J",
+    "catalogLink": "https://vonberg.com/products/view/67"
+  },
+  {
+    "partNumber": "DT-370-MSMO-5",
+    "manufacturer": "Parker",
+    "alternativePartNumber": "1106J",
+    "catalogLink": "https://vonberg.com/products/view/67"
+  },
+  {
+    "partNumber": "DT-500-MSMO-5",
+    "manufacturer": "Parker",
+    "alternativePartNumber": "1108J",
+    "catalogLink": "https://vonberg.com/products/view/67"
+  },
+  {
+    "partNumber": "DT-620-MSMO-5",
+    "manufacturer": "Parker",
+    "alternativePartNumber": "1110J",
+    "catalogLink": "https://vonberg.com/products/view/67"
+  },
+  {
+    "partNumber": "DT-750-MSMO-5",
+    "manufacturer": "Parker",
+    "alternativePartNumber": "1112J",
+    "catalogLink": "https://vonberg.com/products/view/67"
+  },
+  {
+    "partNumber": "DT-1000-MSMO-5",
+    "manufacturer": "Parker",
+    "alternativePartNumber": "1116J",
+    "catalogLink": "https://vonberg.com/products/view/67"
+  },
+  {
+    "partNumber": "DT-1250-MSMO-5",
+    "manufacturer": "Parker",
+    "alternativePartNumber": "1120J",
+    "catalogLink": "https://vonberg.com/products/view/67"
+  },
+  {
+    "partNumber": "DT-250-MSMO-1",
+    "manufacturer": "Parker",
+    "alternativePartNumber": "1104J-1",
+    "catalogLink": "https://vonberg.com/products/view/67"
+  },
+  {
+    "partNumber": "DT-370-MSMO-1",
+    "manufacturer": "Parker",
+    "alternativePartNumber": "1106J-1",
+    "catalogLink": "https://vonberg.com/products/view/67"
+  },
+  {
+    "partNumber": "DT-500-MSMO-1",
+    "manufacturer": "Parker",
+    "alternativePartNumber": "1108J-1",
+    "catalogLink": "https://vonberg.com/products/view/67"
+  },
+  {
+    "partNumber": "DT-620-MSMO-1",
+    "manufacturer": "Parker",
+    "alternativePartNumber": "1110J-1",
+    "catalogLink": "https://vonberg.com/products/view/67"
+  },
+  {
+    "partNumber": "DT-750-MSMO-1",
+    "manufacturer": "Parker",
+    "alternativePartNumber": "1112J-1",
+    "catalogLink": "https://vonberg.com/products/view/67"
+  },
+  {
+    "partNumber": "DT-1000-MSMO-1",
+    "manufacturer": "Parker",
+    "alternativePartNumber": "1116J-1",
+    "catalogLink": "https://vonberg.com/products/view/67"
+  },
+  {
+    "partNumber": "DT-1250-MSMO-1",
+    "manufacturer": "Parker",
+    "alternativePartNumber": "1120J-1",
+    "catalogLink": "https://vonberg.com/products/view/67"
+  },
+  {
+    "partNumber": "DT-250-MSMO-65",
+    "manufacturer": "Parker",
+    "alternativePartNumber": "1104J-65",
+    "catalogLink": "https://vonberg.com/products/view/67"
+  },
+  {
+    "partNumber": "DT-370-MSMO-65",
+    "manufacturer": "Parker",
+    "alternativePartNumber": "1106J-65",
+    "catalogLink": "https://vonberg.com/products/view/67"
+  },
+  {
+    "partNumber": "DT-500-MSMO-65",
+    "manufacturer": "Parker",
+    "alternativePartNumber": "1108J-65",
+    "catalogLink": "https://vonberg.com/products/view/67"
+  },
+  {
+    "partNumber": "DT-620-MSMO-65",
+    "manufacturer": "Parker",
+    "alternativePartNumber": "1110J-65",
+    "catalogLink": "https://vonberg.com/products/view/67"
+  },
+  {
+    "partNumber": "DT-750-MSMO-65",
+    "manufacturer": "Parker",
+    "alternativePartNumber": "1112J-65",
+    "catalogLink": "https://vonberg.com/products/view/67"
+  },
+  {
+    "partNumber": "DT-1000-MSMO-65",
+    "manufacturer": "Parker",
+    "alternativePartNumber": "1116J-65",
+    "catalogLink": "https://vonberg.com/products/view/67"
+  },
+  {
+    "partNumber": "DT-1250-MSMO-65",
+    "manufacturer": "Parker",
+    "alternativePartNumber": "1120J-65",
+    "catalogLink": "https://vonberg.com/products/view/67"
+  },
+  {
+    "partNumber": "DT-250-MOMF-5",
+    "manufacturer": "Parker",
+    "alternativePartNumber": "1104R",
+    "catalogLink": "https://vonberg.com/products/view/19"
+  },
+  {
+    "partNumber": "DT-370-MOMF-5",
+    "manufacturer": "Parker",
+    "alternativePartNumber": "1106R",
+    "catalogLink": "https://vonberg.com/products/view/19"
+  },
+  {
+    "partNumber": "DT-500-MOMF-5",
+    "manufacturer": "Parker",
+    "alternativePartNumber": "1108R",
+    "catalogLink": "https://vonberg.com/products/view/19"
+  },
+  {
+    "partNumber": "DT-620-MOMF-5",
+    "manufacturer": "Parker",
+    "alternativePartNumber": "1110R",
+    "catalogLink": "https://vonberg.com/products/view/19"
+  },
+  {
+    "partNumber": "DT-750-MOMF-5",
+    "manufacturer": "Parker",
+    "alternativePartNumber": "1112R",
+    "catalogLink": "https://vonberg.com/products/view/19"
+  },
+  {
+    "partNumber": "DT-1000-MOMF-5",
+    "manufacturer": "Parker",
+    "alternativePartNumber": "1116R",
+    "catalogLink": "https://vonberg.com/products/view/19"
+  },
+  {
+    "partNumber": "DT-1250-MOMF-5",
+    "manufacturer": "Parker",
+    "alternativePartNumber": "1120R",
+    "catalogLink": "https://vonberg.com/products/view/19"
+  },
+  {
+    "partNumber": "DT-250-MOMF-1",
+    "manufacturer": "Parker",
+    "alternativePartNumber": "1104R-1",
+    "catalogLink": "https://vonberg.com/products/view/19"
+  },
+  {
+    "partNumber": "DT-370-MOMF-1",
+    "manufacturer": "Parker",
+    "alternativePartNumber": "1106R-1",
+    "catalogLink": "https://vonberg.com/products/view/19"
+  },
+  {
+    "partNumber": "DT-500-MOMF-1",
+    "manufacturer": "Parker",
+    "alternativePartNumber": "1108R-1",
+    "catalogLink": "https://vonberg.com/products/view/19"
+  },
+  {
+    "partNumber": "DT-620-MOMF-1",
+    "manufacturer": "Parker",
+    "alternativePartNumber": "1110R-1",
+    "catalogLink": "https://vonberg.com/products/view/19"
+  },
+  {
+    "partNumber": "DT-750-MOMF-1",
+    "manufacturer": "Parker",
+    "alternativePartNumber": "1112R-1",
+    "catalogLink": "https://vonberg.com/products/view/19"
+  },
+  {
+    "partNumber": "DT-1000-MOMF-1",
+    "manufacturer": "Parker",
+    "alternativePartNumber": "1116R-1",
+    "catalogLink": "https://vonberg.com/products/view/19"
+  },
+  {
+    "partNumber": "DT-1250-MOMF-1",
+    "manufacturer": "Parker",
+    "alternativePartNumber": "1120R-1",
+    "catalogLink": "https://vonberg.com/products/view/19"
+  },
+  {
+    "partNumber": "DT-250-MOMF-65",
+    "manufacturer": "Parker",
+    "alternativePartNumber": "1104R-65",
+    "catalogLink": "https://vonberg.com/products/view/19"
+  },
+  {
+    "partNumber": "DT-370-MOMF-65",
+    "manufacturer": "Parker",
+    "alternativePartNumber": "1106R-65",
+    "catalogLink": "https://vonberg.com/products/view/19"
+  },
+  {
+    "partNumber": "DT-500-MOMF-65",
+    "manufacturer": "Parker",
+    "alternativePartNumber": "1108R-65",
+    "catalogLink": "https://vonberg.com/products/view/19"
+  },
+  {
+    "partNumber": "DT-620-MOMF-65",
+    "manufacturer": "Parker",
+    "alternativePartNumber": "1110R-65",
+    "catalogLink": "https://vonberg.com/products/view/19"
+  },
+  {
+    "partNumber": "DT-750-MOMF-65",
+    "manufacturer": "Parker",
+    "alternativePartNumber": "1112R-65",
+    "catalogLink": "https://vonberg.com/products/view/19"
+  },
+  {
+    "partNumber": "DT-1000-MOMF-65",
+    "manufacturer": "Parker",
+    "alternativePartNumber": "1116R-65",
+    "catalogLink": "https://vonberg.com/products/view/19"
+  },
+  {
+    "partNumber": "DT-1250-MOMF-65",
+    "manufacturer": "Parker",
+    "alternativePartNumber": "1120R-65",
+    "catalogLink": "https://vonberg.com/products/view/19"
+  },
+  {
+    "partNumber": "DT-250-MFMO-5",
+    "manufacturer": "Parker",
+    "alternativePartNumber": "1104F",
+    "catalogLink": "https://vonberg.com/products/view/6"
+  },
+  {
+    "partNumber": "DT-370-MFMO-5",
+    "manufacturer": "Parker",
+    "alternativePartNumber": "1106F",
+    "catalogLink": "https://vonberg.com/products/view/6"
+  },
+  {
+    "partNumber": "DT-500-MFMO-5",
+    "manufacturer": "Parker",
+    "alternativePartNumber": "1108F",
+    "catalogLink": "https://vonberg.com/products/view/6"
+  },
+  {
+    "partNumber": "DT-620-MFMO-5",
+    "manufacturer": "Parker",
+    "alternativePartNumber": "1110F",
+    "catalogLink": "https://vonberg.com/products/view/6"
+  },
+  {
+    "partNumber": "DT-750-MFMO-5",
+    "manufacturer": "Parker",
+    "alternativePartNumber": "1112F",
+    "catalogLink": "https://vonberg.com/products/view/6"
+  },
+  {
+    "partNumber": "DT-1000-MFMO-5",
+    "manufacturer": "Parker",
+    "alternativePartNumber": "1116F",
+    "catalogLink": "https://vonberg.com/products/view/6"
+  },
+  {
+    "partNumber": "DT-1250-MFMO-5",
+    "manufacturer": "Parker",
+    "alternativePartNumber": "1120F",
+    "catalogLink": "https://vonberg.com/products/view/6"
+  },
+  {
+    "partNumber": "DT-250-MFMO-1",
+    "manufacturer": "Parker",
+    "alternativePartNumber": "1104F-1",
+    "catalogLink": "https://vonberg.com/products/view/6"
+  },
+  {
+    "partNumber": "DT-370-MFMO-1",
+    "manufacturer": "Parker",
+    "alternativePartNumber": "1106F-1",
+    "catalogLink": "https://vonberg.com/products/view/6"
+  },
+  {
+    "partNumber": "DT-500-MFMO-1",
+    "manufacturer": "Parker",
+    "alternativePartNumber": "1108F-1",
+    "catalogLink": "https://vonberg.com/products/view/6"
+  },
+  {
+    "partNumber": "DT-620-MFMO-1",
+    "manufacturer": "Parker",
+    "alternativePartNumber": "1110F-1",
+    "catalogLink": "https://vonberg.com/products/view/6"
+  },
+  {
+    "partNumber": "DT-750-MFMO-1",
+    "manufacturer": "Parker",
+    "alternativePartNumber": "1112F-1",
+    "catalogLink": "https://vonberg.com/products/view/6"
+  },
+  {
+    "partNumber": "DT-1000-MFMO-1",
+    "manufacturer": "Parker",
+    "alternativePartNumber": "1116F-1",
+    "catalogLink": "https://vonberg.com/products/view/6"
+  },
+  {
+    "partNumber": "DT-1250-MFMO-1",
+    "manufacturer": "Parker",
+    "alternativePartNumber": "1120F-1",
+    "catalogLink": "https://vonberg.com/products/view/6"
+  },
+  {
+    "partNumber": "DT-250-MFMO-65",
+    "manufacturer": "Parker",
+    "alternativePartNumber": "1104F-65",
+    "catalogLink": "https://vonberg.com/products/view/6"
+  },
+  {
+    "partNumber": "DT-370-MFMO-65",
+    "manufacturer": "Parker",
+    "alternativePartNumber": "1106F-65",
+    "catalogLink": "https://vonberg.com/products/view/6"
+  },
+  {
+    "partNumber": "DT-500-MFMO-65",
+    "manufacturer": "Parker",
+    "alternativePartNumber": "1108F-65",
+    "catalogLink": "https://vonberg.com/products/view/6"
+  },
+  {
+    "partNumber": "DT-620-MFMO-65",
+    "manufacturer": "Parker",
+    "alternativePartNumber": "1110F-65",
+    "catalogLink": "https://vonberg.com/products/view/6"
+  },
+  {
+    "partNumber": "DT-750-MFMO-65",
+    "manufacturer": "Parker",
+    "alternativePartNumber": "1112F-65",
+    "catalogLink": "https://vonberg.com/products/view/6"
+  },
+  {
+    "partNumber": "DT-1000-MFMO-65",
+    "manufacturer": "Parker",
+    "alternativePartNumber": "1116F-65",
+    "catalogLink": "https://vonberg.com/products/view/6"
+  },
+  {
+    "partNumber": "DT-1250-MFMO-65",
+    "manufacturer": "Parker",
+    "alternativePartNumber": "1120F-65",
+    "catalogLink": "https://vonberg.com/products/view/6"
+  },
+  {
+    "partNumber": "DT-250-MSMS-5",
+    "manufacturer": "Parker",
+    "alternativePartNumber": "1904FS",
+    "catalogLink": "https://vonberg.com/products/view/62"
+  },
+  {
+    "partNumber": "DT-370-MSMS-5",
+    "manufacturer": "Parker",
+    "alternativePartNumber": "1906FS",
+    "catalogLink": "https://vonberg.com/products/view/62"
+  },
+  {
+    "partNumber": "DT-500-MSMS-5",
+    "manufacturer": "Parker",
+    "alternativePartNumber": "1908FS",
+    "catalogLink": "https://vonberg.com/products/view/62"
+  },
+  {
+    "partNumber": "DT-620-MSMS-5",
+    "manufacturer": "Parker",
+    "alternativePartNumber": "1910FS",
+    "catalogLink": "https://vonberg.com/products/view/62"
+  },
+  {
+    "partNumber": "DT-750-MSMS-5",
+    "manufacturer": "Parker",
+    "alternativePartNumber": "1912FS",
+    "catalogLink": "https://vonberg.com/products/view/62"
+  },
+  {
+    "partNumber": "DT-1000-MSMS-5",
+    "manufacturer": "Parker",
+    "alternativePartNumber": "1916FS",
+    "catalogLink": "https://vonberg.com/products/view/62"
+  },
+  {
+    "partNumber": "DT-1250-MSMS-5",
+    "manufacturer": "Parker",
+    "alternativePartNumber": "1920FS",
+    "catalogLink": "https://vonberg.com/products/view/62"
+  },
+  {
+    "partNumber": "DT-250-MSMS-1",
+    "manufacturer": "Parker",
+    "alternativePartNumber": "1904FS-1",
+    "catalogLink": "https://vonberg.com/products/view/62"
+  },
+  {
+    "partNumber": "DT-370-MSMS-1",
+    "manufacturer": "Parker",
+    "alternativePartNumber": "1906FS-1",
+    "catalogLink": "https://vonberg.com/products/view/62"
+  },
+  {
+    "partNumber": "DT-500-MSMS-1",
+    "manufacturer": "Parker",
+    "alternativePartNumber": "1908FS-1",
+    "catalogLink": "https://vonberg.com/products/view/62"
+  },
+  {
+    "partNumber": "DT-620-MSMS-1",
+    "manufacturer": "Parker",
+    "alternativePartNumber": "1910FS-1",
+    "catalogLink": "https://vonberg.com/products/view/62"
+  },
+  {
+    "partNumber": "DT-750-MSMS-1",
+    "manufacturer": "Parker",
+    "alternativePartNumber": "1912FS-1",
+    "catalogLink": "https://vonberg.com/products/view/62"
+  },
+  {
+    "partNumber": "DT-1000-MSMS-1",
+    "manufacturer": "Parker",
+    "alternativePartNumber": "1916FS-1",
+    "catalogLink": "https://vonberg.com/products/view/62"
+  },
+  {
+    "partNumber": "DT-1250-MSMS-1",
+    "manufacturer": "Parker",
+    "alternativePartNumber": "1920FS-1",
+    "catalogLink": "https://vonberg.com/products/view/62"
+  },
+  {
+    "partNumber": "DT-250-MSMS-65",
+    "manufacturer": "Parker",
+    "alternativePartNumber": "1904FS-65",
+    "catalogLink": "https://vonberg.com/products/view/62"
+  },
+  {
+    "partNumber": "DT-370-MSMS-65",
+    "manufacturer": "Parker",
+    "alternativePartNumber": "1906FS-65",
+    "catalogLink": "https://vonberg.com/products/view/62"
+  },
+  {
+    "partNumber": "DT-500-MSMS-65",
+    "manufacturer": "Parker",
+    "alternativePartNumber": "1908FS-65",
+    "catalogLink": "https://vonberg.com/products/view/62"
+  },
+  {
+    "partNumber": "DT-620-MSMS-65",
+    "manufacturer": "Parker",
+    "alternativePartNumber": "1910FS-65",
+    "catalogLink": "https://vonberg.com/products/view/62"
+  },
+  {
+    "partNumber": "DT-750-MSMS-65",
+    "manufacturer": "Parker",
+    "alternativePartNumber": "1912FS-65",
+    "catalogLink": "https://vonberg.com/products/view/62"
+  },
+  {
+    "partNumber": "DT-1000-MSMS-65",
+    "manufacturer": "Parker",
+    "alternativePartNumber": "1916FS-65",
+    "catalogLink": "https://vonberg.com/products/view/62"
+  },
+  {
+    "partNumber": "DT-1250-MSMS-65",
+    "manufacturer": "Parker",
+    "alternativePartNumber": "1920FS-65",
+    "catalogLink": "https://vonberg.com/products/view/62"
+  },
+  {
+    "partNumber": "CBCA-LHN",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "55T11-3-3000;55T11C-3-3000",
+    "catalogLink": "https://vonberg.com/products/view/105;https://vonberg.com/products/view/128"
+  },
+  {
+    "partNumber": "CBCA-LIN",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "55T11-3-1000;55T11C-3-1000",
+    "catalogLink": "https://vonberg.com/products/view/105;https://vonberg.com/products/view/128"
+  },
+  {
+    "partNumber": "CBCA-LAN",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "55T11L-3-3000;55T11LC-3-3000",
+    "catalogLink": "https://vonberg.com/products/view/105;https://vonberg.com/products/view/128"
+  },
+  {
+    "partNumber": "CBCA-LBN",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "55T11L-3-1000;55T11LC-3-1000",
+    "catalogLink": "https://vonberg.com/products/view/105;https://vonberg.com/products/view/128"
+  },
+  {
+    "partNumber": "CBCA-CHN",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "55T11T-3-3000;55T11CT-3-3000",
+    "catalogLink": "https://vonberg.com/products/view/105;https://vonberg.com/products/view/128"
+  },
+  {
+    "partNumber": "CBCA-CIN",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "55T11T-3-1000;55T11CT-3-1000",
+    "catalogLink": "https://vonberg.com/products/view/105;https://vonberg.com/products/view/128"
+  },
+  {
+    "partNumber": "CBCA-CAN",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "55T11LT-3-3000;55T11LCT-3-3000",
+    "catalogLink": "https://vonberg.com/products/view/105;https://vonberg.com/products/view/128"
+  },
+  {
+    "partNumber": "CBCA-CBN",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "55T11LT-3-1000;55T11LCT-3-1000",
+    "catalogLink": "https://vonberg.com/products/view/105;https://vonberg.com/products/view/128"
+  },
+  {
+    "partNumber": "CBCA-LHV",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "55T11K-3-3000;55T11CK-3-3000",
+    "catalogLink": "https://vonberg.com/products/view/105;https://vonberg.com/products/view/128"
+  },
+  {
+    "partNumber": "CBCA-LIV",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "55T11K-3-1000;55T11CK-3-1000",
+    "catalogLink": "https://vonberg.com/products/view/105;https://vonberg.com/products/view/128"
+  },
+  {
+    "partNumber": "CBCA-LAV",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "55T11LK-3-3000;55T11LCK-3-3000",
+    "catalogLink": "https://vonberg.com/products/view/105;https://vonberg.com/products/view/128"
+  },
+  {
+    "partNumber": "CBCA-LBV",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "55T11LK-3-1000;55T11LCK-3-1000",
+    "catalogLink": "https://vonberg.com/products/view/105;https://vonberg.com/products/view/128"
+  },
+  {
+    "partNumber": "CBCA-CHV",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "55T11KT-3-3000;55T11CKT-3-3000",
+    "catalogLink": "https://vonberg.com/products/view/105;https://vonberg.com/products/view/128"
+  },
+  {
+    "partNumber": "CBCA-CIV",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "55T11KT-3-1000;55T11CKT-3-1000",
+    "catalogLink": "https://vonberg.com/products/view/105;https://vonberg.com/products/view/128"
+  },
+  {
+    "partNumber": "CBCA-CAV",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "55T11LKT-3-3000;55T11LCKT-3-3000",
+    "catalogLink": "https://vonberg.com/products/view/105;https://vonberg.com/products/view/128"
+  },
+  {
+    "partNumber": "CBCA-CBV",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "55T11LKT-3-1000;55T11LCKT-3-1000",
+    "catalogLink": "https://vonberg.com/products/view/105;https://vonberg.com/products/view/128"
+  },
+  {
+    "partNumber": "CBCB-LHN",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "55T11-1.5-3000;55T11C-1.5-3000",
+    "catalogLink": "https://vonberg.com/products/view/105;https://vonberg.com/products/view/128"
+  },
+  {
+    "partNumber": "CBCB-LIN",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "55T11-1.5-1000;55T11C-1.5-1000",
+    "catalogLink": "https://vonberg.com/products/view/105;https://vonberg.com/products/view/128"
+  },
+  {
+    "partNumber": "CBCB-LAN",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "55T11L-1.5-3000;55T11LC-1.5-3000",
+    "catalogLink": "https://vonberg.com/products/view/105;https://vonberg.com/products/view/128"
+  },
+  {
+    "partNumber": "CBCB-LBN",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "55T11L-1.5-1000;55T11LC-1.5-1000",
+    "catalogLink": "https://vonberg.com/products/view/105;https://vonberg.com/products/view/128"
+  },
+  {
+    "partNumber": "CBCB-CHN",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "55T11T-1.5-3000;55T11CT-1.5-3000",
+    "catalogLink": "https://vonberg.com/products/view/105;https://vonberg.com/products/view/128"
+  },
+  {
+    "partNumber": "CBCB-CIN",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "55T11T-1.5-1000;55T11CT-1.5-1000",
+    "catalogLink": "https://vonberg.com/products/view/105;https://vonberg.com/products/view/128"
+  },
+  {
+    "partNumber": "CBCB-CAN",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "55T11LT-1.5-3000;55T11LCT-1.5-3000",
+    "catalogLink": "https://vonberg.com/products/view/105;https://vonberg.com/products/view/128"
+  },
+  {
+    "partNumber": "CBCB-CBN",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "55T11LT-1.5-1000;55T11LCT-1.5-1000",
+    "catalogLink": "https://vonberg.com/products/view/105;https://vonberg.com/products/view/128"
+  },
+  {
+    "partNumber": "CBCB-LHV",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "55T11K-1.5-3000;55T11CK-1.5-3000",
+    "catalogLink": "https://vonberg.com/products/view/105;https://vonberg.com/products/view/128"
+  },
+  {
+    "partNumber": "CBCB-LIV",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "55T11K-1.5-1000;55T11CK-1.5-1000",
+    "catalogLink": "https://vonberg.com/products/view/105;https://vonberg.com/products/view/128"
+  },
+  {
+    "partNumber": "CBCB-LAV",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "55T11LK-1.5-3000;55T11LCK-1.5-3000",
+    "catalogLink": "https://vonberg.com/products/view/105;https://vonberg.com/products/view/128"
+  },
+  {
+    "partNumber": "CBCB-LBV",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "55T11LK-1.5-1000;55T11LCK-1.5-1000",
+    "catalogLink": "https://vonberg.com/products/view/105;https://vonberg.com/products/view/128"
+  },
+  {
+    "partNumber": "CBCB-CHV",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "55T11KT-1.5-3000;55T11CKT-1.5-3000",
+    "catalogLink": "https://vonberg.com/products/view/105;https://vonberg.com/products/view/128"
+  },
+  {
+    "partNumber": "CBCB-CIV",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "55T11KT-1.5-1000;55T11CKT-1.5-1000",
+    "catalogLink": "https://vonberg.com/products/view/105;https://vonberg.com/products/view/128"
+  },
+  {
+    "partNumber": "CBCB-CAV",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "55T11LKT-1.5-3000;55T11LCKT-1.5-3000",
+    "catalogLink": "https://vonberg.com/products/view/105;https://vonberg.com/products/view/128"
+  },
+  {
+    "partNumber": "CBCB-CBV",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "55T11LKT-1.5-1000;55T11LCT-1.5-1000",
+    "catalogLink": "https://vonberg.com/products/view/105;https://vonberg.com/products/view/128"
+  },
+  {
+    "partNumber": "CBCY-LHN",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "55T11-2-3000;55T11C-2-3000",
+    "catalogLink": "https://vonberg.com/products/view/105;https://vonberg.com/products/view/128"
+  },
+  {
+    "partNumber": "CBCY-LIN",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "55T11-2-1000;55T11C-2-1000",
+    "catalogLink": "https://vonberg.com/products/view/105;https://vonberg.com/products/view/128"
+  },
+  {
+    "partNumber": "CBCY-LAN",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "55T11L-2-3000;55T11LC-2-3000",
+    "catalogLink": "https://vonberg.com/products/view/105;https://vonberg.com/products/view/128"
+  },
+  {
+    "partNumber": "CBCY-LBN",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "55T11L-2-1000;55T11LC-2-1000",
+    "catalogLink": "https://vonberg.com/products/view/105;https://vonberg.com/products/view/128"
+  },
+  {
+    "partNumber": "CBCY-CHN",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "55T11T-2-3000;55T11CT-2-3000",
+    "catalogLink": "https://vonberg.com/products/view/105;https://vonberg.com/products/view/128"
+  },
+  {
+    "partNumber": "CBCY-CIN",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "55T11T-2-1000;55T11CT-2-1000",
+    "catalogLink": "https://vonberg.com/products/view/105;https://vonberg.com/products/view/128"
+  },
+  {
+    "partNumber": "CBCY-CAN",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "55T11LT-2-3000;55T11LCT-2-3000",
+    "catalogLink": "https://vonberg.com/products/view/105;https://vonberg.com/products/view/128"
+  },
+  {
+    "partNumber": "CBCY-CBN",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "55T11LT-2-1000;55T11LCT-2-1000",
+    "catalogLink": "https://vonberg.com/products/view/105;https://vonberg.com/products/view/128"
+  },
+  {
+    "partNumber": "CBCY-LHV",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "55T11K-2-3000;55T11CK-2-3000",
+    "catalogLink": "https://vonberg.com/products/view/105;https://vonberg.com/products/view/128"
+  },
+  {
+    "partNumber": "CBCY-LIV",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "55T11K-2-1000;55T11CK-2-1000",
+    "catalogLink": "https://vonberg.com/products/view/105;https://vonberg.com/products/view/128"
+  },
+  {
+    "partNumber": "CBCY-LAV",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "55T11LK-2-3000;55T11LCK-2-3000",
+    "catalogLink": "https://vonberg.com/products/view/105;https://vonberg.com/products/view/128"
+  },
+  {
+    "partNumber": "CBCY-LBV",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "55T11LK-2-1000;55T11LCK-2-1000",
+    "catalogLink": "https://vonberg.com/products/view/105;https://vonberg.com/products/view/128"
+  },
+  {
+    "partNumber": "CBCY-CHV",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "55T11KT-2-3000;55T11CKT-2-3000",
+    "catalogLink": "https://vonberg.com/products/view/105;https://vonberg.com/products/view/128"
+  },
+  {
+    "partNumber": "CBCY-CIV",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "55T11KT-2-1000;55T11CKT-2-1000",
+    "catalogLink": "https://vonberg.com/products/view/105;https://vonberg.com/products/view/128"
+  },
+  {
+    "partNumber": "CBCY-CAV",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "55T11LKT-2-3000;55T11LCKT-2-3000",
+    "catalogLink": "https://vonberg.com/products/view/105;https://vonberg.com/products/view/128"
+  },
+  {
+    "partNumber": "CBCY-CBV",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "55T11LKT-2-1000;55T11LCKT-2-1000",
+    "catalogLink": "https://vonberg.com/products/view/105;https://vonberg.com/products/view/128"
+  },
+  {
+    "partNumber": "CBCG-LJN",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "55T11-4.5-3000;55T11C-4.5-3000",
+    "catalogLink": "https://vonberg.com/products/view/105;https://vonberg.com/products/view/128"
+  },
+  {
+    "partNumber": "CBCG-LKN",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "55T11-4.5-1000;55T11C-4.5-1000",
+    "catalogLink": "https://vonberg.com/products/view/105;https://vonberg.com/products/view/128"
+  },
+  {
+    "partNumber": "CBCG-LCN",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "55T11L-4.5-3000;55T11LC-4.5-3000",
+    "catalogLink": "https://vonberg.com/products/view/105;https://vonberg.com/products/view/128"
+  },
+  {
+    "partNumber": "CBCG-LDN",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "55T11L-4.5-1000;55T11LC-4.5-1000",
+    "catalogLink": "https://vonberg.com/products/view/105;https://vonberg.com/products/view/128"
+  },
+  {
+    "partNumber": "CBCG-CJN",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "55T11T-4.5-3000;55T11CT-4.5-3000",
+    "catalogLink": "https://vonberg.com/products/view/105;https://vonberg.com/products/view/128"
+  },
+  {
+    "partNumber": "CBCG-CKN",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "55T11T-4.5-1000;55T11CT-4.5-1000",
+    "catalogLink": "https://vonberg.com/products/view/105;https://vonberg.com/products/view/128"
+  },
+  {
+    "partNumber": "CBCG-CCN",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "55T11LT-4.5-3000;55T11LCT-4.5-3000",
+    "catalogLink": "https://vonberg.com/products/view/105;https://vonberg.com/products/view/128"
+  },
+  {
+    "partNumber": "CBCG-CDN",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "55T11LT-4.5-1000;55T11LCT-4.5-1000",
+    "catalogLink": "https://vonberg.com/products/view/105;https://vonberg.com/products/view/128"
+  },
+  {
+    "partNumber": "CBCH-LJN",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "55T11-10-3000;55T11C-10-3000",
+    "catalogLink": "https://vonberg.com/products/view/105;https://vonberg.com/products/view/128"
+  },
+  {
+    "partNumber": "CBCH-LKN",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "55T11-10-1000;55T11C-10-1000",
+    "catalogLink": "https://vonberg.com/products/view/105;https://vonberg.com/products/view/128"
+  },
+  {
+    "partNumber": "CBCH-LCN",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "55T11L-10-3000;55T11LC-10-3000",
+    "catalogLink": "https://vonberg.com/products/view/105;https://vonberg.com/products/view/128"
+  },
+  {
+    "partNumber": "CBCH-LDN",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "55T11L-10-1000;55T11LC-10-1000",
+    "catalogLink": "https://vonberg.com/products/view/105;https://vonberg.com/products/view/128"
+  },
+  {
+    "partNumber": "CBCH-CJN",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "55T11T-10-3000;55T11CT-10-3000",
+    "catalogLink": "https://vonberg.com/products/view/105;https://vonberg.com/products/view/128"
+  },
+  {
+    "partNumber": "CBCH-CKN",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "55T11T-10-1000;55T11CT-10-1000",
+    "catalogLink": "https://vonberg.com/products/view/105;https://vonberg.com/products/view/128"
+  },
+  {
+    "partNumber": "CBCH-CCN",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "55T11LT-10-3000;55T11LCT-10-3000",
+    "catalogLink": "https://vonberg.com/products/view/105;https://vonberg.com/products/view/128"
+  },
+  {
+    "partNumber": "CBCH-CDN",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "55T11LT-10-1000;55T11LCT-10-1000",
+    "catalogLink": "https://vonberg.com/products/view/105;https://vonberg.com/products/view/128"
+  },
+  {
+    "partNumber": "CBCL-LJN",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "55T11-2.3-3000;55T11C-2.3-3000",
+    "catalogLink": "https://vonberg.com/products/view/105;https://vonberg.com/products/view/128"
+  },
+  {
+    "partNumber": "CBCL-LKN",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "55T11-2.3-1000;55T11C-2.3-1000",
+    "catalogLink": "https://vonberg.com/products/view/105;https://vonberg.com/products/view/128"
+  },
+  {
+    "partNumber": "CBCL-LCN",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "55T11L-2.3-3000;55T11LC-2.3-3000",
+    "catalogLink": "https://vonberg.com/products/view/105;https://vonberg.com/products/view/128"
+  },
+  {
+    "partNumber": "CBCL-LDN",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "55T11L-2.3-1000;55T11LC-2.3-1000",
+    "catalogLink": "https://vonberg.com/products/view/105;https://vonberg.com/products/view/128"
+  },
+  {
+    "partNumber": "CBCL-CJN",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "55T11T-2.3-3000;55T11CT-2.3-3000",
+    "catalogLink": "https://vonberg.com/products/view/105;https://vonberg.com/products/view/128"
+  },
+  {
+    "partNumber": "CBCL-CKN",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "55T11T-2.3-1000;55T11CT-2.3-1000",
+    "catalogLink": "https://vonberg.com/products/view/105;https://vonberg.com/products/view/128"
+  },
+  {
+    "partNumber": "CBCL-CCN",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "55T11LT-2.3-3000;55T11LCT-2.3-3000",
+    "catalogLink": "https://vonberg.com/products/view/105;https://vonberg.com/products/view/128"
+  },
+  {
+    "partNumber": "CBCL-CDN",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "55T11LT-2.3-1000;55T11LCT-2.3-1000",
+    "catalogLink": "https://vonberg.com/products/view/105;https://vonberg.com/products/view/128"
+  },
+  {
+    "partNumber": "CBCG-LJV",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "55T11K-4.5-3000;55T11CK-4.5-3000",
+    "catalogLink": "https://vonberg.com/products/view/105;https://vonberg.com/products/view/128"
+  },
+  {
+    "partNumber": "CBCG-LKV",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "55T11K-4.5-1000;55T11CK-4.5-1000",
+    "catalogLink": "https://vonberg.com/products/view/105;https://vonberg.com/products/view/128"
+  },
+  {
+    "partNumber": "CBCG-LCV",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "55T11LK-4.5-3000;55T11LCK-4.5-3000",
+    "catalogLink": "https://vonberg.com/products/view/105;https://vonberg.com/products/view/128"
+  },
+  {
+    "partNumber": "CBCG-LDV",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "55T11LK-4.5-1000;55T11LCK-4.5-1000",
+    "catalogLink": "https://vonberg.com/products/view/105;https://vonberg.com/products/view/128"
+  },
+  {
+    "partNumber": "CBCG-CJV",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "55T11KT-4.5-3000;55T11CKT-4.5-3000",
+    "catalogLink": "https://vonberg.com/products/view/105;https://vonberg.com/products/view/128"
+  },
+  {
+    "partNumber": "CBCG-CKV",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "55T11KT-4.5-1000;55T11CKT-4.5-1000",
+    "catalogLink": "https://vonberg.com/products/view/105;https://vonberg.com/products/view/128"
+  },
+  {
+    "partNumber": "CBCG-CCV",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "55T11LKT-4.5-3000;55T11LCKT-4.5-3000",
+    "catalogLink": "https://vonberg.com/products/view/105;https://vonberg.com/products/view/128"
+  },
+  {
+    "partNumber": "CBCG-CDV",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "55T11LKT-4.5-1000;55T11LCKT-4.5-1000",
+    "catalogLink": "https://vonberg.com/products/view/105;https://vonberg.com/products/view/128"
+  },
+  {
+    "partNumber": "CBCH-LJV",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "55T11K-10-3000;55T11C-K10-3000",
+    "catalogLink": "https://vonberg.com/products/view/105;https://vonberg.com/products/view/128"
+  },
+  {
+    "partNumber": "CBCH-LKV",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "55T11K-10-1000;55T11CK-10-1000",
+    "catalogLink": "https://vonberg.com/products/view/105;https://vonberg.com/products/view/128"
+  },
+  {
+    "partNumber": "CBCH-LCV",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "55T11LK-10-3000;55T11LCK-10-3000",
+    "catalogLink": "https://vonberg.com/products/view/105;https://vonberg.com/products/view/128"
+  },
+  {
+    "partNumber": "CBCH-LDV",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "55T11LK-10-1000;55T11LC-K10-1000",
+    "catalogLink": "https://vonberg.com/products/view/105;https://vonberg.com/products/view/128"
+  },
+  {
+    "partNumber": "CBCH-CJV",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "55T11KT-10-3000;55T11CKT-10-3000",
+    "catalogLink": "https://vonberg.com/products/view/105;https://vonberg.com/products/view/128"
+  },
+  {
+    "partNumber": "CBCH-CKV",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "55T11KT-10-1000;55T11CKT-10-1000",
+    "catalogLink": "https://vonberg.com/products/view/105;https://vonberg.com/products/view/128"
+  },
+  {
+    "partNumber": "CBCH-CCV",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "55T11LKT-10-3000;55T11LCKT-10-3000",
+    "catalogLink": "https://vonberg.com/products/view/105;https://vonberg.com/products/view/128"
+  },
+  {
+    "partNumber": "CBCH-CDV",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "55T11LKT-10-1000;55T11LCKT-10-1000",
+    "catalogLink": "https://vonberg.com/products/view/105;https://vonberg.com/products/view/128"
+  },
+  {
+    "partNumber": "CBCL-LJV",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "55T11K-2.3-3000;55T11CK-2.3-3000",
+    "catalogLink": "https://vonberg.com/products/view/105;https://vonberg.com/products/view/128"
+  },
+  {
+    "partNumber": "CBCL-LKV",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "55T11K-2.3-1000;55T11CK-2.3-1000",
+    "catalogLink": "https://vonberg.com/products/view/105;https://vonberg.com/products/view/128"
+  },
+  {
+    "partNumber": "CBCL-LCV",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "55T11LK-2.3-3000;55T11LCK-2.3-3000",
+    "catalogLink": "https://vonberg.com/products/view/105;https://vonberg.com/products/view/128"
+  },
+  {
+    "partNumber": "CBCL-LDV",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "55T11LK-2.3-1000;55T11LCK-2.3-1000",
+    "catalogLink": "https://vonberg.com/products/view/105;https://vonberg.com/products/view/128"
+  },
+  {
+    "partNumber": "CBCL-CJV",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "55T11KT-2.3-3000;55T11CKT-2.3-3000",
+    "catalogLink": "https://vonberg.com/products/view/105;https://vonberg.com/products/view/128"
+  },
+  {
+    "partNumber": "CBCL-CKV",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "55T11KT-2.3-1000;55T11CKT-2.3-1000",
+    "catalogLink": "https://vonberg.com/products/view/105;https://vonberg.com/products/view/128"
+  },
+  {
+    "partNumber": "CBCL-CCV",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "55T11LKT-2.3-3000;55T11LCKT-2.3-3000",
+    "catalogLink": "https://vonberg.com/products/view/105;https://vonberg.com/products/view/128"
+  },
+  {
+    "partNumber": "CBCL-CDV",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "55T11LKT-2.3-1000;55T11LCKT-2.3-1000",
+    "catalogLink": "https://vonberg.com/products/view/105;https://vonberg.com/products/view/128"
+  },
+  {
+    "partNumber": "CBBC-LHN",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "55T11-3-3000;55T11C-3-3000",
+    "catalogLink": "https://vonberg.com/products/view/105;https://vonberg.com/products/view/128"
+  },
+  {
+    "partNumber": "CBBC-LIN",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "55T11-3-1000;55T11C-3-1000",
+    "catalogLink": "https://vonberg.com/products/view/105;https://vonberg.com/products/view/128"
+  },
+  {
+    "partNumber": "CBBC-LAN",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "55T11L-3-3000;55T11LC-3-3000",
+    "catalogLink": "https://vonberg.com/products/view/105;https://vonberg.com/products/view/128"
+  },
+  {
+    "partNumber": "CBBC-LBN",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "55T11L-3-1000;55T11LC-3-1000",
+    "catalogLink": "https://vonberg.com/products/view/105;https://vonberg.com/products/view/128"
+  },
+  {
+    "partNumber": "CBBC-CHN",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "55T11T-3-3000;55T11CT-3-3000",
+    "catalogLink": "https://vonberg.com/products/view/105;https://vonberg.com/products/view/128"
+  },
+  {
+    "partNumber": "CBBC-CIN",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "55T11T-3-1000;55T11CT-3-1000",
+    "catalogLink": "https://vonberg.com/products/view/105;https://vonberg.com/products/view/128"
+  },
+  {
+    "partNumber": "CBBC-CAN",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "55T11LT-3-3000;55T11LCT-3-3000",
+    "catalogLink": "https://vonberg.com/products/view/105;https://vonberg.com/products/view/128"
+  },
+  {
+    "partNumber": "CBBC-CBN",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "55T11LT-3-1000;55T11LCT-3-1000",
+    "catalogLink": "https://vonberg.com/products/view/105;https://vonberg.com/products/view/128"
+  },
+  {
+    "partNumber": "CBBC-LHV",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "55T11K-3-3000;55T11CK-3-3000",
+    "catalogLink": "https://vonberg.com/products/view/105;https://vonberg.com/products/view/128"
+  },
+  {
+    "partNumber": "CBBC-LIV",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "55T11K-3-1000;55T11CK-3-1000",
+    "catalogLink": "https://vonberg.com/products/view/105;https://vonberg.com/products/view/128"
+  },
+  {
+    "partNumber": "CBBC-LAV",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "55T11LK-3-3000;55T11LCK-3-3000",
+    "catalogLink": "https://vonberg.com/products/view/105;https://vonberg.com/products/view/128"
+  },
+  {
+    "partNumber": "CBBC-LBV",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "55T11LK-3-1000;55T11LCK-3-1000",
+    "catalogLink": "https://vonberg.com/products/view/105;https://vonberg.com/products/view/128"
+  },
+  {
+    "partNumber": "CBBC-CHV",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "55T11KT-3-3000;55T11CKT-3-3000",
+    "catalogLink": "https://vonberg.com/products/view/105;https://vonberg.com/products/view/128"
+  },
+  {
+    "partNumber": "CBBC-CIV",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "55T11KT-3-1000;55T11CKT-3-1000",
+    "catalogLink": "https://vonberg.com/products/view/105;https://vonberg.com/products/view/128"
+  },
+  {
+    "partNumber": "CBBC-CAV",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "55T11LKT-3-3000;55T11LCKT-3-3000",
+    "catalogLink": "https://vonberg.com/products/view/105;https://vonberg.com/products/view/128"
+  },
+  {
+    "partNumber": "CBBC-CBV",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "55T11LKT-3-1000;55T11LCKT-3-1000",
+    "catalogLink": "https://vonberg.com/products/view/105;https://vonberg.com/products/view/128"
+  },
+  {
+    "partNumber": "CBBB-LHN",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "55T11-1.5-3000;55T11C-1.5-3000",
+    "catalogLink": "https://vonberg.com/products/view/105;https://vonberg.com/products/view/128"
+  },
+  {
+    "partNumber": "CBBB-LIN",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "55T11-1.5-1000;55T11C-1.5-1000",
+    "catalogLink": "https://vonberg.com/products/view/105;https://vonberg.com/products/view/128"
+  },
+  {
+    "partNumber": "CBBB-LAN",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "55T11L-1.5-3000;55T11LC-1.5-3000",
+    "catalogLink": "https://vonberg.com/products/view/105;https://vonberg.com/products/view/128"
+  },
+  {
+    "partNumber": "CBBB-LBN",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "55T11L-1.5-1000;55T11LC-1.5-1000",
+    "catalogLink": "https://vonberg.com/products/view/105;https://vonberg.com/products/view/128"
+  },
+  {
+    "partNumber": "CBBB-CHN",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "55T11T-1.5-3000;55T11CT-1.5-3000",
+    "catalogLink": "https://vonberg.com/products/view/105;https://vonberg.com/products/view/128"
+  },
+  {
+    "partNumber": "CBBB-CIN",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "55T11T-1.5-1000;55T11CT-1.5-1000",
+    "catalogLink": "https://vonberg.com/products/view/105;https://vonberg.com/products/view/128"
+  },
+  {
+    "partNumber": "CBBB-CAN",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "55T11LT-1.5-3000;55T11LCT-1.5-3000",
+    "catalogLink": "https://vonberg.com/products/view/105;https://vonberg.com/products/view/128"
+  },
+  {
+    "partNumber": "CBBB-CBN",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "55T11LT-1.5-1000;55T11LCT-1.5-1000",
+    "catalogLink": "https://vonberg.com/products/view/105;https://vonberg.com/products/view/128"
+  },
+  {
+    "partNumber": "CBBB-LHV",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "55T11K-1.5-3000;55T11CK-1.5-3000",
+    "catalogLink": "https://vonberg.com/products/view/105;https://vonberg.com/products/view/128"
+  },
+  {
+    "partNumber": "CBBB-LIV",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "55T11K-1.5-1000;55T11CK-1.5-1000",
+    "catalogLink": "https://vonberg.com/products/view/105;https://vonberg.com/products/view/128"
+  },
+  {
+    "partNumber": "CBBB-LAV",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "55T11LK-1.5-3000;55T11LCK-1.5-3000",
+    "catalogLink": "https://vonberg.com/products/view/105;https://vonberg.com/products/view/128"
+  },
+  {
+    "partNumber": "CBBB-LBV",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "55T11LK-1.5-1000;55T11LCK-1.5-1000",
+    "catalogLink": "https://vonberg.com/products/view/105;https://vonberg.com/products/view/128"
+  },
+  {
+    "partNumber": "CBBB-CHV",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "55T11KT-1.5-3000;55T11CKT-1.5-3000",
+    "catalogLink": "https://vonberg.com/products/view/105;https://vonberg.com/products/view/128"
+  },
+  {
+    "partNumber": "CBBB-CIV",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "55T11KT-1.5-1000;55T11CKT-1.5-1000",
+    "catalogLink": "https://vonberg.com/products/view/105;https://vonberg.com/products/view/128"
+  },
+  {
+    "partNumber": "CBBB-CAV",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "55T11LKT-1.5-3000;55T11LCKT-1.5-3000",
+    "catalogLink": "https://vonberg.com/products/view/105;https://vonberg.com/products/view/128"
+  },
+  {
+    "partNumber": "CBBB-CBV",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "55T11LKT-1.5-1000;55T11LCKT-1.5-1000",
+    "catalogLink": "https://vonberg.com/products/view/105;https://vonberg.com/products/view/128"
+  },
+  {
+    "partNumber": "CBBD-LJN",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "55T11-4.5-3000;55T11C-4.5-3000",
+    "catalogLink": "https://vonberg.com/products/view/105;https://vonberg.com/products/view/128"
+  },
+  {
+    "partNumber": "CBBD-LKN",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "55T11-4.5-1000;55T11C-4.5-1000",
+    "catalogLink": "https://vonberg.com/products/view/105;https://vonberg.com/products/view/128"
+  },
+  {
+    "partNumber": "CBBD-LCN",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "55T11L-4.5-3000;55T11LC-4.5-3000",
+    "catalogLink": "https://vonberg.com/products/view/105;https://vonberg.com/products/view/128"
+  },
+  {
+    "partNumber": "CBBD-LDN",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "55T11L-4.5-1000;55T11LC-4.5-1000",
+    "catalogLink": "https://vonberg.com/products/view/105;https://vonberg.com/products/view/128"
+  },
+  {
+    "partNumber": "CBBD-CJN",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "55T11T-4.5-3000;55T11CT-4.5-3000",
+    "catalogLink": "https://vonberg.com/products/view/105;https://vonberg.com/products/view/128"
+  },
+  {
+    "partNumber": "CBBD-CKN",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "55T11T-4.5-1000;55T11CT-4.5-1000",
+    "catalogLink": "https://vonberg.com/products/view/105;https://vonberg.com/products/view/128"
+  },
+  {
+    "partNumber": "CBBD-CCN",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "55T11LT-4.5-3000;55T11LCT-4.5-3000",
+    "catalogLink": "https://vonberg.com/products/view/105;https://vonberg.com/products/view/128"
+  },
+  {
+    "partNumber": "CBBD-CDN",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "55T11LT-4.5-1000;55T11LCT-4.5-1000",
+    "catalogLink": "https://vonberg.com/products/view/105;https://vonberg.com/products/view/128"
+  },
+  {
+    "partNumber": "CBBL-LJN",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "55T11-2.3-3000;55T11C-2.3-3000",
+    "catalogLink": "https://vonberg.com/products/view/105;https://vonberg.com/products/view/128"
+  },
+  {
+    "partNumber": "CBBL-LKN",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "55T11-2.3-1000;55T11C-2.3-1000",
+    "catalogLink": "https://vonberg.com/products/view/105;https://vonberg.com/products/view/128"
+  },
+  {
+    "partNumber": "CBBL-LCN",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "55T11L-2.3-3000;55T11LC-2.3-3000",
+    "catalogLink": "https://vonberg.com/products/view/105;https://vonberg.com/products/view/128"
+  },
+  {
+    "partNumber": "CBBL-LDN",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "55T11L-2.3-1000;55T11LC-2.3-1000",
+    "catalogLink": "https://vonberg.com/products/view/105;https://vonberg.com/products/view/128"
+  },
+  {
+    "partNumber": "CBBL-CJN",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "55T11T-2.3-3000;55T11CT-2.3-3000",
+    "catalogLink": "https://vonberg.com/products/view/105;https://vonberg.com/products/view/128"
+  },
+  {
+    "partNumber": "CBBL-CKN",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "55T11T-2.3-1000;55T11CT-2.3-1000",
+    "catalogLink": "https://vonberg.com/products/view/105;https://vonberg.com/products/view/128"
+  },
+  {
+    "partNumber": "CBBL-CCN",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "55T11LT-2.3-3000;55T11LCT-2.3-3000",
+    "catalogLink": "https://vonberg.com/products/view/105;https://vonberg.com/products/view/128"
+  },
+  {
+    "partNumber": "CBBL-CDN",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "55T11LT-2.3-1000;55T11LCT-2.3-1000",
+    "catalogLink": "https://vonberg.com/products/view/105;https://vonberg.com/products/view/128"
+  },
+  {
+    "partNumber": "CBBD-LJV",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "55T11K-4.5-3000;55T11CK-4.5-3000",
+    "catalogLink": "https://vonberg.com/products/view/105;https://vonberg.com/products/view/128"
+  },
+  {
+    "partNumber": "CBBD-LKV",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "55T11K-4.5-1000;55T11CK-4.5-1000",
+    "catalogLink": "https://vonberg.com/products/view/105;https://vonberg.com/products/view/128"
+  },
+  {
+    "partNumber": "CBBD-LCV",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "55T11LK-4.5-3000;55T11LCK-4.5-3000",
+    "catalogLink": "https://vonberg.com/products/view/105;https://vonberg.com/products/view/128"
+  },
+  {
+    "partNumber": "CBBD-LDV",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "55T11LK-4.5-1000;55T11LCK-4.5-1000",
+    "catalogLink": "https://vonberg.com/products/view/105;https://vonberg.com/products/view/128"
+  },
+  {
+    "partNumber": "CBBD-CJV",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "55T11KT-4.5-3000;55T11CKT-4.5-3000",
+    "catalogLink": "https://vonberg.com/products/view/105;https://vonberg.com/products/view/128"
+  },
+  {
+    "partNumber": "CBBD-CKV",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "55T11KT-4.5-1000;55T11CKT-4.5-1000",
+    "catalogLink": "https://vonberg.com/products/view/105;https://vonberg.com/products/view/128"
+  },
+  {
+    "partNumber": "CBBD-CCV",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "55T11LKT-4.5-3000;55T11LCKT-4.5-3000",
+    "catalogLink": "https://vonberg.com/products/view/105;https://vonberg.com/products/view/128"
+  },
+  {
+    "partNumber": "CBBD-CDV",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "55T11LKT-4.5-1000;55T11LCKT-4.5-1000",
+    "catalogLink": "https://vonberg.com/products/view/105;https://vonberg.com/products/view/128"
+  },
+  {
+    "partNumber": "CBBL-LJV",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "55T11K-2.3-3000;55T11CK-2.3-3000",
+    "catalogLink": "https://vonberg.com/products/view/105;https://vonberg.com/products/view/128"
+  },
+  {
+    "partNumber": "CBBL-LKV",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "55T11K-2.3-1000;55T11CK-2.3-1000",
+    "catalogLink": "https://vonberg.com/products/view/105;https://vonberg.com/products/view/128"
+  },
+  {
+    "partNumber": "CBBL-LCV",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "55T11LK-2.3-3000;55T11LCK-2.3-3000",
+    "catalogLink": "https://vonberg.com/products/view/105;https://vonberg.com/products/view/128"
+  },
+  {
+    "partNumber": "CBBL-LDV",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "55T11LK-2.3-1000;55T11LCK-2.3-1000",
+    "catalogLink": "https://vonberg.com/products/view/105;https://vonberg.com/products/view/128"
+  },
+  {
+    "partNumber": "CBBL-CJV",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "55T11KT-2.3-3000;55T11CKT-2.3-3000",
+    "catalogLink": "https://vonberg.com/products/view/105;https://vonberg.com/products/view/128"
+  },
+  {
+    "partNumber": "CBBL-CKV",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "55T11KT-2.3-1000;55T11CKT-2.3-1000",
+    "catalogLink": "https://vonberg.com/products/view/105;https://vonberg.com/products/view/128"
+  },
+  {
+    "partNumber": "CBBL-CCV",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "55T11LKT-2.3-3000;55T11LCKT-2.3-3000",
+    "catalogLink": "https://vonberg.com/products/view/105;https://vonberg.com/products/view/128"
+  },
+  {
+    "partNumber": "CBBL-CDV",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "55T11LKT-2.3-1000;55T11LCKT-2.3-1000",
+    "catalogLink": "https://vonberg.com/products/view/105;https://vonberg.com/products/view/128"
+  },
+  {
+    "partNumber": "CBBA-LHN",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "55T11-3-3000;55T11C-3-3000",
+    "catalogLink": "https://vonberg.com/products/view/105;https://vonberg.com/products/view/128"
+  },
+  {
+    "partNumber": "CBBA-LIN",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "55T11-3-1000;55T11C-3-1000",
+    "catalogLink": "https://vonberg.com/products/view/105;https://vonberg.com/products/view/128"
+  },
+  {
+    "partNumber": "CBBA-LAN",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "55T11L-3-3000;55T11LC-3-3000",
+    "catalogLink": "https://vonberg.com/products/view/105;https://vonberg.com/products/view/128"
+  },
+  {
+    "partNumber": "CBBA-LBN",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "55T11L-3-1000;55T11LC-3-1000",
+    "catalogLink": "https://vonberg.com/products/view/105;https://vonberg.com/products/view/128"
+  },
+  {
+    "partNumber": "CBBA-CHN",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "55T11T-3-3000;55T11CT-3-3000",
+    "catalogLink": "https://vonberg.com/products/view/105;https://vonberg.com/products/view/128"
+  },
+  {
+    "partNumber": "CBBA-CIN",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "55T11T-3-1000;55T11CT-3-1000",
+    "catalogLink": "https://vonberg.com/products/view/105;https://vonberg.com/products/view/128"
+  },
+  {
+    "partNumber": "CBBA-CAN",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "55T11LT-3-3000;55T11LCT-3-3000",
+    "catalogLink": "https://vonberg.com/products/view/105;https://vonberg.com/products/view/128"
+  },
+  {
+    "partNumber": "CBBA-CBN",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "55T11LT-3-1000;55T11LCT-3-1000",
+    "catalogLink": "https://vonberg.com/products/view/105;https://vonberg.com/products/view/128"
+  },
+  {
+    "partNumber": "CBBA-LHV",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "55T11K-3-3000;55T11CK-3-3000",
+    "catalogLink": "https://vonberg.com/products/view/105;https://vonberg.com/products/view/128"
+  },
+  {
+    "partNumber": "CBBA-LIV",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "55T11K-3-1000;55T11CK-3-1000",
+    "catalogLink": "https://vonberg.com/products/view/105;https://vonberg.com/products/view/128"
+  },
+  {
+    "partNumber": "CBBA-LAV",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "55T11LK-3-3000;55T11LCK-3-3000",
+    "catalogLink": "https://vonberg.com/products/view/105;https://vonberg.com/products/view/128"
+  },
+  {
+    "partNumber": "CBBA-LBV",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "55T11LK-3-1000;55T11LCK-3-1000",
+    "catalogLink": "https://vonberg.com/products/view/105;https://vonberg.com/products/view/128"
+  },
+  {
+    "partNumber": "CBBA-CHV",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "55T11KT-3-3000;55T11CKT-3-3000",
+    "catalogLink": "https://vonberg.com/products/view/105;https://vonberg.com/products/view/128"
+  },
+  {
+    "partNumber": "CBBA-CIV",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "55T11KT-3-1000;55T11CKT-3-1000",
+    "catalogLink": "https://vonberg.com/products/view/105;https://vonberg.com/products/view/128"
+  },
+  {
+    "partNumber": "CBBA-CAV",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "55T11LKT-3-3000;55T11LCKT-3-3000",
+    "catalogLink": "https://vonberg.com/products/view/105;https://vonberg.com/products/view/128"
+  },
+  {
+    "partNumber": "CBBA-CBV",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "55T11LKT-3-1000;55T11LCKT-3-1000",
+    "catalogLink": "https://vonberg.com/products/view/105;https://vonberg.com/products/view/128"
+  },
+  {
+    "partNumber": "CBBY-LHN",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "55T11-2-3000;55T11C-2-3000",
+    "catalogLink": "https://vonberg.com/products/view/105;https://vonberg.com/products/view/128"
+  },
+  {
+    "partNumber": "CBBY-LIN",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "55T11-2-1000;55T11C-2-1000",
+    "catalogLink": "https://vonberg.com/products/view/105;https://vonberg.com/products/view/128"
+  },
+  {
+    "partNumber": "CBBY-LAN",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "55T11L-2-3000;55T11LC-2-3000",
+    "catalogLink": "https://vonberg.com/products/view/105;https://vonberg.com/products/view/128"
+  },
+  {
+    "partNumber": "CBBY-LBN",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "55T11L-2-1000;55T11LC-2-1000",
+    "catalogLink": "https://vonberg.com/products/view/105;https://vonberg.com/products/view/128"
+  },
+  {
+    "partNumber": "CBBY-CHN",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "55T11T-2-3000;55T11CT-2-3000",
+    "catalogLink": "https://vonberg.com/products/view/105;https://vonberg.com/products/view/128"
+  },
+  {
+    "partNumber": "CBBY-CIN",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "55T11T-2-1000;55T11CT-2-1000",
+    "catalogLink": "https://vonberg.com/products/view/105;https://vonberg.com/products/view/128"
+  },
+  {
+    "partNumber": "CBBY-CAN",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "55T11LT-2-3000;55T11LCT-2-3000",
+    "catalogLink": "https://vonberg.com/products/view/105;https://vonberg.com/products/view/128"
+  },
+  {
+    "partNumber": "CBBY-CBN",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "55T11LT-2-1000;55T11LCT-2-1000",
+    "catalogLink": "https://vonberg.com/products/view/105;https://vonberg.com/products/view/128"
+  },
+  {
+    "partNumber": "CBBY-LHV",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "55T11K-2-3000;55T11CK-2-3000",
+    "catalogLink": "https://vonberg.com/products/view/105;https://vonberg.com/products/view/128"
+  },
+  {
+    "partNumber": "CBBY-LIV",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "55T11K-2-1000;55T11CK-2-1000",
+    "catalogLink": "https://vonberg.com/products/view/105;https://vonberg.com/products/view/128"
+  },
+  {
+    "partNumber": "CBBY-LAV",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "55T11LK-2-3000;55T11LCK-2-3000",
+    "catalogLink": "https://vonberg.com/products/view/105;https://vonberg.com/products/view/128"
+  },
+  {
+    "partNumber": "CBBY-LBV",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "55T11LK-2-1000;55T11LCK-2-1000",
+    "catalogLink": "https://vonberg.com/products/view/105;https://vonberg.com/products/view/128"
+  },
+  {
+    "partNumber": "CBBY-CHV",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "55T11KT-2-3000;55T11CKT-2-3000",
+    "catalogLink": "https://vonberg.com/products/view/105;https://vonberg.com/products/view/128"
+  },
+  {
+    "partNumber": "CBBY-CIV",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "55T11KT-2-1000;55T11CKT-2-1000",
+    "catalogLink": "https://vonberg.com/products/view/105;https://vonberg.com/products/view/128"
+  },
+  {
+    "partNumber": "CBBY-CAV",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "55T11LKT-2-3000;55T11LCKT-2-3000",
+    "catalogLink": "https://vonberg.com/products/view/105;https://vonberg.com/products/view/128"
+  },
+  {
+    "partNumber": "CBBY-CBV",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "55T11LKT-2-1000;55T11LCKT-2-1000",
+    "catalogLink": "https://vonberg.com/products/view/105;https://vonberg.com/products/view/128"
+  },
+  {
+    "partNumber": "CBBG-LJN",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "55T11-4.5-3000;55T11C-4.5-3000",
+    "catalogLink": "https://vonberg.com/products/view/105;https://vonberg.com/products/view/128"
+  },
+  {
+    "partNumber": "CBBG-LKN",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "55T11-4.5-1000;55T11C-4.5-1000",
+    "catalogLink": "https://vonberg.com/products/view/105;https://vonberg.com/products/view/128"
+  },
+  {
+    "partNumber": "CBBG-LCN",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "55T11L-4.5-3000;55T11LC-4.5-3000",
+    "catalogLink": "https://vonberg.com/products/view/105;https://vonberg.com/products/view/128"
+  },
+  {
+    "partNumber": "CBBG-LDN",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "55T11L-4.5-1000;55T11LC-4.5-1000",
+    "catalogLink": "https://vonberg.com/products/view/105;https://vonberg.com/products/view/128"
+  },
+  {
+    "partNumber": "CBBG-CJN",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "55T11T-4.5-3000;55T11CT-4.5-3000",
+    "catalogLink": "https://vonberg.com/products/view/105;https://vonberg.com/products/view/128"
+  },
+  {
+    "partNumber": "CBBG-CKN",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "55T11T-4.5-1000;55T11CT-4.5-1000",
+    "catalogLink": "https://vonberg.com/products/view/105;https://vonberg.com/products/view/128"
+  },
+  {
+    "partNumber": "CBBG-CCN",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "55T11LT-4.5-3000;55T11LCT-4.5-3000",
+    "catalogLink": "https://vonberg.com/products/view/105;https://vonberg.com/products/view/128"
+  },
+  {
+    "partNumber": "CBBG-CDN",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "55T11LT-4.5-1000;55T11LCT-4.5-1000",
+    "catalogLink": "https://vonberg.com/products/view/105;https://vonberg.com/products/view/128"
+  },
+  {
+    "partNumber": "CBBG-LJV",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "55T11K-4.5-3000;55T11CK-4.5-3000",
+    "catalogLink": "https://vonberg.com/products/view/105;https://vonberg.com/products/view/128"
+  },
+  {
+    "partNumber": "CBBG-LKV",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "55T11K-4.5-1000;55T11CK-4.5-1000",
+    "catalogLink": "https://vonberg.com/products/view/105;https://vonberg.com/products/view/128"
+  },
+  {
+    "partNumber": "CBBG-LCV",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "55T11LK-4.5-3000;55T11LCK-4.5-3000",
+    "catalogLink": "https://vonberg.com/products/view/105;https://vonberg.com/products/view/128"
+  },
+  {
+    "partNumber": "CBBG-LDV",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "55T11LK-4.5-1000;55T11LCK-4.5-1000",
+    "catalogLink": "https://vonberg.com/products/view/105;https://vonberg.com/products/view/128"
+  },
+  {
+    "partNumber": "CBBG-CJV",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "55T11KT-4.5-3000;55T11CKT-4.5-3000",
+    "catalogLink": "https://vonberg.com/products/view/105;https://vonberg.com/products/view/128"
+  },
+  {
+    "partNumber": "CBBG-CKV",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "55T11KT-4.5-1000;55T11CKT-4.5-1000",
+    "catalogLink": "https://vonberg.com/products/view/105;https://vonberg.com/products/view/128"
+  },
+  {
+    "partNumber": "CBBG-CCV",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "55T11LKT-4.5-3000;55T11LCKT-4.5-3000",
+    "catalogLink": "https://vonberg.com/products/view/105;https://vonberg.com/products/view/128"
+  },
+  {
+    "partNumber": "CBBG-CDV",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "55T11LKT-4.5-1000;55T11LCKT-4.5-1000",
+    "catalogLink": "https://vonberg.com/products/view/105;https://vonberg.com/products/view/128"
+  },
+  {
+    "partNumber": "CBEA-LHN",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "55T2-3-3000;55T2C-3-3000",
+    "catalogLink": "https://vonberg.com/products/view/105;https://vonberg.com/products/view/128"
+  },
+  {
+    "partNumber": "CBEA-LIN",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "55T2-3-1000;55T2C-3-1000",
+    "catalogLink": "https://vonberg.com/products/view/105;https://vonberg.com/products/view/128"
+  },
+  {
+    "partNumber": "CBEA-LAN",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "55T2L-3-3000;55T2LC-3-3000",
+    "catalogLink": "https://vonberg.com/products/view/105;https://vonberg.com/products/view/128"
+  },
+  {
+    "partNumber": "CBEA-LBN",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "55T2L-3-1000;55T2LC-3-1000",
+    "catalogLink": "https://vonberg.com/products/view/105;https://vonberg.com/products/view/128"
+  },
+  {
+    "partNumber": "CBEA-CHN",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "55T2T-3-3000;55T2CT-3-3000",
+    "catalogLink": "https://vonberg.com/products/view/105;https://vonberg.com/products/view/128"
+  },
+  {
+    "partNumber": "CBEA-CIN",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "55T2T-3-1000;55T2CT-3-1000",
+    "catalogLink": "https://vonberg.com/products/view/105;https://vonberg.com/products/view/128"
+  },
+  {
+    "partNumber": "CBEA-CAN",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "55T2LT-3-3000;55T2LCT-3-3000",
+    "catalogLink": "https://vonberg.com/products/view/105;https://vonberg.com/products/view/128"
+  },
+  {
+    "partNumber": "CBEA-CBN",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "55T2LT-3-1000;55T2LCT-3-1000",
+    "catalogLink": "https://vonberg.com/products/view/105;https://vonberg.com/products/view/128"
+  },
+  {
+    "partNumber": "CBEA-LHV",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "55T2K-3-3000;55T2CK-3-3000",
+    "catalogLink": "https://vonberg.com/products/view/105;https://vonberg.com/products/view/128"
+  },
+  {
+    "partNumber": "CBEA-LIV",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "55T2K-3-1000;55T2CK-3-1000",
+    "catalogLink": "https://vonberg.com/products/view/105;https://vonberg.com/products/view/128"
+  },
+  {
+    "partNumber": "CBEA-LAV",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "55T2LK-3-3000;55T2LCK-3-3000",
+    "catalogLink": "https://vonberg.com/products/view/105;https://vonberg.com/products/view/128"
+  },
+  {
+    "partNumber": "CBEA-LBV",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "55T2LK-3-1000;55T2LCK-3-1000",
+    "catalogLink": "https://vonberg.com/products/view/105;https://vonberg.com/products/view/128"
+  },
+  {
+    "partNumber": "CBEA-CHV",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "55T2KT-3-3000;55T2CKT-3-3000",
+    "catalogLink": "https://vonberg.com/products/view/105;https://vonberg.com/products/view/128"
+  },
+  {
+    "partNumber": "CBEA-CIV",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "55T2KT-3-1000;55T2CKT-3-1000",
+    "catalogLink": "https://vonberg.com/products/view/105;https://vonberg.com/products/view/128"
+  },
+  {
+    "partNumber": "CBEA-CAV",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "55T2LKT-3-3000;55T2LCKT-3-3000",
+    "catalogLink": "https://vonberg.com/products/view/105;https://vonberg.com/products/view/128"
+  },
+  {
+    "partNumber": "CBEA-CBV",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "55T2LKT-3-1000;55T2LCKT-3-1000",
+    "catalogLink": "https://vonberg.com/products/view/105;https://vonberg.com/products/view/128"
+  },
+  {
+    "partNumber": "CBEB-LHN",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "55T2-1.5-3000;55T2C-1.5-3000",
+    "catalogLink": "https://vonberg.com/products/view/105;https://vonberg.com/products/view/128"
+  },
+  {
+    "partNumber": "CBEB-LIN",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "55T2-1.5-1000;55T2C-1.5-1000",
+    "catalogLink": "https://vonberg.com/products/view/105;https://vonberg.com/products/view/128"
+  },
+  {
+    "partNumber": "CBEB-LAN",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "55T2L-1.5-3000;55T2LC-1.5-3000",
+    "catalogLink": "https://vonberg.com/products/view/105;https://vonberg.com/products/view/128"
+  },
+  {
+    "partNumber": "CBEB-LBN",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "55T2L-1.5-1000;55T2LC-1.5-1000",
+    "catalogLink": "https://vonberg.com/products/view/105;https://vonberg.com/products/view/128"
+  },
+  {
+    "partNumber": "CBEB-CHN",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "55T2T-1.5-3000;55T2CT-1.5-3000",
+    "catalogLink": "https://vonberg.com/products/view/105;https://vonberg.com/products/view/128"
+  },
+  {
+    "partNumber": "CBEB-CIN",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "55T2T-1.5-1000;55T2CT-1.5-1000",
+    "catalogLink": "https://vonberg.com/products/view/105;https://vonberg.com/products/view/128"
+  },
+  {
+    "partNumber": "CBEB-CAN",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "55T2LT-1.5-3000;55T2LCT-1.5-3000",
+    "catalogLink": "https://vonberg.com/products/view/105;https://vonberg.com/products/view/128"
+  },
+  {
+    "partNumber": "CBEB-CBN",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "55T2LT-1.5-1000;55T2LCT-1.5-1000",
+    "catalogLink": "https://vonberg.com/products/view/105;https://vonberg.com/products/view/128"
+  },
+  {
+    "partNumber": "CBEB-LHV",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "55T2K-1.5-3000;55T2CK-1.5-3000",
+    "catalogLink": "https://vonberg.com/products/view/105;https://vonberg.com/products/view/128"
+  },
+  {
+    "partNumber": "CBEB-LIV",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "55T2K-1.5-1000;55T2CK-1.5-1000",
+    "catalogLink": "https://vonberg.com/products/view/105;https://vonberg.com/products/view/128"
+  },
+  {
+    "partNumber": "CBEB-LAV",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "55T2LK-1.5-3000;55T2LCK-1.5-3000",
+    "catalogLink": "https://vonberg.com/products/view/105;https://vonberg.com/products/view/128"
+  },
+  {
+    "partNumber": "CBEB-LBV",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "55T2LK-1.5-1000;55T2LCK-1.5-1000",
+    "catalogLink": "https://vonberg.com/products/view/105;https://vonberg.com/products/view/128"
+  },
+  {
+    "partNumber": "CBEB-CHV",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "55T2KT-1.5-3000;55T2CKT-1.5-3000",
+    "catalogLink": "https://vonberg.com/products/view/105;https://vonberg.com/products/view/128"
+  },
+  {
+    "partNumber": "CBEB-CIV",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "55T2KT-1.5-1000;55T2CKT-1.5-1000",
+    "catalogLink": "https://vonberg.com/products/view/105;https://vonberg.com/products/view/128"
+  },
+  {
+    "partNumber": "CBEB-CAV",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "55T2LKT-1.5-3000;55T2LCKT-1.5-3000",
+    "catalogLink": "https://vonberg.com/products/view/105;https://vonberg.com/products/view/128"
+  },
+  {
+    "partNumber": "CBEB-CBV",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "55T2LKT-1.5-1000;55T2LCKT-1.5-1000",
+    "catalogLink": "https://vonberg.com/products/view/105;https://vonberg.com/products/view/128"
+  },
+  {
+    "partNumber": "CBEY-LHN",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "55T2-2-3000;55T2C-2-3000",
+    "catalogLink": "https://vonberg.com/products/view/105;https://vonberg.com/products/view/128"
+  },
+  {
+    "partNumber": "CBEY-LIN",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "55T2-2-1000;55T2C-2-1000",
+    "catalogLink": "https://vonberg.com/products/view/105;https://vonberg.com/products/view/128"
+  },
+  {
+    "partNumber": "CBEY-LAN",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "55T2L-2-3000;55T2LC-2-3000",
+    "catalogLink": "https://vonberg.com/products/view/105;https://vonberg.com/products/view/128"
+  },
+  {
+    "partNumber": "CBEY-LBN",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "55T2L-2-1000;55T2LC-2-1000",
+    "catalogLink": "https://vonberg.com/products/view/105;https://vonberg.com/products/view/128"
+  },
+  {
+    "partNumber": "CBEY-CHN",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "55T2T-2-3000;55T2CT-2-3000",
+    "catalogLink": "https://vonberg.com/products/view/105;https://vonberg.com/products/view/128"
+  },
+  {
+    "partNumber": "CBEY-CIN",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "55T2T-2-1000;55T2CT-2-1000",
+    "catalogLink": "https://vonberg.com/products/view/105;https://vonberg.com/products/view/128"
+  },
+  {
+    "partNumber": "CBEY-CAN",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "55T2LT-2-3000;55T2LCT-2-3000",
+    "catalogLink": "https://vonberg.com/products/view/105;https://vonberg.com/products/view/128"
+  },
+  {
+    "partNumber": "CBEY-CBN",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "55T2LT-2-1000;55T2LCT-2-1000",
+    "catalogLink": "https://vonberg.com/products/view/105;https://vonberg.com/products/view/128"
+  },
+  {
+    "partNumber": "CBEY-LHV",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "55T2K-2-3000;55T2CK-2-3000",
+    "catalogLink": "https://vonberg.com/products/view/105;https://vonberg.com/products/view/128"
+  },
+  {
+    "partNumber": "CBEY-LIV",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "55T2K-2-1000;55T2CK-2-1000",
+    "catalogLink": "https://vonberg.com/products/view/105;https://vonberg.com/products/view/128"
+  },
+  {
+    "partNumber": "CBEY-LAV",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "55T2LK-2-3000;55T2LCK-2-3000",
+    "catalogLink": "https://vonberg.com/products/view/105;https://vonberg.com/products/view/128"
+  },
+  {
+    "partNumber": "CBEY-LBV",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "55T2LK-2-1000;55T2LCK-2-1000",
+    "catalogLink": "https://vonberg.com/products/view/105;https://vonberg.com/products/view/128"
+  },
+  {
+    "partNumber": "CBEY-CHV",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "55T2KT-2-3000;55T2CKT-2-3000",
+    "catalogLink": "https://vonberg.com/products/view/105;https://vonberg.com/products/view/128"
+  },
+  {
+    "partNumber": "CBEY-CIV",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "55T2KT-2-1000;55T2CKT-2-1000",
+    "catalogLink": "https://vonberg.com/products/view/105;https://vonberg.com/products/view/128"
+  },
+  {
+    "partNumber": "CBEY-CAV",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "55T2LKT-2-3000;55T2LCKT-2-3000",
+    "catalogLink": "https://vonberg.com/products/view/105;https://vonberg.com/products/view/128"
+  },
+  {
+    "partNumber": "CBEY-CBV",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "55T2LKT-2-1000;55T2LCKT-2-1000",
+    "catalogLink": "https://vonberg.com/products/view/105;https://vonberg.com/products/view/128"
+  },
+  {
+    "partNumber": "CBEG-LJN",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "55T2-4.5-3000;55T2C-4.5-3000",
+    "catalogLink": "https://vonberg.com/products/view/105;https://vonberg.com/products/view/128"
+  },
+  {
+    "partNumber": "CBEG-LKN",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "55T2-4.5-1000;55T2C-4.5-1000",
+    "catalogLink": "https://vonberg.com/products/view/105;https://vonberg.com/products/view/128"
+  },
+  {
+    "partNumber": "CBEG-LCN",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "55T2L-4.5-3000;55T2LC-4.5-3000",
+    "catalogLink": "https://vonberg.com/products/view/105;https://vonberg.com/products/view/128"
+  },
+  {
+    "partNumber": "CBEG-LDN",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "55T2L-4.5-1000;55T2LC-4.5-1000",
+    "catalogLink": "https://vonberg.com/products/view/105;https://vonberg.com/products/view/128"
+  },
+  {
+    "partNumber": "CBEG-CJN",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "55T2T-4.5-3000;55T2CT-4.5-3000",
+    "catalogLink": "https://vonberg.com/products/view/105;https://vonberg.com/products/view/128"
+  },
+  {
+    "partNumber": "CBEG-CKN",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "55T2T-4.5-1000;55T2CT-4.5-1000",
+    "catalogLink": "https://vonberg.com/products/view/105;https://vonberg.com/products/view/128"
+  },
+  {
+    "partNumber": "CBEG-CCN",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "55T2LT-4.5-3000;55T2LCT-4.5-3000",
+    "catalogLink": "https://vonberg.com/products/view/105;https://vonberg.com/products/view/128"
+  },
+  {
+    "partNumber": "CBEG-CDN",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "55T2LT-4.5-1000;55T2LCT-4.5-1000",
+    "catalogLink": "https://vonberg.com/products/view/105;https://vonberg.com/products/view/128"
+  },
+  {
+    "partNumber": "CBEH-LJN",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "55T2-10-3000;55T2C-10-3000",
+    "catalogLink": "https://vonberg.com/products/view/105;https://vonberg.com/products/view/128"
+  },
+  {
+    "partNumber": "CBEH-LKN",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "55T2-10-1000;55T2C-10-1000",
+    "catalogLink": "https://vonberg.com/products/view/105;https://vonberg.com/products/view/128"
+  },
+  {
+    "partNumber": "CBEH-LCN",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "55T2L-10-3000;55T2LC-10-3000",
+    "catalogLink": "https://vonberg.com/products/view/105;https://vonberg.com/products/view/128"
+  },
+  {
+    "partNumber": "CBEH-LDN",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "55T2L-10-1000;55T2LC-10-1000",
+    "catalogLink": "https://vonberg.com/products/view/105;https://vonberg.com/products/view/128"
+  },
+  {
+    "partNumber": "CBEH-CJN",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "55T2T-10-3000;55T2CT-10-3000",
+    "catalogLink": "https://vonberg.com/products/view/105;https://vonberg.com/products/view/128"
+  },
+  {
+    "partNumber": "CBEH-CKN",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "55T2T-10-1000;55T2CT-10-1000",
+    "catalogLink": "https://vonberg.com/products/view/105;https://vonberg.com/products/view/128"
+  },
+  {
+    "partNumber": "CBEH-CCN",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "55T2LT-10-3000;55T2LCT-10-3000",
+    "catalogLink": "https://vonberg.com/products/view/105;https://vonberg.com/products/view/128"
+  },
+  {
+    "partNumber": "CBEH-CDN",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "55T2LT-10-1000;55T2LCT-10-1000",
+    "catalogLink": "https://vonberg.com/products/view/105;https://vonberg.com/products/view/128"
+  },
+  {
+    "partNumber": "CBEL-LJN",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "55T2-2.3-3000;55T2C-2.3-3000",
+    "catalogLink": "https://vonberg.com/products/view/105;https://vonberg.com/products/view/128"
+  },
+  {
+    "partNumber": "CBEL-LKN",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "55T2-2.3-1000;55T2C-2.3-1000",
+    "catalogLink": "https://vonberg.com/products/view/105;https://vonberg.com/products/view/128"
+  },
+  {
+    "partNumber": "CBEL-LCN",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "55T2L-2.3-3000;55T2LC-2.3-3000",
+    "catalogLink": "https://vonberg.com/products/view/105;https://vonberg.com/products/view/128"
+  },
+  {
+    "partNumber": "CBEL-LDN",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "55T2L-2.3-1000;55T2LC-2.3-1000",
+    "catalogLink": "https://vonberg.com/products/view/105;https://vonberg.com/products/view/128"
+  },
+  {
+    "partNumber": "CBEL-CJN",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "55T2T-2.3-3000;55T2CT-2.3-3000",
+    "catalogLink": "https://vonberg.com/products/view/105;https://vonberg.com/products/view/128"
+  },
+  {
+    "partNumber": "CBEL-CKN",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "55T2T-2.3-1000;55T2CT-2.3-1000",
+    "catalogLink": "https://vonberg.com/products/view/105;https://vonberg.com/products/view/128"
+  },
+  {
+    "partNumber": "CBEL-CCN",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "55T2LT-2.3-3000;55T2LCT-2.3-3000",
+    "catalogLink": "https://vonberg.com/products/view/105;https://vonberg.com/products/view/128"
+  },
+  {
+    "partNumber": "CBEL-CDN",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "55T2LT-2.3-1000;55T2LCT-2.3-1000",
+    "catalogLink": "https://vonberg.com/products/view/105;https://vonberg.com/products/view/128"
+  },
+  {
+    "partNumber": "CBEG-LJV",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "55T2K-4.5-3000;55T2CK-4.5-3000",
+    "catalogLink": "https://vonberg.com/products/view/105;https://vonberg.com/products/view/128"
+  },
+  {
+    "partNumber": "CBEG-LKV",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "55T2K-4.5-1000;55T2CK-4.5-1000",
+    "catalogLink": "https://vonberg.com/products/view/105;https://vonberg.com/products/view/128"
+  },
+  {
+    "partNumber": "CBEG-LCV",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "55T2LK-4.5-3000;55T2LCK-4.5-3000",
+    "catalogLink": "https://vonberg.com/products/view/105;https://vonberg.com/products/view/128"
+  },
+  {
+    "partNumber": "CBEG-LDV",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "55T2LK-4.5-1000;55T2LCK-4.5-1000",
+    "catalogLink": "https://vonberg.com/products/view/105;https://vonberg.com/products/view/128"
+  },
+  {
+    "partNumber": "CBEG-CJV",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "55T2KT-4.5-3000;55T2CKT-4.5-3000",
+    "catalogLink": "https://vonberg.com/products/view/105;https://vonberg.com/products/view/128"
+  },
+  {
+    "partNumber": "CBEG-CKV",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "55T2KT-4.5-1000;55T2CKT-4.5-1000",
+    "catalogLink": "https://vonberg.com/products/view/105;https://vonberg.com/products/view/128"
+  },
+  {
+    "partNumber": "CBEG-CCV",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "55T2LKT-4.5-3000;55T2LCKT-4.5-3000",
+    "catalogLink": "https://vonberg.com/products/view/105;https://vonberg.com/products/view/128"
+  },
+  {
+    "partNumber": "CBEG-CDV",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "55T2LKT-4.5-1000;55T2LCKT-4.5-1000",
+    "catalogLink": "https://vonberg.com/products/view/105;https://vonberg.com/products/view/128"
+  },
+  {
+    "partNumber": "CBEH-LJV",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "55T2K-10-3000;55T2CK-10-3000",
+    "catalogLink": "https://vonberg.com/products/view/105;https://vonberg.com/products/view/128"
+  },
+  {
+    "partNumber": "CBEH-LKV",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "55T2K-10-1000;55T2CK-10-1000",
+    "catalogLink": "https://vonberg.com/products/view/105;https://vonberg.com/products/view/128"
+  },
+  {
+    "partNumber": "CBEH-LCV",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "55T2LK-10-3000;55T2LCK-10-3000",
+    "catalogLink": "https://vonberg.com/products/view/105;https://vonberg.com/products/view/128"
+  },
+  {
+    "partNumber": "CBEH-LDV",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "55T2LK-10-1000;55T2LCK-10-1000",
+    "catalogLink": "https://vonberg.com/products/view/105;https://vonberg.com/products/view/128"
+  },
+  {
+    "partNumber": "CBEH-CJV",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "55T2KT-10-3000;55T2CKT-10-3000",
+    "catalogLink": "https://vonberg.com/products/view/105;https://vonberg.com/products/view/128"
+  },
+  {
+    "partNumber": "CBEH-CKV",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "55T2KT-10-1000;55T2CKT-10-1000",
+    "catalogLink": "https://vonberg.com/products/view/105;https://vonberg.com/products/view/128"
+  },
+  {
+    "partNumber": "CBEH-CCV",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "55T2LKT-10-3000;55T2LCKT-10-3000",
+    "catalogLink": "https://vonberg.com/products/view/105;https://vonberg.com/products/view/128"
+  },
+  {
+    "partNumber": "CBEH-CDV",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "55T2LKT-10-1000;55T2LCKT-10-1000",
+    "catalogLink": "https://vonberg.com/products/view/105;https://vonberg.com/products/view/128"
+  },
+  {
+    "partNumber": "CBEL-LJV",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "55T2K-2.3-3000;55T2CK-2.3-3000",
+    "catalogLink": "https://vonberg.com/products/view/105;https://vonberg.com/products/view/128"
+  },
+  {
+    "partNumber": "CBEL-LKV",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "55T2K-2.3-1000;55T2CK-2.3-1000",
+    "catalogLink": "https://vonberg.com/products/view/105;https://vonberg.com/products/view/128"
+  },
+  {
+    "partNumber": "CBEL-LCV",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "55T2LK-2.3-3000;55T2LCK-2.3-3000",
+    "catalogLink": "https://vonberg.com/products/view/105;https://vonberg.com/products/view/128"
+  },
+  {
+    "partNumber": "CBEL-LDV",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "55T2LK-2.3-1000;55T2LCK-2.3-1000",
+    "catalogLink": "https://vonberg.com/products/view/105;https://vonberg.com/products/view/128"
+  },
+  {
+    "partNumber": "CBEL-CJV",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "55T2KT-2.3-3000;55T2CKT-2.3-3000",
+    "catalogLink": "https://vonberg.com/products/view/105;https://vonberg.com/products/view/128"
+  },
+  {
+    "partNumber": "CBEL-CKV",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "55T2KT-2.3-1000;55T2CKT-2.3-1000",
+    "catalogLink": "https://vonberg.com/products/view/105;https://vonberg.com/products/view/128"
+  },
+  {
+    "partNumber": "CBEL-CCV",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "55T2LKT-2.3-3000;55T2LCKT-2.3-3000",
+    "catalogLink": "https://vonberg.com/products/view/105;https://vonberg.com/products/view/128"
+  },
+  {
+    "partNumber": "CBEL-CDV",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "55T2LKT-2.3-1000;55T2LCKT-2.3-1000",
+    "catalogLink": "https://vonberg.com/products/view/105;https://vonberg.com/products/view/128"
+  },
+  {
+    "partNumber": "CBDC-LHN",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "55T2-3-3000;55T2C-3-3000",
+    "catalogLink": "https://vonberg.com/products/view/105;https://vonberg.com/products/view/128"
+  },
+  {
+    "partNumber": "CBDC-LIN",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "55T2-3-1000;55T2C-3-1000",
+    "catalogLink": "https://vonberg.com/products/view/105;https://vonberg.com/products/view/128"
+  },
+  {
+    "partNumber": "CBDC-LAN",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "55T2L-3-3000;55T2LC-3-3000",
+    "catalogLink": "https://vonberg.com/products/view/105;https://vonberg.com/products/view/128"
+  },
+  {
+    "partNumber": "CBDC-LBN",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "55T2L-3-1000;55T2LC-3-1000",
+    "catalogLink": "https://vonberg.com/products/view/105;https://vonberg.com/products/view/128"
+  },
+  {
+    "partNumber": "CBDC-CHN",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "55T2T-3-3000;55T2CT-3-3000",
+    "catalogLink": "https://vonberg.com/products/view/105;https://vonberg.com/products/view/128"
+  },
+  {
+    "partNumber": "CBDC-CIN",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "55T2T-3-1000;55T2CT-3-1000",
+    "catalogLink": "https://vonberg.com/products/view/105;https://vonberg.com/products/view/128"
+  },
+  {
+    "partNumber": "CBDC-CAN",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "55T2LT-3-3000;55T2LCT-3-3000",
+    "catalogLink": "https://vonberg.com/products/view/105;https://vonberg.com/products/view/128"
+  },
+  {
+    "partNumber": "CBDC-CBN",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "55T2LT-3-1000;55T2LCT-3-1000",
+    "catalogLink": "https://vonberg.com/products/view/105;https://vonberg.com/products/view/128"
+  },
+  {
+    "partNumber": "CBDC-LHV",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "55T2K-3-3000;55T2CK-3-3000",
+    "catalogLink": "https://vonberg.com/products/view/105;https://vonberg.com/products/view/128"
+  },
+  {
+    "partNumber": "CBDC-LIV",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "55T2K-3-1000;55T2CK-3-1000",
+    "catalogLink": "https://vonberg.com/products/view/105;https://vonberg.com/products/view/128"
+  },
+  {
+    "partNumber": "CBDC-LAV",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "55T2LK-3-3000;55T2LCK-3-3000",
+    "catalogLink": "https://vonberg.com/products/view/105;https://vonberg.com/products/view/128"
+  },
+  {
+    "partNumber": "CBDC-LBV",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "55T2LK-3-1000;55T2LCK-3-1000",
+    "catalogLink": "https://vonberg.com/products/view/105;https://vonberg.com/products/view/128"
+  },
+  {
+    "partNumber": "CBDC-CHV",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "55T2KT-3-3000;55T2CKT-3-3000",
+    "catalogLink": "https://vonberg.com/products/view/105;https://vonberg.com/products/view/128"
+  },
+  {
+    "partNumber": "CBDC-CIV",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "55T2KT-3-1000;55T2CKT-3-1000",
+    "catalogLink": "https://vonberg.com/products/view/105;https://vonberg.com/products/view/128"
+  },
+  {
+    "partNumber": "CBDC-CAV",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "55T2LKT-3-3000;55T2LCKT-3-3000",
+    "catalogLink": "https://vonberg.com/products/view/105;https://vonberg.com/products/view/128"
+  },
+  {
+    "partNumber": "CBDC-CBV",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "55T2LKT-3-1000;55T2LCKT-3-1000",
+    "catalogLink": "https://vonberg.com/products/view/105;https://vonberg.com/products/view/128"
+  },
+  {
+    "partNumber": "CBDB-LHN",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "55T2-1.5-3000;55T2C-1.5-3000",
+    "catalogLink": "https://vonberg.com/products/view/105;https://vonberg.com/products/view/128"
+  },
+  {
+    "partNumber": "CBDB-LIN",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "55T2-1.5-1000;55T2C-1.5-1000",
+    "catalogLink": "https://vonberg.com/products/view/105;https://vonberg.com/products/view/128"
+  },
+  {
+    "partNumber": "CBDB-LAN",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "55T2L-1.5-3000;55T2LC-1.5-3000",
+    "catalogLink": "https://vonberg.com/products/view/105;https://vonberg.com/products/view/128"
+  },
+  {
+    "partNumber": "CBDB-LBN",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "55T2L-1.5-1000;55T2LC-1.5-1000",
+    "catalogLink": "https://vonberg.com/products/view/105;https://vonberg.com/products/view/128"
+  },
+  {
+    "partNumber": "CBDB-CHN",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "55T2T-1.5-3000;55T2CT-1.5-3000",
+    "catalogLink": "https://vonberg.com/products/view/105;https://vonberg.com/products/view/128"
+  },
+  {
+    "partNumber": "CBDB-CIN",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "55T2T-1.5-1000;55T2CT-1.5-1000",
+    "catalogLink": "https://vonberg.com/products/view/105;https://vonberg.com/products/view/128"
+  },
+  {
+    "partNumber": "CBDB-CAN",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "55T2LT-1.5-3000;55T2LCT-1.5-3000",
+    "catalogLink": "https://vonberg.com/products/view/105;https://vonberg.com/products/view/128"
+  },
+  {
+    "partNumber": "CBDB-CBN",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "55T2LT-1.5-1000;55T2LCT-1.5-1000",
+    "catalogLink": "https://vonberg.com/products/view/105;https://vonberg.com/products/view/128"
+  },
+  {
+    "partNumber": "CBDB-LHV",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "55T2K-1.5-3000;55T2CK-1.5-3000",
+    "catalogLink": "https://vonberg.com/products/view/105;https://vonberg.com/products/view/128"
+  },
+  {
+    "partNumber": "CBDB-LIV",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "55T2K-1.5-1000;55T2CK-1.5-1000",
+    "catalogLink": "https://vonberg.com/products/view/105;https://vonberg.com/products/view/128"
+  },
+  {
+    "partNumber": "CBDB-LAV",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "55T2LK-1.5-3000;55T2LCK-1.5-3000",
+    "catalogLink": "https://vonberg.com/products/view/105;https://vonberg.com/products/view/128"
+  },
+  {
+    "partNumber": "CBDB-LBV",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "55T2LK-1.5-1000;55T2LCK-1.5-1000",
+    "catalogLink": "https://vonberg.com/products/view/105;https://vonberg.com/products/view/128"
+  },
+  {
+    "partNumber": "CBDB-CHV",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "55T2KT-1.5-3000;55T2CKT-1.5-3000",
+    "catalogLink": "https://vonberg.com/products/view/105;https://vonberg.com/products/view/128"
+  },
+  {
+    "partNumber": "CBDB-CIV",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "55T2KT-1.5-1000;55T2CKT-1.5-1000",
+    "catalogLink": "https://vonberg.com/products/view/105;https://vonberg.com/products/view/128"
+  },
+  {
+    "partNumber": "CBDB-CAV",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "55T2LKT-1.5-3000;55T2LCKT-1.5-3000",
+    "catalogLink": "https://vonberg.com/products/view/105;https://vonberg.com/products/view/128"
+  },
+  {
+    "partNumber": "CBDB-CBV",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "55T2LKT-1.5-1000;55T2LCKT-1.5-1000",
+    "catalogLink": "https://vonberg.com/products/view/105;https://vonberg.com/products/view/128"
+  },
+  {
+    "partNumber": "CBDD-LJN",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "55T2-4.5-3000;55T2C-4.5-3000",
+    "catalogLink": "https://vonberg.com/products/view/105;https://vonberg.com/products/view/128"
+  },
+  {
+    "partNumber": "CBDD-LKN",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "55T2-4.5-1000;55T2C-4.5-1000",
+    "catalogLink": "https://vonberg.com/products/view/105;https://vonberg.com/products/view/128"
+  },
+  {
+    "partNumber": "CBDD-LCN",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "55T2L-4.5-3000;55T2LC-4.5-3000",
+    "catalogLink": "https://vonberg.com/products/view/105;https://vonberg.com/products/view/128"
+  },
+  {
+    "partNumber": "CBDD-LDN",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "55T2L-4.5-1000;55T2LC-4.5-1000",
+    "catalogLink": "https://vonberg.com/products/view/105;https://vonberg.com/products/view/128"
+  },
+  {
+    "partNumber": "CBDD-CJN",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "55T2T-4.5-3000;55T2CT-4.5-3000",
+    "catalogLink": "https://vonberg.com/products/view/105;https://vonberg.com/products/view/128"
+  },
+  {
+    "partNumber": "CBDD-CKN",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "55T2T-4.5-1000;55T2CT-4.5-1000",
+    "catalogLink": "https://vonberg.com/products/view/105;https://vonberg.com/products/view/128"
+  },
+  {
+    "partNumber": "CBDD-CCN",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "55T2LT-4.5-3000;55T2LCT-4.5-3000",
+    "catalogLink": "https://vonberg.com/products/view/105;https://vonberg.com/products/view/128"
+  },
+  {
+    "partNumber": "CBDD-CDN",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "55T2LT-4.5-1000;55T2LCT-4.5-1000",
+    "catalogLink": "https://vonberg.com/products/view/105;https://vonberg.com/products/view/128"
+  },
+  {
+    "partNumber": "CBDL-LJN",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "55T2-2.3-3000;55T2C-2.3-3000",
+    "catalogLink": "https://vonberg.com/products/view/105;https://vonberg.com/products/view/128"
+  },
+  {
+    "partNumber": "CBDL-LKN",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "55T2-2.3-1000;55T2C-2.3-1000",
+    "catalogLink": "https://vonberg.com/products/view/105;https://vonberg.com/products/view/128"
+  },
+  {
+    "partNumber": "CBDL-LCN",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "55T2L-2.3-3000;55T2LC-2.3-3000",
+    "catalogLink": "https://vonberg.com/products/view/105;https://vonberg.com/products/view/128"
+  },
+  {
+    "partNumber": "CBDL-LDN",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "55T2L-2.3-1000;55T2LC-2.3-1000",
+    "catalogLink": "https://vonberg.com/products/view/105;https://vonberg.com/products/view/128"
+  },
+  {
+    "partNumber": "CBDL-CJN",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "55T2T-2.3-3000;55T2CT-2.3-3000",
+    "catalogLink": "https://vonberg.com/products/view/105;https://vonberg.com/products/view/128"
+  },
+  {
+    "partNumber": "CBDL-CKN",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "55T2T-2.3-1000;55T2CT-2.3-1000",
+    "catalogLink": "https://vonberg.com/products/view/105;https://vonberg.com/products/view/128"
+  },
+  {
+    "partNumber": "CBDL-CCN",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "55T2LT-2.3-3000;55T2LCT-2.3-3000",
+    "catalogLink": "https://vonberg.com/products/view/105;https://vonberg.com/products/view/128"
+  },
+  {
+    "partNumber": "CBDL-CDN",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "55T2LT-2.3-1000;55T2LCT-2.3-1000",
+    "catalogLink": "https://vonberg.com/products/view/105;https://vonberg.com/products/view/128"
+  },
+  {
+    "partNumber": "CBDD-LJV",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "55T2K-4.5-3000;55T2CK-4.5-3000",
+    "catalogLink": "https://vonberg.com/products/view/105;https://vonberg.com/products/view/128"
+  },
+  {
+    "partNumber": "CBDD-LKV",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "55T2K-4.5-1000;55T2CK-4.5-1000",
+    "catalogLink": "https://vonberg.com/products/view/105;https://vonberg.com/products/view/128"
+  },
+  {
+    "partNumber": "CBDD-LCV",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "55T2LK-4.5-3000;55T2LCK-4.5-3000",
+    "catalogLink": "https://vonberg.com/products/view/105;https://vonberg.com/products/view/128"
+  },
+  {
+    "partNumber": "CBDD-LDV",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "55T2LK-4.5-1000;55T2LCK-4.5-1000",
+    "catalogLink": "https://vonberg.com/products/view/105;https://vonberg.com/products/view/128"
+  },
+  {
+    "partNumber": "CBDD-CJV",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "55T2KT-4.5-3000;55T2CKT-4.5-3000",
+    "catalogLink": "https://vonberg.com/products/view/105;https://vonberg.com/products/view/128"
+  },
+  {
+    "partNumber": "CBDD-CKV",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "55T2KT-4.5-1000;55T2CKT-4.5-1000",
+    "catalogLink": "https://vonberg.com/products/view/105;https://vonberg.com/products/view/128"
+  },
+  {
+    "partNumber": "CBDD-CCV",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "55T2LKT-4.5-3000;55T2LCKT-4.5-3000",
+    "catalogLink": "https://vonberg.com/products/view/105;https://vonberg.com/products/view/128"
+  },
+  {
+    "partNumber": "CBDD-CDV",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "55T2LKT-4.5-1000;55T2LCKT-4.5-1000",
+    "catalogLink": "https://vonberg.com/products/view/105;https://vonberg.com/products/view/128"
+  },
+  {
+    "partNumber": "CBDL-LJV",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "55T2K-2.3-3000;55T2CK-2.3-3000",
+    "catalogLink": "https://vonberg.com/products/view/105;https://vonberg.com/products/view/128"
+  },
+  {
+    "partNumber": "CBDL-LKV",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "55T2K-2.3-1000;55T2CK-2.3-1000",
+    "catalogLink": "https://vonberg.com/products/view/105;https://vonberg.com/products/view/128"
+  },
+  {
+    "partNumber": "CBDL-LCV",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "55T2LK-2.3-3000;55T2LCK-2.3-3000",
+    "catalogLink": "https://vonberg.com/products/view/105;https://vonberg.com/products/view/128"
+  },
+  {
+    "partNumber": "CBDL-LDV",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "55T2LK-2.3-1000;55T2LCK-2.3-1000",
+    "catalogLink": "https://vonberg.com/products/view/105;https://vonberg.com/products/view/128"
+  },
+  {
+    "partNumber": "CBDL-CJV",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "55T2KT-2.3-3000;55T2CKT-2.3-3000",
+    "catalogLink": "https://vonberg.com/products/view/105;https://vonberg.com/products/view/128"
+  },
+  {
+    "partNumber": "CBDL-CKV",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "55T2KT-2.3-1000;55T2CKT-2.3-1000",
+    "catalogLink": "https://vonberg.com/products/view/105;https://vonberg.com/products/view/128"
+  },
+  {
+    "partNumber": "CBDL-CCV",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "55T2LKT-2.3-3000;55T2LCKT-2.3-3000",
+    "catalogLink": "https://vonberg.com/products/view/105;https://vonberg.com/products/view/128"
+  },
+  {
+    "partNumber": "CBDL-CDV",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "55T2LKT-2.3-1000;55T2LCKT-2.3-1000",
+    "catalogLink": "https://vonberg.com/products/view/105;https://vonberg.com/products/view/128"
+  },
+  {
+    "partNumber": "CBDA-LHN",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "55T2-3-3000;55T2C-3-3000",
+    "catalogLink": "https://vonberg.com/products/view/105;https://vonberg.com/products/view/128"
+  },
+  {
+    "partNumber": "CBDA-LIN",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "55T2-3-1000;55T2C-3-1000",
+    "catalogLink": "https://vonberg.com/products/view/105;https://vonberg.com/products/view/128"
+  },
+  {
+    "partNumber": "CBDA-LAN",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "55T2L-3-3000;55T2LC-3-3000",
+    "catalogLink": "https://vonberg.com/products/view/105;https://vonberg.com/products/view/128"
+  },
+  {
+    "partNumber": "CBDA-LBN",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "55T2L-3-1000;55T2LC-3-1000",
+    "catalogLink": "https://vonberg.com/products/view/105;https://vonberg.com/products/view/128"
+  },
+  {
+    "partNumber": "CBDA-CHN",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "55T2T-3-3000;55T2CT-3-3000",
+    "catalogLink": "https://vonberg.com/products/view/105;https://vonberg.com/products/view/128"
+  },
+  {
+    "partNumber": "CBDA-CIN",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "55T2T-3-1000;55T2CT-3-1000",
+    "catalogLink": "https://vonberg.com/products/view/105;https://vonberg.com/products/view/128"
+  },
+  {
+    "partNumber": "CBDA-CAN",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "55T2LT-3-3000;55T2LCT-3-3000",
+    "catalogLink": "https://vonberg.com/products/view/105;https://vonberg.com/products/view/128"
+  },
+  {
+    "partNumber": "CBDA-CBN",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "55T2LT-3-1000;55T2LCT-3-1000",
+    "catalogLink": "https://vonberg.com/products/view/105;https://vonberg.com/products/view/128"
+  },
+  {
+    "partNumber": "CBDA-LHV",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "55T2K-3-3000;55T2CK-3-3000",
+    "catalogLink": "https://vonberg.com/products/view/105;https://vonberg.com/products/view/128"
+  },
+  {
+    "partNumber": "CBDA-LIV",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "55T2K-3-1000;55T2CK-3-1000",
+    "catalogLink": "https://vonberg.com/products/view/105;https://vonberg.com/products/view/128"
+  },
+  {
+    "partNumber": "CBDA-LAV",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "55T2LK-3-3000;55T2LCK-3-3000",
+    "catalogLink": "https://vonberg.com/products/view/105;https://vonberg.com/products/view/128"
+  },
+  {
+    "partNumber": "CBDA-LBV",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "55T2LK-3-1000;55T2LCK-3-1000",
+    "catalogLink": "https://vonberg.com/products/view/105;https://vonberg.com/products/view/128"
+  },
+  {
+    "partNumber": "CBDA-CHV",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "55T2KT-3-3000;55T2CKT-3-3000",
+    "catalogLink": "https://vonberg.com/products/view/105;https://vonberg.com/products/view/128"
+  },
+  {
+    "partNumber": "CBDA-CIV",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "55T2KT-3-1000;55T2CKT-3-1000",
+    "catalogLink": "https://vonberg.com/products/view/105;https://vonberg.com/products/view/128"
+  },
+  {
+    "partNumber": "CBDA-CAV",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "55T2LKT-3-3000;55T2LCKT-3-3000",
+    "catalogLink": "https://vonberg.com/products/view/105;https://vonberg.com/products/view/128"
+  },
+  {
+    "partNumber": "CBDA-CBV",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "55T2LKT-3-1000;55T2LCKT-3-1000",
+    "catalogLink": "https://vonberg.com/products/view/105;https://vonberg.com/products/view/128"
+  },
+  {
+    "partNumber": "CBDG-LJN",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "55T2-4.5-3000;55T2C-4.5-3000",
+    "catalogLink": "https://vonberg.com/products/view/105;https://vonberg.com/products/view/128"
+  },
+  {
+    "partNumber": "CBDG-LKN",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "55T2-4.5-1000;55T2C-4.5-1000",
+    "catalogLink": "https://vonberg.com/products/view/105;https://vonberg.com/products/view/128"
+  },
+  {
+    "partNumber": "CBDG-LCN",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "55T2L-4.5-3000;55T2LC-4.5-3000",
+    "catalogLink": "https://vonberg.com/products/view/105;https://vonberg.com/products/view/128"
+  },
+  {
+    "partNumber": "CBDG-LDN",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "55T2L-4.5-1000;55T2LC-4.5-1000",
+    "catalogLink": "https://vonberg.com/products/view/105;https://vonberg.com/products/view/128"
+  },
+  {
+    "partNumber": "CBDG-CJN",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "55T2T-4.5-3000;55T2CT-4.5-3000",
+    "catalogLink": "https://vonberg.com/products/view/105;https://vonberg.com/products/view/128"
+  },
+  {
+    "partNumber": "CBDG-CKN",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "55T2T-4.5-1000;55T2CT-4.5-1000",
+    "catalogLink": "https://vonberg.com/products/view/105;https://vonberg.com/products/view/128"
+  },
+  {
+    "partNumber": "CBDG-CCN",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "55T2LT-4.5-3000;55T2LCT-4.5-3000",
+    "catalogLink": "https://vonberg.com/products/view/105;https://vonberg.com/products/view/128"
+  },
+  {
+    "partNumber": "CBDG-CDN",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "55T2LT-4.5-1000;55T2LCT-4.5-1000",
+    "catalogLink": "https://vonberg.com/products/view/105;https://vonberg.com/products/view/128"
+  },
+  {
+    "partNumber": "CBDG-LJV",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "55T2K-4.5-3000;55T2CK-4.5-3000",
+    "catalogLink": "https://vonberg.com/products/view/105;https://vonberg.com/products/view/128"
+  },
+  {
+    "partNumber": "CBDG-LKV",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "55T2K-4.5-1000;55T2CK-4.5-1000",
+    "catalogLink": "https://vonberg.com/products/view/105;https://vonberg.com/products/view/128"
+  },
+  {
+    "partNumber": "CBDG-LCV",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "55T2LK-4.5-3000;55T2LCK-4.5-3000",
+    "catalogLink": "https://vonberg.com/products/view/105;https://vonberg.com/products/view/128"
+  },
+  {
+    "partNumber": "CBDG-LDV",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "55T2LK-4.5-1000;55T2LCK-4.5-1000",
+    "catalogLink": "https://vonberg.com/products/view/105;https://vonberg.com/products/view/128"
+  },
+  {
+    "partNumber": "CBDG-CJV",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "55T2KT-4.5-3000;55T2CKT-4.5-3000",
+    "catalogLink": "https://vonberg.com/products/view/105;https://vonberg.com/products/view/128"
+  },
+  {
+    "partNumber": "CBDG-CKV",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "55T2KT-4.5-1000;55T2CKT-4.5-1000",
+    "catalogLink": "https://vonberg.com/products/view/105;https://vonberg.com/products/view/128"
+  },
+  {
+    "partNumber": "CBDG-CCV",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "55T2LKT-4.5-3000;55T2LCKT-4.5-3000",
+    "catalogLink": "https://vonberg.com/products/view/105;https://vonberg.com/products/view/128"
+  },
+  {
+    "partNumber": "CBDG-CDV",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "55T2LKT-4.5-1000;55T2LCKT-4.5-1000",
+    "catalogLink": "https://vonberg.com/products/view/105;https://vonberg.com/products/view/128"
+  },
+  {
+    "partNumber": "CBGA-LHN",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "55T17-3-3000;55T17C-3-3000",
+    "catalogLink": "https://vonberg.com/products/view/105;https://vonberg.com/products/view/128"
+  },
+  {
+    "partNumber": "CBGA-LIN",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "55T17-3-1000;55T17C-3-1000",
+    "catalogLink": "https://vonberg.com/products/view/105;https://vonberg.com/products/view/128"
+  },
+  {
+    "partNumber": "CBGA-LAN",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "55T17L-3-3000;55T17LC-3-3000",
+    "catalogLink": "https://vonberg.com/products/view/105;https://vonberg.com/products/view/128"
+  },
+  {
+    "partNumber": "CBGA-LBN",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "55T17L-3-1000;55T17LC-3-1000",
+    "catalogLink": "https://vonberg.com/products/view/105;https://vonberg.com/products/view/128"
+  },
+  {
+    "partNumber": "CBGA-CHN",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "55T17T-3-3000;55T17CT-3-3000",
+    "catalogLink": "https://vonberg.com/products/view/105;https://vonberg.com/products/view/128"
+  },
+  {
+    "partNumber": "CBGA-CIN",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "55T17T-3-1000;55T17CT-3-1000",
+    "catalogLink": "https://vonberg.com/products/view/105;https://vonberg.com/products/view/128"
+  },
+  {
+    "partNumber": "CBGA-CAN",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "55T17LT-3-3000;55T17LCT-3-3000",
+    "catalogLink": "https://vonberg.com/products/view/105;https://vonberg.com/products/view/128"
+  },
+  {
+    "partNumber": "CBGA-CBN",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "55T17LT-3-1000;55T17LCT-3-1000",
+    "catalogLink": "https://vonberg.com/products/view/105;https://vonberg.com/products/view/128"
+  },
+  {
+    "partNumber": "CBGA-LHV",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "55T17K-3-3000;55T17CK-3-3000",
+    "catalogLink": "https://vonberg.com/products/view/105;https://vonberg.com/products/view/128"
+  },
+  {
+    "partNumber": "CBGA-LIV",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "55T17K-3-1000;55T17CK-3-1000",
+    "catalogLink": "https://vonberg.com/products/view/105;https://vonberg.com/products/view/128"
+  },
+  {
+    "partNumber": "CBGA-LAV",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "55T17LK-3-3000;55T17LCK-3-3000",
+    "catalogLink": "https://vonberg.com/products/view/105;https://vonberg.com/products/view/128"
+  },
+  {
+    "partNumber": "CBGA-LBV",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "55T17LK-3-1000;55T17LCK-3-1000",
+    "catalogLink": "https://vonberg.com/products/view/105;https://vonberg.com/products/view/128"
+  },
+  {
+    "partNumber": "CBGA-CHV",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "55T17KT-3-3000;55T17CKT-3-3000",
+    "catalogLink": "https://vonberg.com/products/view/105;https://vonberg.com/products/view/128"
+  },
+  {
+    "partNumber": "CBGA-CIV",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "55T17KT-3-1000;55T17CKT-3-1000",
+    "catalogLink": "https://vonberg.com/products/view/105;https://vonberg.com/products/view/128"
+  },
+  {
+    "partNumber": "CBGA-CAV",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "55T17LKT-3-3000;55T17LCKT-3-3000",
+    "catalogLink": "https://vonberg.com/products/view/105;https://vonberg.com/products/view/128"
+  },
+  {
+    "partNumber": "CBGA-CBV",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "55T17LKT-3-1000;55T17LCKT-3-1000",
+    "catalogLink": "https://vonberg.com/products/view/105;https://vonberg.com/products/view/128"
+  },
+  {
+    "partNumber": "CBGB-LHN",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "55T17-1.5-3000;55T17C-1.5-3000",
+    "catalogLink": "https://vonberg.com/products/view/105;https://vonberg.com/products/view/128"
+  },
+  {
+    "partNumber": "CBGB-LIN",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "55T17-1.5-1000;55T17C-1.5-1000",
+    "catalogLink": "https://vonberg.com/products/view/105;https://vonberg.com/products/view/128"
+  },
+  {
+    "partNumber": "CBGB-LAN",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "55T17L-1.5-3000;55T17LC-1.5-3000",
+    "catalogLink": "https://vonberg.com/products/view/105;https://vonberg.com/products/view/128"
+  },
+  {
+    "partNumber": "CBGB-LBN",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "55T17L-1.5-1000;55T17LC-1.5-1000",
+    "catalogLink": "https://vonberg.com/products/view/105;https://vonberg.com/products/view/128"
+  },
+  {
+    "partNumber": "CBGB-CHN",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "55T17T-1.5-3000;55T17CT-1.5-3000",
+    "catalogLink": "https://vonberg.com/products/view/105;https://vonberg.com/products/view/128"
+  },
+  {
+    "partNumber": "CBGB-CIN",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "55T17T-1.5-1000;55T17CT-1.5-1000",
+    "catalogLink": "https://vonberg.com/products/view/105;https://vonberg.com/products/view/128"
+  },
+  {
+    "partNumber": "CBGB-CAN",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "55T17LT-1.5-3000;55T17LCT-1.5-3000",
+    "catalogLink": "https://vonberg.com/products/view/105;https://vonberg.com/products/view/128"
+  },
+  {
+    "partNumber": "CBGB-CBN",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "55T17LT-1.5-1000;55T17LCT-1.5-1000",
+    "catalogLink": "https://vonberg.com/products/view/105;https://vonberg.com/products/view/128"
+  },
+  {
+    "partNumber": "CBGB-LHV",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "55T17K-1.5-3000;55T17CK-1.5-3000",
+    "catalogLink": "https://vonberg.com/products/view/105;https://vonberg.com/products/view/128"
+  },
+  {
+    "partNumber": "CBGB-LIV",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "55T17K-1.5-1000;55T17CK-1.5-1000",
+    "catalogLink": "https://vonberg.com/products/view/105;https://vonberg.com/products/view/128"
+  },
+  {
+    "partNumber": "CBGB-LAV",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "55T17LK-1.5-3000;55T17LCK-1.5-3000",
+    "catalogLink": "https://vonberg.com/products/view/105;https://vonberg.com/products/view/128"
+  },
+  {
+    "partNumber": "CBGB-LBV",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "55T17LK-1.5-1000;55T17LCK-1.5-1000",
+    "catalogLink": "https://vonberg.com/products/view/105;https://vonberg.com/products/view/128"
+  },
+  {
+    "partNumber": "CBGB-CHV",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "55T17KT-1.5-3000;55T17CKT-1.5-3000",
+    "catalogLink": "https://vonberg.com/products/view/105;https://vonberg.com/products/view/128"
+  },
+  {
+    "partNumber": "CBGB-CIV",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "55T17KT-1.5-1000;55T17CKT-1.5-1000",
+    "catalogLink": "https://vonberg.com/products/view/105;https://vonberg.com/products/view/128"
+  },
+  {
+    "partNumber": "CBGB-CAV",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "55T17LKT-1.5-3000;55T17LCKT-1.5-3000",
+    "catalogLink": "https://vonberg.com/products/view/105;https://vonberg.com/products/view/128"
+  },
+  {
+    "partNumber": "CBGB-CBV",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "55T17LKT-1.5-1000;55T17LCKT-1.5-1000",
+    "catalogLink": "https://vonberg.com/products/view/105;https://vonberg.com/products/view/128"
+  },
+  {
+    "partNumber": "CBGY-LHN",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "55T17-2-3000;55T17C-2-3000",
+    "catalogLink": "https://vonberg.com/products/view/105;https://vonberg.com/products/view/128"
+  },
+  {
+    "partNumber": "CBGY-LIN",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "55T17-2-1000;55T17C-2-1000",
+    "catalogLink": "https://vonberg.com/products/view/105;https://vonberg.com/products/view/128"
+  },
+  {
+    "partNumber": "CBGY-LAN",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "55T17L-2-3000;55T17LC-2-3000",
+    "catalogLink": "https://vonberg.com/products/view/105;https://vonberg.com/products/view/128"
+  },
+  {
+    "partNumber": "CBGY-LBN",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "55T17L-2-1000;55T17LC-2-1000",
+    "catalogLink": "https://vonberg.com/products/view/105;https://vonberg.com/products/view/128"
+  },
+  {
+    "partNumber": "CBGY-CHN",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "55T17T-2-3000;55T17CT-2-3000",
+    "catalogLink": "https://vonberg.com/products/view/105;https://vonberg.com/products/view/128"
+  },
+  {
+    "partNumber": "CBGY-CIN",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "55T17T-2-1000;55T17CT-2-1000",
+    "catalogLink": "https://vonberg.com/products/view/105;https://vonberg.com/products/view/128"
+  },
+  {
+    "partNumber": "CBGY-CAN",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "55T17LT-2-3000;55T17LCT-2-3000",
+    "catalogLink": "https://vonberg.com/products/view/105;https://vonberg.com/products/view/128"
+  },
+  {
+    "partNumber": "CBGY-CBN",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "55T17LT-2-1000;55T17LCT-2-1000",
+    "catalogLink": "https://vonberg.com/products/view/105;https://vonberg.com/products/view/128"
+  },
+  {
+    "partNumber": "CBGY-LHV",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "55T17K-2-3000;55T17CK-2-3000",
+    "catalogLink": "https://vonberg.com/products/view/105;https://vonberg.com/products/view/128"
+  },
+  {
+    "partNumber": "CBGY-LIV",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "55T17K-2-1000;55T17CK-2-1000",
+    "catalogLink": "https://vonberg.com/products/view/105;https://vonberg.com/products/view/128"
+  },
+  {
+    "partNumber": "CBGY-LAV",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "55T17LK-2-3000;55T17LCK-2-3000",
+    "catalogLink": "https://vonberg.com/products/view/105;https://vonberg.com/products/view/128"
+  },
+  {
+    "partNumber": "CBGY-LBV",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "55T17LK-2-1000;55T17LCK-2-1000",
+    "catalogLink": "https://vonberg.com/products/view/105;https://vonberg.com/products/view/128"
+  },
+  {
+    "partNumber": "CBGY-CHV",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "55T17KT-2-3000;55T17CKT-2-3000",
+    "catalogLink": "https://vonberg.com/products/view/105;https://vonberg.com/products/view/128"
+  },
+  {
+    "partNumber": "CBGY-CIV",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "55T17KT-2-1000;55T17CKT-2-1000",
+    "catalogLink": "https://vonberg.com/products/view/105;https://vonberg.com/products/view/128"
+  },
+  {
+    "partNumber": "CBGY-CAV",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "55T17LKT-2-3000;55T17LCKT-2-3000",
+    "catalogLink": "https://vonberg.com/products/view/105;https://vonberg.com/products/view/128"
+  },
+  {
+    "partNumber": "CBGY-CBV",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "55T17LKT-2-1000;55T17LCKT-2-1000",
+    "catalogLink": "https://vonberg.com/products/view/105;https://vonberg.com/products/view/128"
+  },
+  {
+    "partNumber": "CBGG-LJN",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "55T17-4.5-3000;55T17C-4.5-3000",
+    "catalogLink": "https://vonberg.com/products/view/105;https://vonberg.com/products/view/128"
+  },
+  {
+    "partNumber": "CBGG-LKN",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "55T17-4.5-1000;55T17C-4.5-1000",
+    "catalogLink": "https://vonberg.com/products/view/105;https://vonberg.com/products/view/128"
+  },
+  {
+    "partNumber": "CBGG-LCN",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "55T17L-4.5-3000;55T17LC-4.5-3000",
+    "catalogLink": "https://vonberg.com/products/view/105;https://vonberg.com/products/view/128"
+  },
+  {
+    "partNumber": "CBGG-LDN",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "55T17L-4.5-1000;55T17LC-4.5-1000",
+    "catalogLink": "https://vonberg.com/products/view/105;https://vonberg.com/products/view/128"
+  },
+  {
+    "partNumber": "CBGG-CJN",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "55T17T-4.5-3000;55T17CT-4.5-3000",
+    "catalogLink": "https://vonberg.com/products/view/105;https://vonberg.com/products/view/128"
+  },
+  {
+    "partNumber": "CBGG-CKN",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "55T17T-4.5-1000;55T17CT-4.5-1000",
+    "catalogLink": "https://vonberg.com/products/view/105;https://vonberg.com/products/view/128"
+  },
+  {
+    "partNumber": "CBGG-CCN",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "55T17LT-4.5-3000;55T17LCT-4.5-3000",
+    "catalogLink": "https://vonberg.com/products/view/105;https://vonberg.com/products/view/128"
+  },
+  {
+    "partNumber": "CBGG-CDN",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "55T17LT-4.5-1000;55T17LCT-4.5-1000",
+    "catalogLink": "https://vonberg.com/products/view/105;https://vonberg.com/products/view/128"
+  },
+  {
+    "partNumber": "CBGH-LJN",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "55T17-10-3000;55T17C-10-3000",
+    "catalogLink": "https://vonberg.com/products/view/105;https://vonberg.com/products/view/128"
+  },
+  {
+    "partNumber": "CBGH-LKN",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "55T17-10-1000;55T17C-10-1000",
+    "catalogLink": "https://vonberg.com/products/view/105;https://vonberg.com/products/view/128"
+  },
+  {
+    "partNumber": "CBGH-LCN",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "55T17L-10-3000;55T17LC-10-3000",
+    "catalogLink": "https://vonberg.com/products/view/105;https://vonberg.com/products/view/128"
+  },
+  {
+    "partNumber": "CBGH-LDN",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "55T17L-10-1000;55T17LC-10-1000",
+    "catalogLink": "https://vonberg.com/products/view/105;https://vonberg.com/products/view/128"
+  },
+  {
+    "partNumber": "CBGH-CJN",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "55T17T-10-3000;55T17CT-10-3000",
+    "catalogLink": "https://vonberg.com/products/view/105;https://vonberg.com/products/view/128"
+  },
+  {
+    "partNumber": "CBGH-CKN",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "55T17T-10-1000;55T17CT-10-1000",
+    "catalogLink": "https://vonberg.com/products/view/105;https://vonberg.com/products/view/128"
+  },
+  {
+    "partNumber": "CBGH-CCN",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "55T17LT-10-3000;55T17LCT-10-3000",
+    "catalogLink": "https://vonberg.com/products/view/105;https://vonberg.com/products/view/128"
+  },
+  {
+    "partNumber": "CBGH-CDN",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "55T17LT-10-1000;55T17LCT-10-1000",
+    "catalogLink": "https://vonberg.com/products/view/105;https://vonberg.com/products/view/128"
+  },
+  {
+    "partNumber": "CBGL-LJN",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "55T17-2.3-3000;55T17C-2.3-3000",
+    "catalogLink": "https://vonberg.com/products/view/105;https://vonberg.com/products/view/128"
+  },
+  {
+    "partNumber": "CBGL-LKN",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "55T17-2.3-1000;55T17C-2.3-1000",
+    "catalogLink": "https://vonberg.com/products/view/105;https://vonberg.com/products/view/128"
+  },
+  {
+    "partNumber": "CBGL-LCN",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "55T17L-2.3-3000;55T17LC-2.3-3000",
+    "catalogLink": "https://vonberg.com/products/view/105;https://vonberg.com/products/view/128"
+  },
+  {
+    "partNumber": "CBGL-LDN",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "55T17L-2.3-1000;55T17LC-2.3-1000",
+    "catalogLink": "https://vonberg.com/products/view/105;https://vonberg.com/products/view/128"
+  },
+  {
+    "partNumber": "CBGL-CJN",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "55T17T-2.3-3000;55T17CT-2.3-3000",
+    "catalogLink": "https://vonberg.com/products/view/105;https://vonberg.com/products/view/128"
+  },
+  {
+    "partNumber": "CBGL-CKN",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "55T17T-2.3-1000;55T17CT-2.3-1000",
+    "catalogLink": "https://vonberg.com/products/view/105;https://vonberg.com/products/view/128"
+  },
+  {
+    "partNumber": "CBGL-CCN",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "55T17LT-2.3-3000;55T17LCT-2.3-3000",
+    "catalogLink": "https://vonberg.com/products/view/105;https://vonberg.com/products/view/128"
+  },
+  {
+    "partNumber": "CBGL-CDN",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "55T17LT-2.3-1000;55T17LCT-2.3-1000",
+    "catalogLink": "https://vonberg.com/products/view/105;https://vonberg.com/products/view/128"
+  },
+  {
+    "partNumber": "CBGG-LJV",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "55T17K-4.5-3000;55T17CK-4.5-3000",
+    "catalogLink": "https://vonberg.com/products/view/105;https://vonberg.com/products/view/128"
+  },
+  {
+    "partNumber": "CBGG-LKV",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "55T17K-4.5-1000;55T17CK-4.5-1000",
+    "catalogLink": "https://vonberg.com/products/view/105;https://vonberg.com/products/view/128"
+  },
+  {
+    "partNumber": "CBGG-LCV",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "55T17LK-4.5-3000;55T17LCK-4.5-3000",
+    "catalogLink": "https://vonberg.com/products/view/105;https://vonberg.com/products/view/128"
+  },
+  {
+    "partNumber": "CBGG-LDV",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "55T17LK-4.5-1000;55T17LCK-4.5-1000",
+    "catalogLink": "https://vonberg.com/products/view/105;https://vonberg.com/products/view/128"
+  },
+  {
+    "partNumber": "CBGG-CJV",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "55T17KT-4.5-3000;55T17CKT-4.5-3000",
+    "catalogLink": "https://vonberg.com/products/view/105;https://vonberg.com/products/view/128"
+  },
+  {
+    "partNumber": "CBGG-CKV",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "55T17KT-4.5-1000;55T17CKT-4.5-1000",
+    "catalogLink": "https://vonberg.com/products/view/105;https://vonberg.com/products/view/128"
+  },
+  {
+    "partNumber": "CBGG-CCV",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "55T17LKT-4.5-3000;55T17LCKT-4.5-3000",
+    "catalogLink": "https://vonberg.com/products/view/105;https://vonberg.com/products/view/128"
+  },
+  {
+    "partNumber": "CBGG-CDV",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "55T17LKT-4.5-1000;55T17LCKT-4.5-1000",
+    "catalogLink": "https://vonberg.com/products/view/105;https://vonberg.com/products/view/128"
+  },
+  {
+    "partNumber": "CBGH-LJV",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "55T17K-10-3000;55T17CK-10-3000",
+    "catalogLink": "https://vonberg.com/products/view/105;https://vonberg.com/products/view/128"
+  },
+  {
+    "partNumber": "CBGH-LKV",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "55T17K-10-1000;55T17CK-10-1000",
+    "catalogLink": "https://vonberg.com/products/view/105;https://vonberg.com/products/view/128"
+  },
+  {
+    "partNumber": "CBGH-LCV",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "55T17LK-10-3000;55T17LCK-10-3000",
+    "catalogLink": "https://vonberg.com/products/view/105;https://vonberg.com/products/view/128"
+  },
+  {
+    "partNumber": "CBGH-LDV",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "55T17LK-10-1000;55T17LCK-10-1000",
+    "catalogLink": "https://vonberg.com/products/view/105;https://vonberg.com/products/view/128"
+  },
+  {
+    "partNumber": "CBGH-CJV",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "55T17KT-10-3000;55T17CKT-10-3000",
+    "catalogLink": "https://vonberg.com/products/view/105;https://vonberg.com/products/view/128"
+  },
+  {
+    "partNumber": "CBGH-CKV",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "55T17KT-10-1000;55T17CKT-10-1000",
+    "catalogLink": "https://vonberg.com/products/view/105;https://vonberg.com/products/view/128"
+  },
+  {
+    "partNumber": "CBGH-CCV",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "55T17LKT-10-3000;55T17LCKT-10-3000",
+    "catalogLink": "https://vonberg.com/products/view/105;https://vonberg.com/products/view/128"
+  },
+  {
+    "partNumber": "CBGH-CDV",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "55T17LKT-10-1000;55T17LCKT-10-1000",
+    "catalogLink": "https://vonberg.com/products/view/105;https://vonberg.com/products/view/128"
+  },
+  {
+    "partNumber": "CBGL-LJV",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "55T17K-2.3-3000;55T17CK-2.3-3000",
+    "catalogLink": "https://vonberg.com/products/view/105;https://vonberg.com/products/view/128"
+  },
+  {
+    "partNumber": "CBGL-LKV",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "55T17K-2.3-1000;55T17CK-2.3-1000",
+    "catalogLink": "https://vonberg.com/products/view/105;https://vonberg.com/products/view/128"
+  },
+  {
+    "partNumber": "CBGL-LCV",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "55T17LK-2.3-3000;55T17LCK-2.3-3000",
+    "catalogLink": "https://vonberg.com/products/view/105;https://vonberg.com/products/view/128"
+  },
+  {
+    "partNumber": "CBGL-LDV",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "55T17LK-2.3-1000;55T17LCK-2.3-1000",
+    "catalogLink": "https://vonberg.com/products/view/105;https://vonberg.com/products/view/128"
+  },
+  {
+    "partNumber": "CBGL-CJV",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "55T17KT-2.3-3000;55T17CKT-2.3-3000",
+    "catalogLink": "https://vonberg.com/products/view/105;https://vonberg.com/products/view/128"
+  },
+  {
+    "partNumber": "CBGL-CKV",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "55T17KT-2.3-1000;55T17CKT-2.3-1000",
+    "catalogLink": "https://vonberg.com/products/view/105;https://vonberg.com/products/view/128"
+  },
+  {
+    "partNumber": "CBGL-CCV",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "55T17LKT-2.3-3000;55T17LCKT-2.3-3000",
+    "catalogLink": "https://vonberg.com/products/view/105;https://vonberg.com/products/view/128"
+  },
+  {
+    "partNumber": "CBGL-CDV",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "55T17LKT-2.3-1000;55T17LCKT-2.3-1000",
+    "catalogLink": "https://vonberg.com/products/view/105;https://vonberg.com/products/view/128"
+  },
+  {
+    "partNumber": "CBFC-LHN",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "55T17-3-3000;55T17C-3-3000",
+    "catalogLink": "https://vonberg.com/products/view/105;https://vonberg.com/products/view/128"
+  },
+  {
+    "partNumber": "CBFC-LIN",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "55T17-3-1000;55T17C-3-1000",
+    "catalogLink": "https://vonberg.com/products/view/105;https://vonberg.com/products/view/128"
+  },
+  {
+    "partNumber": "CBFC-LAN",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "55T17L-3-3000;55T17LC-3-3000",
+    "catalogLink": "https://vonberg.com/products/view/105;https://vonberg.com/products/view/128"
+  },
+  {
+    "partNumber": "CBFC-LBN",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "55T17L-3-1000;55T17LC-3-1000",
+    "catalogLink": "https://vonberg.com/products/view/105;https://vonberg.com/products/view/128"
+  },
+  {
+    "partNumber": "CBFC-CHN",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "55T17T-3-3000;55T17CT-3-3000",
+    "catalogLink": "https://vonberg.com/products/view/105;https://vonberg.com/products/view/128"
+  },
+  {
+    "partNumber": "CBFC-CIN",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "55T17T-3-1000;55T17CT-3-1000",
+    "catalogLink": "https://vonberg.com/products/view/105;https://vonberg.com/products/view/128"
+  },
+  {
+    "partNumber": "CBFC-CAN",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "55T17LT-3-3000;55T17LCT-3-3000",
+    "catalogLink": "https://vonberg.com/products/view/105;https://vonberg.com/products/view/128"
+  },
+  {
+    "partNumber": "CBFC-CBN",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "55T17LT-3-1000;55T17LCT-3-1000",
+    "catalogLink": "https://vonberg.com/products/view/105;https://vonberg.com/products/view/128"
+  },
+  {
+    "partNumber": "CBFC-LHV",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "55T17K-3-3000;55T17CK-3-3000",
+    "catalogLink": "https://vonberg.com/products/view/105;https://vonberg.com/products/view/128"
+  },
+  {
+    "partNumber": "CBFC-LIV",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "55T17K-3-1000;55T17CK-3-1000",
+    "catalogLink": "https://vonberg.com/products/view/105;https://vonberg.com/products/view/128"
+  },
+  {
+    "partNumber": "CBFC-LAV",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "55T17LK-3-3000;55T17LCK-3-3000",
+    "catalogLink": "https://vonberg.com/products/view/105;https://vonberg.com/products/view/128"
+  },
+  {
+    "partNumber": "CBFC-LBV",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "55T17LK-3-1000;55T17LCK-3-1000",
+    "catalogLink": "https://vonberg.com/products/view/105;https://vonberg.com/products/view/128"
+  },
+  {
+    "partNumber": "CBFC-CHV",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "55T17KT-3-3000;55T17CKT-3-3000",
+    "catalogLink": "https://vonberg.com/products/view/105;https://vonberg.com/products/view/128"
+  },
+  {
+    "partNumber": "CBFC-CIV",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "55T17KT-3-1000;55T17CKT-3-1000",
+    "catalogLink": "https://vonberg.com/products/view/105;https://vonberg.com/products/view/128"
+  },
+  {
+    "partNumber": "CBFC-CAV",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "55T17LKT-3-3000;55T17LCKT-3-3000",
+    "catalogLink": "https://vonberg.com/products/view/105;https://vonberg.com/products/view/128"
+  },
+  {
+    "partNumber": "CBFC-CBV",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "55T17LKT-3-1000;55T17LCKT-3-1000",
+    "catalogLink": "https://vonberg.com/products/view/105;https://vonberg.com/products/view/128"
+  },
+  {
+    "partNumber": "CBFB-LHN",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "55T17-1.5-3000;55T17C-1.5-3000",
+    "catalogLink": "https://vonberg.com/products/view/105;https://vonberg.com/products/view/128"
+  },
+  {
+    "partNumber": "CBFB-LIN",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "55T17-1.5-1000;55T17C-1.5-1000",
+    "catalogLink": "https://vonberg.com/products/view/105;https://vonberg.com/products/view/128"
+  },
+  {
+    "partNumber": "CBFB-LAN",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "55T17L-1.5-3000;55T17LC-1.5-3000",
+    "catalogLink": "https://vonberg.com/products/view/105;https://vonberg.com/products/view/128"
+  },
+  {
+    "partNumber": "CBFB-LBN",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "55T17L-1.5-1000;55T17LC-1.5-1000",
+    "catalogLink": "https://vonberg.com/products/view/105;https://vonberg.com/products/view/128"
+  },
+  {
+    "partNumber": "CBFB-CHN",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "55T17T-1.5-3000;55T17CT-1.5-3000",
+    "catalogLink": "https://vonberg.com/products/view/105;https://vonberg.com/products/view/128"
+  },
+  {
+    "partNumber": "CBFB-CIN",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "55T17T-1.5-1000;55T17CT-1.5-1000",
+    "catalogLink": "https://vonberg.com/products/view/105;https://vonberg.com/products/view/128"
+  },
+  {
+    "partNumber": "CBFB-CAN",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "55T17LT-1.5-3000;55T17LCT-1.5-3000",
+    "catalogLink": "https://vonberg.com/products/view/105;https://vonberg.com/products/view/128"
+  },
+  {
+    "partNumber": "CBFB-CBN",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "55T17LT-1.5-1000;55T17LCT-1.5-1000",
+    "catalogLink": "https://vonberg.com/products/view/105;https://vonberg.com/products/view/128"
+  },
+  {
+    "partNumber": "CBFB-LHV",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "55T17K-1.5-3000;55T17CK-1.5-3000",
+    "catalogLink": "https://vonberg.com/products/view/105;https://vonberg.com/products/view/128"
+  },
+  {
+    "partNumber": "CBFB-LIV",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "55T17K-1.5-1000;55T17CK-1.5-1000",
+    "catalogLink": "https://vonberg.com/products/view/105;https://vonberg.com/products/view/128"
+  },
+  {
+    "partNumber": "CBFB-LAV",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "55T17LK-1.5-3000;55T17LCK-1.5-3000",
+    "catalogLink": "https://vonberg.com/products/view/105;https://vonberg.com/products/view/128"
+  },
+  {
+    "partNumber": "CBFB-LBV",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "55T17LK-1.5-1000;55T17LCK-1.5-1000",
+    "catalogLink": "https://vonberg.com/products/view/105;https://vonberg.com/products/view/128"
+  },
+  {
+    "partNumber": "CBFB-CHV",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "55T17KT-1.5-3000;55T17CKT-1.5-3000",
+    "catalogLink": "https://vonberg.com/products/view/105;https://vonberg.com/products/view/128"
+  },
+  {
+    "partNumber": "CBFB-CIV",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "55T17KT-1.5-1000;55T17CKT-1.5-1000",
+    "catalogLink": "https://vonberg.com/products/view/105;https://vonberg.com/products/view/128"
+  },
+  {
+    "partNumber": "CBFB-CAV",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "55T17LKT-1.5-3000;55T17LCKT-1.5-3000",
+    "catalogLink": "https://vonberg.com/products/view/105;https://vonberg.com/products/view/128"
+  },
+  {
+    "partNumber": "CBFB-CBV",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "55T17LKT-1.5-1000;55T17LCKT-1.5-1000",
+    "catalogLink": "https://vonberg.com/products/view/105;https://vonberg.com/products/view/128"
+  },
+  {
+    "partNumber": "CBFD-LJN",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "55T17-4.5-3000;55T17C-4.5-3000",
+    "catalogLink": "https://vonberg.com/products/view/105;https://vonberg.com/products/view/128"
+  },
+  {
+    "partNumber": "CBFD-LKN",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "55T17-4.5-1000;55T17C-4.5-1000",
+    "catalogLink": "https://vonberg.com/products/view/105;https://vonberg.com/products/view/128"
+  },
+  {
+    "partNumber": "CBFD-LCN",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "55T17L-4.5-3000;55T17LC-4.5-3000",
+    "catalogLink": "https://vonberg.com/products/view/105;https://vonberg.com/products/view/128"
+  },
+  {
+    "partNumber": "CBFD-LDN",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "55T17L-4.5-1000;55T17LC-4.5-1000",
+    "catalogLink": "https://vonberg.com/products/view/105;https://vonberg.com/products/view/128"
+  },
+  {
+    "partNumber": "CBFD-CJN",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "55T17T-4.5-3000;55T17CT-4.5-3000",
+    "catalogLink": "https://vonberg.com/products/view/105;https://vonberg.com/products/view/128"
+  },
+  {
+    "partNumber": "CBFD-CKN",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "55T17T-4.5-1000;55T17CT-4.5-1000",
+    "catalogLink": "https://vonberg.com/products/view/105;https://vonberg.com/products/view/128"
+  },
+  {
+    "partNumber": "CBFD-CCN",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "55T17LT-4.5-3000;55T17LCT-4.5-3000",
+    "catalogLink": "https://vonberg.com/products/view/105;https://vonberg.com/products/view/128"
+  },
+  {
+    "partNumber": "CBFD-CDN",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "55T17LT-4.5-1000;55T17LCT-4.5-1000",
+    "catalogLink": "https://vonberg.com/products/view/105;https://vonberg.com/products/view/128"
+  },
+  {
+    "partNumber": "CBFL-LJN",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "55T17-2.3-3000;55T17C-2.3-3000",
+    "catalogLink": "https://vonberg.com/products/view/105;https://vonberg.com/products/view/128"
+  },
+  {
+    "partNumber": "CBFL-LKN",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "55T17-2.3-1000;55T17C-2.3-1000",
+    "catalogLink": "https://vonberg.com/products/view/105;https://vonberg.com/products/view/128"
+  },
+  {
+    "partNumber": "CBFL-LCN",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "55T17L-2.3-3000;55T17LC-2.3-3000",
+    "catalogLink": "https://vonberg.com/products/view/105;https://vonberg.com/products/view/128"
+  },
+  {
+    "partNumber": "CBFL-LDN",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "55T17L-2.3-1000;55T17LC-2.3-1000",
+    "catalogLink": "https://vonberg.com/products/view/105;https://vonberg.com/products/view/128"
+  },
+  {
+    "partNumber": "CBFL-CJN",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "55T17T-2.3-3000;55T17CT-2.3-3000",
+    "catalogLink": "https://vonberg.com/products/view/105;https://vonberg.com/products/view/128"
+  },
+  {
+    "partNumber": "CBFL-CKN",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "55T17T-2.3-1000;55T17CT-2.3-1000",
+    "catalogLink": "https://vonberg.com/products/view/105;https://vonberg.com/products/view/128"
+  },
+  {
+    "partNumber": "CBFL-CCN",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "55T17LT-2.3-3000;55T17LCT-2.3-3000",
+    "catalogLink": "https://vonberg.com/products/view/105;https://vonberg.com/products/view/128"
+  },
+  {
+    "partNumber": "CBFL-CDN",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "55T17LT-2.3-1000;55T17LCT-2.3-1000",
+    "catalogLink": "https://vonberg.com/products/view/105;https://vonberg.com/products/view/128"
+  },
+  {
+    "partNumber": "CBFD-LJV",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "55T17K-4.5-3000;55T17CK-4.5-3000",
+    "catalogLink": "https://vonberg.com/products/view/105;https://vonberg.com/products/view/128"
+  },
+  {
+    "partNumber": "CBFD-LKV",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "55T17K-4.5-1000;55T17CK-4.5-1000",
+    "catalogLink": "https://vonberg.com/products/view/105;https://vonberg.com/products/view/128"
+  },
+  {
+    "partNumber": "CBFD-LCV",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "55T17LK-4.5-3000;55T17LCK-4.5-3000",
+    "catalogLink": "https://vonberg.com/products/view/105;https://vonberg.com/products/view/128"
+  },
+  {
+    "partNumber": "CBFD-LDV",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "55T17LK-4.5-1000;55T17LCK-4.5-1000",
+    "catalogLink": "https://vonberg.com/products/view/105;https://vonberg.com/products/view/128"
+  },
+  {
+    "partNumber": "CBFD-CJV",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "55T17KT-4.5-3000;55T17CKT-4.5-3000",
+    "catalogLink": "https://vonberg.com/products/view/105;https://vonberg.com/products/view/128"
+  },
+  {
+    "partNumber": "CBFD-CKV",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "55T17KT-4.5-1000;55T17CKT-4.5-1000",
+    "catalogLink": "https://vonberg.com/products/view/105;https://vonberg.com/products/view/128"
+  },
+  {
+    "partNumber": "CBFD-CCV",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "55T17LKT-4.5-3000;55T17LCKT-4.5-3000",
+    "catalogLink": "https://vonberg.com/products/view/105;https://vonberg.com/products/view/128"
+  },
+  {
+    "partNumber": "CBFD-CDV",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "55T17LKT-4.5-1000;55T17LCKT-4.5-1000",
+    "catalogLink": "https://vonberg.com/products/view/105;https://vonberg.com/products/view/128"
+  },
+  {
+    "partNumber": "CBFL-LJV",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "55T17K-2.3-3000;55T17CK-2.3-3000",
+    "catalogLink": "https://vonberg.com/products/view/105;https://vonberg.com/products/view/128"
+  },
+  {
+    "partNumber": "CBFL-LKV",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "55T17K-2.3-1000;55T17CK-2.3-1000",
+    "catalogLink": "https://vonberg.com/products/view/105;https://vonberg.com/products/view/128"
+  },
+  {
+    "partNumber": "CBFL-LCV",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "55T17LK-2.3-3000;55T17LCK-2.3-3000",
+    "catalogLink": "https://vonberg.com/products/view/105;https://vonberg.com/products/view/128"
+  },
+  {
+    "partNumber": "CBFL-LDV",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "55T17LK-2.3-1000;55T17LCK-2.3-1000",
+    "catalogLink": "https://vonberg.com/products/view/105;https://vonberg.com/products/view/128"
+  },
+  {
+    "partNumber": "CBFL-CJV",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "55T17KT-2.3-3000;55T17CKT-2.3-3000",
+    "catalogLink": "https://vonberg.com/products/view/105;https://vonberg.com/products/view/128"
+  },
+  {
+    "partNumber": "CBFL-CKV",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "55T17KT-2.3-1000;55T17CKT-2.3-1000",
+    "catalogLink": "https://vonberg.com/products/view/105;https://vonberg.com/products/view/128"
+  },
+  {
+    "partNumber": "CBFL-CCV",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "55T17LKT-2.3-3000;55T17LCKT-2.3-3000",
+    "catalogLink": "https://vonberg.com/products/view/105;https://vonberg.com/products/view/128"
+  },
+  {
+    "partNumber": "CBFL-CDV",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "55T17LKT-2.3-1000;55T17LCKT-2.3-1000",
+    "catalogLink": "https://vonberg.com/products/view/105;https://vonberg.com/products/view/128"
+  },
+  {
+    "partNumber": "CBFA-LHN",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "55T17-3-3000;55T17C-3-3000",
+    "catalogLink": "https://vonberg.com/products/view/105;https://vonberg.com/products/view/128"
+  },
+  {
+    "partNumber": "CBFA-LIN",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "55T17-3-1000;55T17C-3-1000",
+    "catalogLink": "https://vonberg.com/products/view/105;https://vonberg.com/products/view/128"
+  },
+  {
+    "partNumber": "CBFA-LAN",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "55T17L-3-3000;55T17LC-3-3000",
+    "catalogLink": "https://vonberg.com/products/view/105;https://vonberg.com/products/view/128"
+  },
+  {
+    "partNumber": "CBFA-LBN",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "55T17L-3-1000;55T17LC-3-1000",
+    "catalogLink": "https://vonberg.com/products/view/105;https://vonberg.com/products/view/128"
+  },
+  {
+    "partNumber": "CBFA-CHN",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "55T17T-3-3000;55T17CT-3-3000",
+    "catalogLink": "https://vonberg.com/products/view/105;https://vonberg.com/products/view/128"
+  },
+  {
+    "partNumber": "CBFA-CIN",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "55T17T-3-1000;55T17CT-3-1000",
+    "catalogLink": "https://vonberg.com/products/view/105;https://vonberg.com/products/view/128"
+  },
+  {
+    "partNumber": "CBFA-CAN",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "55T17LT-3-3000;55T17LCT-3-3000",
+    "catalogLink": "https://vonberg.com/products/view/105;https://vonberg.com/products/view/128"
+  },
+  {
+    "partNumber": "CBFA-CBN",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "55T17LT-3-1000;55T17LCT-3-1000",
+    "catalogLink": "https://vonberg.com/products/view/105;https://vonberg.com/products/view/128"
+  },
+  {
+    "partNumber": "CBFA-LHV",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "55T17K-3-3000;55T17CK-3-3000",
+    "catalogLink": "https://vonberg.com/products/view/105;https://vonberg.com/products/view/128"
+  },
+  {
+    "partNumber": "CBFA-LIV",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "55T17K-3-1000;55T17CK-3-1000",
+    "catalogLink": "https://vonberg.com/products/view/105;https://vonberg.com/products/view/128"
+  },
+  {
+    "partNumber": "CBFA-LAV",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "55T17LK-3-3000;55T17LCK-3-3000",
+    "catalogLink": "https://vonberg.com/products/view/105;https://vonberg.com/products/view/128"
+  },
+  {
+    "partNumber": "CBFA-LBV",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "55T17LK-3-1000;55T17LCK-3-1000",
+    "catalogLink": "https://vonberg.com/products/view/105;https://vonberg.com/products/view/128"
+  },
+  {
+    "partNumber": "CBFA-CHV",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "55T17KT-3-3000;55T17CKT-3-3000",
+    "catalogLink": "https://vonberg.com/products/view/105;https://vonberg.com/products/view/128"
+  },
+  {
+    "partNumber": "CBFA-CIV",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "55T17KT-3-1000;55T17CKT-3-1000",
+    "catalogLink": "https://vonberg.com/products/view/105;https://vonberg.com/products/view/128"
+  },
+  {
+    "partNumber": "CBFA-CAV",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "55T17LKT-3-3000;55T17LCKT-3-3000",
+    "catalogLink": "https://vonberg.com/products/view/105;https://vonberg.com/products/view/128"
+  },
+  {
+    "partNumber": "CBFA-CBV",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "55T17LKT-3-1000;55T17LCKT-3-1000",
+    "catalogLink": "https://vonberg.com/products/view/105;https://vonberg.com/products/view/128"
+  },
+  {
+    "partNumber": "CBFG-LJN",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "55T17-4.5-3000;55T17C-4.5-3000",
+    "catalogLink": "https://vonberg.com/products/view/105;https://vonberg.com/products/view/128"
+  },
+  {
+    "partNumber": "CBFG-LKN",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "55T17-4.5-1000;55T17C-4.5-1000",
+    "catalogLink": "https://vonberg.com/products/view/105;https://vonberg.com/products/view/128"
+  },
+  {
+    "partNumber": "CBFG-LCN",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "55T17L-4.5-3000;55T17LC-4.5-3000",
+    "catalogLink": "https://vonberg.com/products/view/105;https://vonberg.com/products/view/128"
+  },
+  {
+    "partNumber": "CBFG-LDN",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "55T17L-4.5-1000;55T17LC-4.5-1000",
+    "catalogLink": "https://vonberg.com/products/view/105;https://vonberg.com/products/view/128"
+  },
+  {
+    "partNumber": "CBFG-CJN",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "55T17T-4.5-3000;55T17CT-4.5-3000",
+    "catalogLink": "https://vonberg.com/products/view/105;https://vonberg.com/products/view/128"
+  },
+  {
+    "partNumber": "CBFG-CKN",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "55T17T-4.5-1000;55T17CT-4.5-1000",
+    "catalogLink": "https://vonberg.com/products/view/105;https://vonberg.com/products/view/128"
+  },
+  {
+    "partNumber": "CBFG-CCN",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "55T17LT-4.5-3000;55T17LCT-4.5-3000",
+    "catalogLink": "https://vonberg.com/products/view/105;https://vonberg.com/products/view/128"
+  },
+  {
+    "partNumber": "CBFG-CDN",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "55T17LT-4.5-1000;55T17LCT-4.5-1000",
+    "catalogLink": "https://vonberg.com/products/view/105;https://vonberg.com/products/view/128"
+  },
+  {
+    "partNumber": "CBFG-LJV",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "55T17K-4.5-3000;55T17CK-4.5-3000",
+    "catalogLink": "https://vonberg.com/products/view/105;https://vonberg.com/products/view/128"
+  },
+  {
+    "partNumber": "CBFG-LKV",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "55T17K-4.5-1000;55T17CK-4.5-1000",
+    "catalogLink": "https://vonberg.com/products/view/105;https://vonberg.com/products/view/128"
+  },
+  {
+    "partNumber": "CBFG-LCV",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "55T17LK-4.5-3000;55T17LCK-4.5-3000",
+    "catalogLink": "https://vonberg.com/products/view/105;https://vonberg.com/products/view/128"
+  },
+  {
+    "partNumber": "CBFG-LDV",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "55T17LK-4.5-1000;55T17LCK-4.5-1000",
+    "catalogLink": "https://vonberg.com/products/view/105;https://vonberg.com/products/view/128"
+  },
+  {
+    "partNumber": "CBFG-CJV",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "55T17KT-4.5-3000;55T17CKT-4.5-3000",
+    "catalogLink": "https://vonberg.com/products/view/105;https://vonberg.com/products/view/128"
+  },
+  {
+    "partNumber": "CBFG-CKV",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "55T17KT-4.5-1000;55T17CKT-4.5-1000",
+    "catalogLink": "https://vonberg.com/products/view/105;https://vonberg.com/products/view/128"
+  },
+  {
+    "partNumber": "CBFG-CCV",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "55T17LKT-4.5-3000;55T17LCKT-4.5-3000",
+    "catalogLink": "https://vonberg.com/products/view/105;https://vonberg.com/products/view/128"
+  },
+  {
+    "partNumber": "CBFG-CDV",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "55T17LKT-4.5-1000;55T17LCKT-4.5-1000",
+    "catalogLink": "https://vonberg.com/products/view/105;https://vonberg.com/products/view/128"
+  },
+  {
+    "partNumber": "CACA-LHN",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "56T11-3-3000;56T11C-3-3000",
+    "catalogLink": "https://vonberg.com/products/view/106;https://vonberg.com/products/view/129"
+  },
+  {
+    "partNumber": "CACA-LIN",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "56T11-3-1000;56T11C-3-1000",
+    "catalogLink": "https://vonberg.com/products/view/106;https://vonberg.com/products/view/129"
+  },
+  {
+    "partNumber": "CACG-LHN",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "56T11-5-3000;56T11C-5-3000",
+    "catalogLink": "https://vonberg.com/products/view/106;https://vonberg.com/products/view/129"
+  },
+  {
+    "partNumber": "CACG-LIN",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "56T11-5-1000;56T11C-5-1000",
+    "catalogLink": "https://vonberg.com/products/view/106;https://vonberg.com/products/view/129"
+  },
+  {
+    "partNumber": "CACG-LFN",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "56T11-5-2000;56T11C-5-2000",
+    "catalogLink": "https://vonberg.com/products/view/106;https://vonberg.com/products/view/129"
+  },
+  {
+    "partNumber": "CACG-LGN",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "56T11-5-4000;56T11C-5-4000",
+    "catalogLink": "https://vonberg.com/products/view/106;https://vonberg.com/products/view/129"
+  },
+  {
+    "partNumber": "CACK-LHN",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "56T11-1-3000;56T11C-1-3000",
+    "catalogLink": "https://vonberg.com/products/view/106;https://vonberg.com/products/view/129"
+  },
+  {
+    "partNumber": "CACK-LIN",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "56T11-1-1000;56T11C-1-1000",
+    "catalogLink": "https://vonberg.com/products/view/106;https://vonberg.com/products/view/129"
+  },
+  {
+    "partNumber": "CACL-LHN",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "56T11-2-3000;56T11C-2-3000",
+    "catalogLink": "https://vonberg.com/products/view/106;https://vonberg.com/products/view/129"
+  },
+  {
+    "partNumber": "CACL-LIN",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "56T11-2-1000;56T11C-2-1000",
+    "catalogLink": "https://vonberg.com/products/view/106;https://vonberg.com/products/view/129"
+  },
+  {
+    "partNumber": "CACL-LFN",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "56T11-2-2000;56T11C-2-2000",
+    "catalogLink": "https://vonberg.com/products/view/106;https://vonberg.com/products/view/129"
+  },
+  {
+    "partNumber": "CACL-LGN",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "56T11-2-4000;56T11C-2-4000",
+    "catalogLink": "https://vonberg.com/products/view/106;https://vonberg.com/products/view/129"
+  },
+  {
+    "partNumber": "CACA-LHV",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "56T11K-3-3000;56T11CK-3-3000",
+    "catalogLink": "https://vonberg.com/products/view/106;https://vonberg.com/products/view/129"
+  },
+  {
+    "partNumber": "CACA-LIV",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "56T11K-3-1000;56T11CK-3-1000",
+    "catalogLink": "https://vonberg.com/products/view/106;https://vonberg.com/products/view/129"
+  },
+  {
+    "partNumber": "CACG-LHV",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "56T11K-5-3000;56T11CK-5-3000",
+    "catalogLink": "https://vonberg.com/products/view/106;https://vonberg.com/products/view/129"
+  },
+  {
+    "partNumber": "CACG-LIV",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "56T11K-5-1000;56T11CK-5-1000",
+    "catalogLink": "https://vonberg.com/products/view/106;https://vonberg.com/products/view/129"
+  },
+  {
+    "partNumber": "CACG-LFV",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "56T11K-5-2000;56T11CK-5-2000",
+    "catalogLink": "https://vonberg.com/products/view/106;https://vonberg.com/products/view/129"
+  },
+  {
+    "partNumber": "CACG-LGV",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "56T11K-5-4000;56T11CK-5-4000",
+    "catalogLink": "https://vonberg.com/products/view/106;https://vonberg.com/products/view/129"
+  },
+  {
+    "partNumber": "CACK-LHV",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "56T11K-1-3000;56T11CK-1-3000",
+    "catalogLink": "https://vonberg.com/products/view/106;https://vonberg.com/products/view/129"
+  },
+  {
+    "partNumber": "CACK-LIV",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "56T11K-1-1000;56T11CK-1-1000",
+    "catalogLink": "https://vonberg.com/products/view/106;https://vonberg.com/products/view/129"
+  },
+  {
+    "partNumber": "CACL-LHV",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "56T11K-2-3000;56T11CK-2-3000",
+    "catalogLink": "https://vonberg.com/products/view/106;https://vonberg.com/products/view/129"
+  },
+  {
+    "partNumber": "CACL-LIV",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "56T11K-2-1000;56T11CK-2-1000",
+    "catalogLink": "https://vonberg.com/products/view/106;https://vonberg.com/products/view/129"
+  },
+  {
+    "partNumber": "CACL-LFV",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "56T11K-2-2000;56T11CK-2-2000",
+    "catalogLink": "https://vonberg.com/products/view/106;https://vonberg.com/products/view/129"
+  },
+  {
+    "partNumber": "CACL-LGV",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "56T11K-2-4000;56T11CK-2-4000",
+    "catalogLink": "https://vonberg.com/products/view/106;https://vonberg.com/products/view/129"
+  },
+  {
+    "partNumber": "CAEA-LHN",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "56T2-3-3000",
+    "catalogLink": "https://vonberg.com/products/view/106"
+  },
+  {
+    "partNumber": "CAEA-LIN",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "56T2-3-1000",
+    "catalogLink": "https://vonberg.com/products/view/106"
+  },
+  {
+    "partNumber": "CAEG-LHN",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "56T2-5-3000",
+    "catalogLink": "https://vonberg.com/products/view/106"
+  },
+  {
+    "partNumber": "CAEG-LIN",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "56T2-5-1000",
+    "catalogLink": "https://vonberg.com/products/view/106"
+  },
+  {
+    "partNumber": "CAEG-LFN",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "56T2-5-2000",
+    "catalogLink": "https://vonberg.com/products/view/106"
+  },
+  {
+    "partNumber": "CAEG-LGN",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "56T2-5-4000",
+    "catalogLink": "https://vonberg.com/products/view/106"
+  },
+  {
+    "partNumber": "CAEK-LHN",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "56T2-1-3000",
+    "catalogLink": "https://vonberg.com/products/view/106"
+  },
+  {
+    "partNumber": "CAEK-LIN",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "56T2-1-1000",
+    "catalogLink": "https://vonberg.com/products/view/106"
+  },
+  {
+    "partNumber": "CAEL-LHN",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "56T2-2-3000",
+    "catalogLink": "https://vonberg.com/products/view/106"
+  },
+  {
+    "partNumber": "CAEL-LIN",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "56T2-2-1000",
+    "catalogLink": "https://vonberg.com/products/view/106"
+  },
+  {
+    "partNumber": "CAEL-LFN",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "56T2-2-2000",
+    "catalogLink": "https://vonberg.com/products/view/106"
+  },
+  {
+    "partNumber": "CAEL-LGN",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "56T2-2-4000",
+    "catalogLink": "https://vonberg.com/products/view/106"
+  },
+  {
+    "partNumber": "CAEA-LHV",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "56T2K-3-3000",
+    "catalogLink": "https://vonberg.com/products/view/106"
+  },
+  {
+    "partNumber": "CAEA-LIV",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "56T2K-3-1000",
+    "catalogLink": "https://vonberg.com/products/view/106"
+  },
+  {
+    "partNumber": "CAEG-LHV",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "56T2K-5-3000",
+    "catalogLink": "https://vonberg.com/products/view/106"
+  },
+  {
+    "partNumber": "CAEG-LIV",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "56T2K-5-1000",
+    "catalogLink": "https://vonberg.com/products/view/106"
+  },
+  {
+    "partNumber": "CAEG-LFV",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "56T2K-5-2000",
+    "catalogLink": "https://vonberg.com/products/view/106"
+  },
+  {
+    "partNumber": "CAEG-LGV",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "56T2K-5-4000",
+    "catalogLink": "https://vonberg.com/products/view/106"
+  },
+  {
+    "partNumber": "CAEK-LHV",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "56T2K-1-3000",
+    "catalogLink": "https://vonberg.com/products/view/106"
+  },
+  {
+    "partNumber": "CAEK-LIV",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "56T2K-1-1000",
+    "catalogLink": "https://vonberg.com/products/view/106"
+  },
+  {
+    "partNumber": "CAEL-LHV",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "56T2K-2-3000",
+    "catalogLink": "https://vonberg.com/products/view/106"
+  },
+  {
+    "partNumber": "CAEL-LIV",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "56T2K-2-1000",
+    "catalogLink": "https://vonberg.com/products/view/106"
+  },
+  {
+    "partNumber": "CAEL-LFV",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "56T2K-2-2000",
+    "catalogLink": "https://vonberg.com/products/view/106"
+  },
+  {
+    "partNumber": "CAEL-LGV",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "56T2K-2-4000",
+    "catalogLink": "https://vonberg.com/products/view/106"
+  },
+  {
+    "partNumber": "CAGA-LHN",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "56T17-3-3000",
+    "catalogLink": "https://vonberg.com/products/view/106"
+  },
+  {
+    "partNumber": "CAGA-LIN",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "56T17-3-1000",
+    "catalogLink": "https://vonberg.com/products/view/106"
+  },
+  {
+    "partNumber": "CAGG-LHN",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "56T17-5-3000",
+    "catalogLink": "https://vonberg.com/products/view/106"
+  },
+  {
+    "partNumber": "CAGG-LIN",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "56T17-5-1000",
+    "catalogLink": "https://vonberg.com/products/view/106"
+  },
+  {
+    "partNumber": "CAGG-LFN",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "56T17-5-2000",
+    "catalogLink": "https://vonberg.com/products/view/106"
+  },
+  {
+    "partNumber": "CAGG-LGN",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "56T17-5-4000",
+    "catalogLink": "https://vonberg.com/products/view/106"
+  },
+  {
+    "partNumber": "CAGK-LHN",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "56T17-1-3000",
+    "catalogLink": "https://vonberg.com/products/view/106"
+  },
+  {
+    "partNumber": "CAGK-LIN",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "56T17-1-1000",
+    "catalogLink": "https://vonberg.com/products/view/106"
+  },
+  {
+    "partNumber": "CAGL-LHN",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "56T17-2-3000",
+    "catalogLink": "https://vonberg.com/products/view/106"
+  },
+  {
+    "partNumber": "CAGL-LIN",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "56T17-2-1000",
+    "catalogLink": "https://vonberg.com/products/view/106"
+  },
+  {
+    "partNumber": "CAGL-LFN",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "56T17-2-2000",
+    "catalogLink": "https://vonberg.com/products/view/106"
+  },
+  {
+    "partNumber": "CAGL-LGN",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "56T17-2-4000",
+    "catalogLink": "https://vonberg.com/products/view/106"
+  },
+  {
+    "partNumber": "CAGA-LHV",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "56T17K-3-3000",
+    "catalogLink": "https://vonberg.com/products/view/106"
+  },
+  {
+    "partNumber": "CAGA-LIV",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "56T17K-3-1000",
+    "catalogLink": "https://vonberg.com/products/view/106"
+  },
+  {
+    "partNumber": "CAGG-LHV",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "56T17K-5-3000",
+    "catalogLink": "https://vonberg.com/products/view/106"
+  },
+  {
+    "partNumber": "CAGG-LIV",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "56T17K-5-1000",
+    "catalogLink": "https://vonberg.com/products/view/106"
+  },
+  {
+    "partNumber": "CAGG-LFV",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "56T17K-5-2000",
+    "catalogLink": "https://vonberg.com/products/view/106"
+  },
+  {
+    "partNumber": "CAGG-LGV",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "56T17K-5-4000",
+    "catalogLink": "https://vonberg.com/products/view/106"
+  },
+  {
+    "partNumber": "CAGK-LHV",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "56T17K-1-3000",
+    "catalogLink": "https://vonberg.com/products/view/106"
+  },
+  {
+    "partNumber": "CAGK-LIV",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "56T17K-1-1000",
+    "catalogLink": "https://vonberg.com/products/view/106"
+  },
+  {
+    "partNumber": "CAGL-LHV",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "56T17K-2-3000",
+    "catalogLink": "https://vonberg.com/products/view/106"
+  },
+  {
+    "partNumber": "CAGL-LIV",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "56T17K-2-1000",
+    "catalogLink": "https://vonberg.com/products/view/106"
+  },
+  {
+    "partNumber": "CAGL-LFV",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "56T17K-2-2000",
+    "catalogLink": "https://vonberg.com/products/view/106"
+  },
+  {
+    "partNumber": "CAGL-LGV",
+    "manufacturer": "Sun",
+    "alternativePartNumber": "56T17K-2-4000",
+    "catalogLink": "https://vonberg.com/products/view/106"
+  }
+ ]
